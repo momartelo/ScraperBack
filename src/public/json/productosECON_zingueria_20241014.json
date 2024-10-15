@@ -1,0 +1,642 @@
+[
+  {
+    "nombre": "Ab-abrazadera para tubo beige",
+    "precio": "713"
+  },
+  {
+    "nombre": "Ab-abrazadera para tubo blanca",
+    "precio": "1.342"
+  },
+  {
+    "nombre": "Ab-abrazadera para tubo style",
+    "precio": "1.342"
+  },
+  {
+    "nombre": "Ab-acople para tubo beige",
+    "precio": "722"
+  },
+  {
+    "nombre": "Ab-acople para tubo blanco",
+    "precio": "1.218"
+  },
+  {
+    "nombre": "Ab-acople para tubo style",
+    "precio": "1.382"
+  },
+  {
+    "nombre": "Ab-canaleta 3 mts. beige",
+    "precio": "13.720"
+  },
+  {
+    "nombre": "Ab-canaleta 3 mts. blanca",
+    "precio": "20.253"
+  },
+  {
+    "nombre": "Ab-canaleta 3 mts. style",
+    "precio": "27.017"
+  },
+  {
+    "nombre": "Ab-codo 90 transicion bajante a 110mm be - aquapluv",
+    "precio": "2.595"
+  },
+  {
+    "nombre": "Ab-codo 90 transicion bajante a 110mm bl - aquapluv",
+    "precio": "2.595"
+  },
+  {
+    "nombre": "Ab-codo 90 transicion bajante a 110mm – aq style",
+    "precio": "4.730"
+  },
+  {
+    "nombre": "Ab-codo a 60º beige",
+    "precio": "1.972"
+  },
+  {
+    "nombre": "Ab-codo a 60º blanco",
+    "precio": "1.954"
+  },
+  {
+    "nombre": "Ab-codo a 90º beige",
+    "precio": "2.471"
+  },
+  {
+    "nombre": "Ab-codo a 90º blanco",
+    "precio": "2.687"
+  },
+  {
+    "nombre": "Ab-embudo beige",
+    "precio": "4.479"
+  },
+  {
+    "nombre": "Ab-embudo blanco",
+    "precio": "4.479"
+  },
+  {
+    "nombre": "Ab-embudo derecho beige-  aquapluv",
+    "precio": "3.730"
+  },
+  {
+    "nombre": "Ab-embudo derecho blanco -  aquapluv",
+    "precio": "5.890"
+  },
+  {
+    "nombre": "Ab-embudo derecho style",
+    "precio": "4.886"
+  },
+  {
+    "nombre": "Ab-embudo izquierdo beige -  aquapluv",
+    "precio": "4.031"
+  },
+  {
+    "nombre": "Ab-embudo izquierdo blanco -  aquapluv",
+    "precio": "5.904"
+  },
+  {
+    "nombre": "Ab-embudo izquierdo style",
+    "precio": "4.845"
+  },
+  {
+    "nombre": "Ab-embudo style",
+    "precio": "6.357"
+  },
+  {
+    "nombre": "Ab-esquinero externo beige",
+    "precio": "5.460"
+  },
+  {
+    "nombre": "Ab-esquinero externo blanco",
+    "precio": "5.111"
+  },
+  {
+    "nombre": "Ab-esquinero externo style",
+    "precio": "6.028"
+  },
+  {
+    "nombre": "Ab-esquinero interno beige",
+    "precio": "5.083"
+  },
+  {
+    "nombre": "Ab-esquinero interno blanco",
+    "precio": "6.764"
+  },
+  {
+    "nombre": "Ab-esquinero interno style",
+    "precio": "8.147"
+  },
+  {
+    "nombre": "Ab-ramal a 60º beige",
+    "precio": "2.962"
+  },
+  {
+    "nombre": "Ab-ramal a 60º blanco",
+    "precio": "2.962"
+  },
+  {
+    "nombre": "Ab-rejilla trampa de hojas",
+    "precio": "1.503"
+  },
+  {
+    "nombre": "Ab-sello de goma",
+    "precio": "196"
+  },
+  {
+    "nombre": "Ab-sello de goma style",
+    "precio": "715"
+  },
+  {
+    "nombre": "Ab-soporte beige (para cenefa) br",
+    "precio": "1.243"
+  },
+  {
+    "nombre": "Ab-soporte blanco (para cenefa) br",
+    "precio": "1.165"
+  },
+  {
+    "nombre": "Ab-soporte invisible pvc beige -  aquapluv",
+    "precio": "1.367"
+  },
+  {
+    "nombre": "Ab-soporte invisible pvc blanco -  aquapluv",
+    "precio": "1.367"
+  },
+  {
+    "nombre": "Ab-soporte style (para cenefa)",
+    "precio": "1.099"
+  },
+  {
+    "nombre": "Ab-soporte zincado metalico",
+    "precio": "5.662"
+  },
+  {
+    "nombre": "Ab-soporte zincado metalico curvo",
+    "precio": "5.993"
+  },
+  {
+    "nombre": "Ab-soporte zincado style (p/ cabio)",
+    "precio": "6.314"
+  },
+  {
+    "nombre": "Ab-tapa derecha beige",
+    "precio": "1.154"
+  },
+  {
+    "nombre": "Ab-tapa derecha blanca",
+    "precio": "1.301"
+  },
+  {
+    "nombre": "Ab-tapa derecha style",
+    "precio": "2.441"
+  },
+  {
+    "nombre": "Ab-tapa izquierda beige",
+    "precio": "1.154"
+  },
+  {
+    "nombre": "Ab-tapa izquierda blanca",
+    "precio": "1.342"
+  },
+  {
+    "nombre": "Ab-tapa izquierda style",
+    "precio": "2.441"
+  },
+  {
+    "nombre": "Ab-tubo de bajada de pvc 3 m beige",
+    "precio": "13.377"
+  },
+  {
+    "nombre": "Ab-tubo de bajada de pvc 3m blanco",
+    "precio": "22.616"
+  },
+  {
+    "nombre": "Ab-union de canaleta beige",
+    "precio": "3.126"
+  },
+  {
+    "nombre": "Ab-union de canaleta blanca",
+    "precio": "3.020"
+  },
+  {
+    "nombre": "Ab-union de canaleta style",
+    "precio": "4.072"
+  },
+  {
+    "nombre": "Abrazadera rectangular clasica",
+    "precio": "96"
+  },
+  {
+    "nombre": "Adapt bajante a caño de 110 mm",
+    "precio": "8.885"
+  },
+  {
+    "nombre": "Adapt bajante a caño de 63 mm",
+    "precio": "7.606"
+  },
+  {
+    "nombre": "Canaleta pvc amazona x 3 mts.",
+    "precio": "28.771"
+  },
+  {
+    "nombre": "Canaleta pvc raingo x 3 mts",
+    "precio": "21.682"
+  },
+  {
+    "nombre": "Caño bajante pvc amaz x 3 mts",
+    "precio": "23.638"
+  },
+  {
+    "nombre": "Caño descarga rectang.cla x 3m",
+    "precio": "1.253"
+  },
+  {
+    "nombre": "Codo bajante 45 pvc amazona",
+    "precio": "2.837"
+  },
+  {
+    "nombre": "Codo bajante 90 pvc amazona",
+    "precio": "3.386"
+  },
+  {
+    "nombre": "Codo rectangular 90º clasica",
+    "precio": "137"
+  },
+  {
+    "nombre": "Cpiso-canaleta piso alto caudal 130x148 mm 2.5 m",
+    "precio": "17.758"
+  },
+  {
+    "nombre": "Cpiso-canaleta piso alto caudal 200x148 mm 2.5 m",
+    "precio": "28.087"
+  },
+  {
+    "nombre": "Cpiso-canaleta piso bajo caudal 130x75 mm 0.5 m",
+    "precio": "8.625"
+  },
+  {
+    "nombre": "Cpiso-embudo alto caudal 130 x 63 mm",
+    "precio": "9.227"
+  },
+  {
+    "nombre": "Cpiso-embudo alto caudal 200 x 110 mm",
+    "precio": "15.402"
+  },
+  {
+    "nombre": "Cpiso-embudo lateral alto caudal 130 x 110 mm",
+    "precio": "11.850"
+  },
+  {
+    "nombre": "Cpiso-embudo lateral alto caudal 200 x 110 mm",
+    "precio": "15.402"
+  },
+  {
+    "nombre": "Cpiso-embudo lateral bajo caudal 130 x 63x40 mm",
+    "precio": "4.527"
+  },
+  {
+    "nombre": "Cpiso-esquinero 45  hh alto caudal 130 mm",
+    "precio": "10.376"
+  },
+  {
+    "nombre": "Cpiso-esquinero 45  hh alto caudal 200 mm",
+    "precio": "14.853"
+  },
+  {
+    "nombre": "Cpiso-esquinero 45  mh bajo caudal 130 mm",
+    "precio": "14.320"
+  },
+  {
+    "nombre": "Cpiso-esquinero 90  hh alto caudal 130 mm",
+    "precio": "9.431"
+  },
+  {
+    "nombre": "Cpiso-esquinero 90  hh alto caudal 200 mm",
+    "precio": "18.254"
+  },
+  {
+    "nombre": "Cpiso-esquinero 90  mh bajo caudal 130 mm",
+    "precio": "14.529"
+  },
+  {
+    "nombre": "Cpiso-rejilla artic bl 130 0.5m peatonal",
+    "precio": "9.221"
+  },
+  {
+    "nombre": "Cpiso-rejilla artic bl 200 0.5m peatonal",
+    "precio": "13.915"
+  },
+  {
+    "nombre": "Cpiso-rejilla beige 200 0.5m peatonal",
+    "precio": "18.102"
+  },
+  {
+    "nombre": "Cpiso-rejilla blanca 200 0.5m peatonal",
+    "precio": "18.102"
+  },
+  {
+    "nombre": "Cpiso-rejilla gris 200 0.5m veh 1.5tn",
+    "precio": "21.860"
+  },
+  {
+    "nombre": "Cpiso-rejilla gris 200 0.5m veh 3tn",
+    "precio": "25.291"
+  },
+  {
+    "nombre": "Cpiso-tapa beige 200 0.5m veh 3tn",
+    "precio": "33.663"
+  },
+  {
+    "nombre": "Cpiso-tapa bl 200 0.5m veh  3tn",
+    "precio": "33.663"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega alto caudal 130 x 110 mm",
+    "precio": "2.434"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega alto caudal 200 x 110 mm",
+    "precio": "3.367"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega bajo caudal 130 x 40 mm",
+    "precio": "1.544"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega beige 130 0.5m peatonal",
+    "precio": "12.159"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega blanca 130 0.5m peatonal",
+    "precio": "12.159"
+  },
+  {
+    "nombre": "Cpiso-tapa ciega gris 130 0.5m peatonal",
+    "precio": "12.159"
+  },
+  {
+    "nombre": "Cpiso-tapa gris 200 0.5m veh 3tn",
+    "precio": "33.663"
+  },
+  {
+    "nombre": "Cpiso-te alto caudal 130 mm",
+    "precio": "12.465"
+  },
+  {
+    "nombre": "Cpiso-te alto caudal 200 mm",
+    "precio": "21.428"
+  },
+  {
+    "nombre": "Cpiso-union canaleta alto caudal 130 mm",
+    "precio": "1.885"
+  },
+  {
+    "nombre": "Cpiso-union canaleta alto caudal 200 mm",
+    "precio": "2.034"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 50cm pvc bl",
+    "precio": "7.586"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 50cm pvc gr",
+    "precio": "7.282"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 70cm pvc bl",
+    "precio": "9.770"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 70cm pvc gr",
+    "precio": "9.406"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 90cm pvc bl",
+    "precio": "12.806"
+  },
+  {
+    "nombre": "Cuerpo des. lineal 90cm pvc gr",
+    "precio": "10.802"
+  },
+  {
+    "nombre": "Des. lineal sif x 50 cm a inox",
+    "precio": "33.190"
+  },
+  {
+    "nombre": "Des. lineal sif x 50 cm pvc bl",
+    "precio": "9.770"
+  },
+  {
+    "nombre": "Des. lineal sif x 70 cm a inox",
+    "precio": "38.772"
+  },
+  {
+    "nombre": "Des. lineal sif x 70 cm pvc bl",
+    "precio": "12.502"
+  },
+  {
+    "nombre": "Des. lineal sif x 90 cm a inox",
+    "precio": "45.425"
+  },
+  {
+    "nombre": "Des. lineal sif x 90 cm pvc bl",
+    "precio": "13.594"
+  },
+  {
+    "nombre": "Emb p/ canaleta pvc raingo",
+    "precio": "7.104"
+  },
+  {
+    "nombre": "Embudo p/ canaleta pvc amazona",
+    "precio": "7.846"
+  },
+  {
+    "nombre": "Par de tapas p/canalet.clasica",
+    "precio": "156"
+  },
+  {
+    "nombre": "Perfil ext. 250 cm pvc blanco",
+    "precio": "22.394"
+  },
+  {
+    "nombre": "Perfil ext. 250 cm pvc gris",
+    "precio": "22.759"
+  },
+  {
+    "nombre": "Rejilla 35cm pe blanco",
+    "precio": "1.637"
+  },
+  {
+    "nombre": "Rejilla 45cm pe blanco",
+    "precio": "1.699"
+  },
+  {
+    "nombre": "Rejilla 50cm a. inox. cromo",
+    "precio": "20.270"
+  },
+  {
+    "nombre": "Rejilla 50cm pe blanco",
+    "precio": "2.791"
+  },
+  {
+    "nombre": "Rejilla 70cm a. inox. cromo",
+    "precio": "23.707"
+  },
+  {
+    "nombre": "Rejilla 90cm a. inox. cromo",
+    "precio": "27.871"
+  },
+  {
+    "nombre": "Rl--rejilla lineal 70 cm rejilla inox",
+    "precio": "28.074"
+  },
+  {
+    "nombre": "Rl-rejilla lineal 50 cm rejilla blanca",
+    "precio": "8.420"
+  },
+  {
+    "nombre": "Rl-rejilla lineal 50 cm rejilla inox",
+    "precio": "22.460"
+  },
+  {
+    "nombre": "Rl-rejilla lineal 70 cm rejilla blanca",
+    "precio": "10.528"
+  },
+  {
+    "nombre": "Rl-rejilla lineal 90 cm rejilla blanca",
+    "precio": "11.719"
+  },
+  {
+    "nombre": "Rl-rejilla lineal 90 cm rejilla inox",
+    "precio": "31.196"
+  },
+  {
+    "nombre": "Sopor p/ canaleta pvc raingo",
+    "precio": "1.970"
+  },
+  {
+    "nombre": "Sopor. meta. / canaleta ama zo",
+    "precio": "6.718"
+  },
+  {
+    "nombre": "Soport de bajante pvc amazona",
+    "precio": "1.133"
+  },
+  {
+    "nombre": "Soporte de canaleta ext amazon",
+    "precio": "1.186"
+  },
+  {
+    "nombre": "Soporte oculto p/canaleta clas",
+    "precio": "91"
+  },
+  {
+    "nombre": "Sty-codo a 60º style",
+    "precio": "1.749"
+  },
+  {
+    "nombre": "Sty-codo a 90º style",
+    "precio": "1.991"
+  },
+  {
+    "nombre": "Sty-tubo pvc bajada style x 3 mts",
+    "precio": "24.532"
+  },
+  {
+    "nombre": "Tapa des. lineal pvc blanca",
+    "precio": "787"
+  },
+  {
+    "nombre": "Tapa des. lineal pvc gris",
+    "precio": "682"
+  },
+  {
+    "nombre": "Tapa ext canaleta pvc raingo",
+    "precio": "1.834"
+  },
+  {
+    "nombre": "Tapa externa der pvc amazona",
+    "precio": "3.050"
+  },
+  {
+    "nombre": "Tapa externa izq pvc amazona",
+    "precio": "3.058"
+  },
+  {
+    "nombre": "Tapa int canaleta pvc raingo",
+    "precio": "991"
+  },
+  {
+    "nombre": "Tapa interna der pvc amazona",
+    "precio": "1.663"
+  },
+  {
+    "nombre": "Tapa interna izq pvc amazona",
+    "precio": "1.663"
+  },
+  {
+    "nombre": "Term. salida 40 mm dl blanco",
+    "precio": "1.709"
+  },
+  {
+    "nombre": "Term. salida 40 mm dl gris",
+    "precio": "1.651"
+  },
+  {
+    "nombre": "Term. salida sif 40 mm dl bla",
+    "precio": "2.393"
+  },
+  {
+    "nombre": "Term. salida sif 40 mm dl gris",
+    "precio": "3.132"
+  },
+  {
+    "nombre": "Union de bajante pvc amazona",
+    "precio": "1.865"
+  },
+  {
+    "nombre": "Union de esq. externa pvc amaz",
+    "precio": "7.990"
+  },
+  {
+    "nombre": "Union de esq. interna pvc amaz",
+    "precio": "8.582"
+  },
+  {
+    "nombre": "Union des. lineal pvc blanco",
+    "precio": "739"
+  },
+  {
+    "nombre": "Union des. lineal pvc gris",
+    "precio": "1.025"
+  },
+  {
+    "nombre": "Union esquina pvc raingo",
+    "precio": "8.057"
+  },
+  {
+    "nombre": "Union p/ canaleta pvc amazona",
+    "precio": "5.642"
+  },
+  {
+    "nombre": "Union p/ canaleta pvc raingo",
+    "precio": "4.980"
+  },
+  {
+    "nombre": "Union p/canaletas clasica",
+    "precio": "91"
+  },
+  {
+    "nombre": "Union salida 40 mm dl blanco",
+    "precio": "1.253"
+  },
+  {
+    "nombre": "Union salida 40 mm dl gris",
+    "precio": "1.423"
+  },
+  {
+    "nombre": "Union salida sif 40 mm dl bla",
+    "precio": "2.450"
+  },
+  {
+    "nombre": "Union salida sif 40 mm dl gris",
+    "precio": "2.906"
+  }
+]
