@@ -1,10 +1,10 @@
 import fs from "fs";
 import path from "path";
-import { scrapeAllPages } from "../functions/scraper.js";
+import { scrapeAllPages } from "../functions/scraperECON.js";
 
 const __dirname = path.resolve(); // Obtener el directorio actual
 
-export const ctrlScraping = async (req, res) => {
+export const ctrlScrapingECON = async (req, res) => {
   const { category } = req.params; // Obtener la categoría del parámetro
   const today = new Date();
   const year = today.getFullYear();

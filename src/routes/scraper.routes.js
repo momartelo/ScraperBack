@@ -1,8 +1,8 @@
 import { Router } from "express";
-import { ctrlScraping } from "../controllers/scrapersControllers.js";
+import { ctrlScrapingECON } from "../controllers/scrapersControllers.js";
 
 const scraperRouter = Router();
 
-scraperRouter.get("/:category", ctrlScraping);
+scraperRouter.get("/:category", ctrlScrapingECON);
 
 export { scraperRouter };

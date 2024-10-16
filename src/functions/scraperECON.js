@@ -27,7 +27,7 @@ const urls = {
   sanitarios_y_griferias: "https://econ.ar/productos/sanitarios-y-griferias/",
   techos: "https://econ.ar/productos/techos",
   vidrios: "https://econ.ar/productos/vidrios/",
-  teseria: "https://econ.ar/productos/yeseria/",
+  yeseria: "https://econ.ar/productos/yeseria/",
   zingueria: "https://econ.ar/productos/zingueria/",
 };
 
