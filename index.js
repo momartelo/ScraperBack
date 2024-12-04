@@ -6,6 +6,7 @@ import { fileURLToPath } from "url";
 import path from "path";
 import { config } from "./src/settings/config.js";
 import { scraperRouter } from "./src/routes/scraper.routes.js";
+import { graphicsRouter } from "./src/routes/graphics.routes.js";
 
 const app = express();
 
@@ -36,6 +37,7 @@ app.use(express.static(publicPath));
 console.log("Directorio público:", publicPath);
 
 app.use("/api/scraper", scraperRouter); // Router para el scraping
+app.use("/api/graphics", graphicsRouter);
 
 app.listen(config.port, () => {
   console.log("Server is running on port: http://localhost:" + config.port);

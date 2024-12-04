@@ -103,7 +103,7 @@ const obtenerDatosImepho = async (page) => {
   return items;
 };
 
-const scrapePages = async (urls) => {
+export const scrapeCemento = async () => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   try {
@@ -150,7 +150,7 @@ const scrapePages = async (urls) => {
     const day = String(today.getDate()).padStart(2, "0");
     const formattedDate = `${year}${month}${day}`;
     const fileName = `precioCemento${formattedDate}.json`;
-    const jsonDirectory = path.join(__dirname, "src/public/json");
+    const jsonDirectory = path.join(__dirname, "../public/json");
 
     if (!fs.existsSync(jsonDirectory)) {
       fs.mkdirSync(jsonDirectory, { recursive: true });
@@ -161,6 +161,11 @@ const scrapePages = async (urls) => {
       JSON.stringify(cementos, null, 2)
     );
     console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
+    return {
+      message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
+      fileName: fileName,
+      productos: cementos,
+    };
   } catch (error) {
     console.error(`Error al acceder a la información:`, error);
     return false;
@@ -169,11 +174,11 @@ const scrapePages = async (urls) => {
   }
 };
 
-(async () => {
-  try {
-    console.log("Iniciando el scraping...");
-    await scrapePages(urls);
-  } catch (error) {
-    console.error("Error al invocar la función:", error);
-  }
-})();
+// (async () => {
+//   try {
+//     console.log("Iniciando el scraping...");
+//     await scrapePages(urls);
+//   } catch (error) {
+//     console.error("Error al invocar la función:", error);
+//   }
+// })();

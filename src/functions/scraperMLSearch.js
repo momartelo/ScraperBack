@@ -1,6 +1,8 @@
 import * as cheerio from "cheerio";
 import axios from "axios";
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const getProductsSearch = (word, start) => {
   return `https://listado.mercadolibre.com.ar/${word}_Desde_${start}_NoIndex_True`;
@@ -9,7 +11,10 @@ const getProductsSearch = (word, start) => {
 const allItems = [];
 let currentPage = 1;
 
-const scrapeData = async (word) => {
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+export const scrapeData = async (word) => {
   let start = 1; // Controla el offset de las páginas
 
   while (true) {
@@ -84,13 +89,37 @@ const scrapeData = async (word) => {
     }
   }
 
-  const today = new Date();
-  const formattedDate = today.toISOString().slice(0, 10).replace(/-/g, "");
+  // const today = new Date();
+  // const formattedDate = today.toISOString().slice(0, 10).replace(/-/g, "");
+  // const fileName = `productosSearchML_${word}_${formattedDate}.json`;
+
+  const today = new Date(); // Obtener la fecha y hora locales
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, "0"); // Los meses en JavaScript son base 0
+  const day = String(today.getDate()).padStart(2, "0");
+
+  const formattedDate = `${year}${month}${day}`; // Formato YYYYMMDD
   const fileName = `productosSearchML_${word}_${formattedDate}.json`;
 
-  fs.writeFileSync(fileName, JSON.stringify(allItems, null, 2));
-  console.log(`Datos guardados en ${fileName}`);
-};
+  const jsonDirectory = path.join(__dirname, "../public/json");
 
-// Llama a la función de scraping con la palabra de búsqueda
-scrapeData("descarne");
+  if (!fs.existsSync(jsonDirectory)) {
+    fs.mkdirSync(jsonDirectory, { recursive: true });
+  }
+
+  fs.writeFileSync(
+    path.join(jsonDirectory, fileName),
+    JSON.stringify(allItems, null, 2)
+  );
+
+  console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
+
+  // fs.writeFileSync(fileName, JSON.stringify(allItems, null, 2));
+  // console.log(`Datos guardados en ${fileName}`);
+  return {
+    message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
+    // message: `Datos guardados en ${fileName}`,
+    fileName: fileName,
+    productos: allItems,
+  };
+};

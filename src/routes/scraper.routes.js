@@ -1,8 +1,16 @@
 import { Router } from "express";
-import { ctrlScrapingECON } from "../controllers/scrapersControllers.js";
+import {
+  ctrlScrapingCemento,
+  ctrlScrapingECON,
+  ctrlScrapingHormigon,
+  ctrlScrapingMLSearch,
+} from "../controllers/scrapersControllers.js";
 
 const scraperRouter = Router();
 
-scraperRouter.get("/:category", ctrlScrapingECON);
+scraperRouter.get("/ECON/:category", ctrlScrapingECON);
+scraperRouter.get("/ML/:word", ctrlScrapingMLSearch);
+scraperRouter.get("/cementos", ctrlScrapingCemento);
+scraperRouter.get("/hormigon", ctrlScrapingHormigon);
 
 export { scraperRouter };

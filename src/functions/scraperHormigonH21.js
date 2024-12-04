@@ -13,7 +13,9 @@ const urls = {
 
 const hormigones = [];
 const __filename = fileURLToPath(import.meta.url);
+console.log(__filename);
 const __dirname = path.dirname(__filename);
+console.log(__dirname);
 
 const obtenerDatosItar = async (page) => {
   const items = await page.$$eval(".product-summary", (elements) =>
@@ -97,7 +99,7 @@ const obtenerDatosPromat = async (page) => {
   return items;
 };
 
-const scrapePages = async (urls) => {
+export const scrapeHormigon = async () => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   try {
@@ -140,7 +142,7 @@ const scrapePages = async (urls) => {
     const day = String(today.getDate()).padStart(2, "0");
     const formattedDate = `${year}${month}${day}`;
     const fileName = `precioHormigones${formattedDate}.json`;
-    const jsonDirectory = path.join(__dirname, "src/public/json");
+    const jsonDirectory = path.join(__dirname, "../public/json");
 
     if (!fs.existsSync(jsonDirectory)) {
       fs.mkdirSync(jsonDirectory, { recursive: true });
@@ -150,8 +152,12 @@ const scrapePages = async (urls) => {
       path.join(jsonDirectory, fileName),
       JSON.stringify(hormigones, null, 2)
     );
-
     console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
+    return {
+      message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
+      fileName: fileName,
+      productos: hormigones,
+    };
   } catch (error) {
     console.error(`Error al acceder a la información:`, error);
     return false;
@@ -159,12 +165,3 @@ const scrapePages = async (urls) => {
     await browser.close();
   }
 };
-
-(async () => {
-  try {
-    console.log("Iniciando el scraping...");
-    await scrapePages(urls);
-  } catch (error) {
-    console.error("Error al invocar la función:", error);
-  }
-})();
