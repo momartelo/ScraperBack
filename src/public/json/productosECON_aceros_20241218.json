@@ -1,0 +1,4666 @@
+[
+  {
+    "nombre": "Adn 4 mm",
+    "precio": "2.593"
+  },
+  {
+    "nombre": "Adn 420s  6 mm",
+    "precio": "4.468"
+  },
+  {
+    "nombre": "Adn 420s  8 mm",
+    "precio": "7.591"
+  },
+  {
+    "nombre": "Adn 420s 10 mm",
+    "precio": "11.830"
+  },
+  {
+    "nombre": "Adn 420s 12 mm",
+    "precio": "17.025"
+  },
+  {
+    "nombre": "Adn 420s 16 mm",
+    "precio": "30.050"
+  },
+  {
+    "nombre": "Adn 420s 20 mm",
+    "precio": "46.957"
+  },
+  {
+    "nombre": "Adn 420s 25 mm",
+    "precio": "72.782"
+  },
+  {
+    "nombre": "Adn 420s 32 mm",
+    "precio": "130.489"
+  },
+  {
+    "nombre": "Adn rollo 420 10 mm x kg",
+    "precio": "1.561"
+  },
+  {
+    "nombre": "Adn rollo 420 12 mm x kg",
+    "precio": "1.547"
+  },
+  {
+    "nombre": "Adn rollo 420 16 mm x kg",
+    "precio": "1.529"
+  },
+  {
+    "nombre": "Adn rollo 420 6 mm x kg",
+    "precio": "2.062"
+  },
+  {
+    "nombre": "Adn rollo 420 8 mm x kg",
+    "precio": "1.561"
+  },
+  {
+    "nombre": "Alambre mig esab-conarco de 0,8 mm x 18 kg",
+    "precio": "82.954"
+  },
+  {
+    "nombre": "Alambre mig esab-conarco de 0,9 mm x 18 kg",
+    "precio": "75.740"
+  },
+  {
+    "nombre": "Alambre mig esab-conarco de 1,2 mm x 18 kg",
+    "precio": "74.334"
+  },
+  {
+    "nombre": "Alambre p/soldar tubular 71 v 1.2 m.m.x 20 kg",
+    "precio": "97.057"
+  },
+  {
+    "nombre": "Alambre puas x 100 mts.",
+    "precio": "25.941"
+  },
+  {
+    "nombre": "Alambre puas x 250 mts.",
+    "precio": "30.632"
+  },
+  {
+    "nombre": "Alambre puas x 500 mts.",
+    "precio": "98.259"
+  },
+  {
+    "nombre": "Alineador p/porton corredizo con soporte",
+    "precio": "8.458"
+  },
+  {
+    "nombre": "Angulos 1 1/2\" x 1/4\"\"\"",
+    "precio": "33.400"
+  },
+  {
+    "nombre": "Angulos 1 1/2\" x 1/8\"\"\"",
+    "precio": "18.006"
+  },
+  {
+    "nombre": "Angulos 1 1/2\" x 3/16\"\"\"",
+    "precio": "24.932"
+  },
+  {
+    "nombre": "Angulos 1 1/4\" x 1/4\"\"\"",
+    "precio": "34.839"
+  },
+  {
+    "nombre": "Angulos 1 1/4\" x 1/8\"\"\"",
+    "precio": "16.305"
+  },
+  {
+    "nombre": "Angulos 1 1/4\" x 3/16\"\"\"",
+    "precio": "23.163"
+  },
+  {
+    "nombre": "Angulos 1 3/4\" x 1/4\"\"\"",
+    "precio": "41.558"
+  },
+  {
+    "nombre": "Angulos 1 3/4\" x 1/8\"\"\"",
+    "precio": "25.589"
+  },
+  {
+    "nombre": "Angulos 1 3/4\" x 3/16\"\"\"",
+    "precio": "34.733"
+  },
+  {
+    "nombre": "Angulos 1\" x 1/4\"\"\"",
+    "precio": "31.045"
+  },
+  {
+    "nombre": "Angulos 1\" x 1/8\"\"\"",
+    "precio": "12.214"
+  },
+  {
+    "nombre": "Angulos 1\" x 3/16\"\"\"",
+    "precio": "17.684"
+  },
+  {
+    "nombre": "Angulos 1/2\" x 1/8\"\"\"",
+    "precio": "7.862"
+  },
+  {
+    "nombre": "Angulos 2 1/2\" x 1/4\"\" x 6 mts\"",
+    "precio": "65.047"
+  },
+  {
+    "nombre": "Angulos 2 1/2\" x 3/16\"\" x 6 mts\"",
+    "precio": "52.382"
+  },
+  {
+    "nombre": "Angulos 2 1/2\" x 3/8\"\"\"",
+    "precio": "108.764"
+  },
+  {
+    "nombre": "Angulos 2 1/2\" x 5/16\"\"\"",
+    "precio": "86.006"
+  },
+  {
+    "nombre": "Angulos 2 1/4\" x 1/4\"\"\"",
+    "precio": "54.116"
+  },
+  {
+    "nombre": "Angulos 2 1/4\" x 3/16\"\"\"",
+    "precio": "38.879"
+  },
+  {
+    "nombre": "Angulos 2\" x 1/4\"\"\"",
+    "precio": "47.132"
+  },
+  {
+    "nombre": "Angulos 2\" x 1/8\"\"\"",
+    "precio": "27.851"
+  },
+  {
+    "nombre": "Angulos 2\" x 3/16\"\" largo especial 5.10 metros\"",
+    "precio": "27.920"
+  },
+  {
+    "nombre": "Angulos 2\" x 3/16\"\"\"",
+    "precio": "32.837"
+  },
+  {
+    "nombre": "Angulos 2\" x 3/8\"\"\"",
+    "precio": "80.336"
+  },
+  {
+    "nombre": "Angulos 2\" x 5/16\"\"\"",
+    "precio": "64.266"
+  },
+  {
+    "nombre": "Angulos 3 1/2\" x 1/4\"\" x 6 mts\"",
+    "precio": "143.836"
+  },
+  {
+    "nombre": "Angulos 3 1/2\" x 3/8\"\" x 6 mts\"",
+    "precio": "142.248"
+  },
+  {
+    "nombre": "Angulos 3 1/2\" x 5/16\"\" x 6 mts\"",
+    "precio": "124.388"
+  },
+  {
+    "nombre": "Angulos 3\" x 1/4\"\" x 6 mts\"",
+    "precio": "83.273"
+  },
+  {
+    "nombre": "Angulos 3\" x 3/16\"\" x 6 mts\"",
+    "precio": "92.714"
+  },
+  {
+    "nombre": "Angulos 3\" x 3/8\"\" x 6 mts\"",
+    "precio": "110.774"
+  },
+  {
+    "nombre": "Angulos 3\" x 5/16\"\" x 6 mts\"",
+    "precio": "99.160"
+  },
+  {
+    "nombre": "Angulos 3/4\" x 1/8\"\"\"",
+    "precio": "10.025"
+  },
+  {
+    "nombre": "Angulos 4\" x 1/2\"\" x 6 mts\"",
+    "precio": "195.233"
+  },
+  {
+    "nombre": "Angulos 4\" x 1/4\"\" x 6 mts\"",
+    "precio": "182.563"
+  },
+  {
+    "nombre": "Angulos 4\" x 3/8\"\" x 6 mts\"",
+    "precio": "145.066"
+  },
+  {
+    "nombre": "Angulos 4\" x 5/16\"\" x 6 mts\"",
+    "precio": "128.067"
+  },
+  {
+    "nombre": "Angulos 5\" x 1/2\"\" x 6 mts\"",
+    "precio": "414.427"
+  },
+  {
+    "nombre": "Angulos 5\" x 3/8\"\" x 6 mts\"",
+    "precio": "310.035"
+  },
+  {
+    "nombre": "Angulos 5/8\" x 1/8\"\"\"",
+    "precio": "10.341"
+  },
+  {
+    "nombre": "Angulos 6\" x 1/2\"\" x 6 mts\"",
+    "precio": "497.486"
+  },
+  {
+    "nombre": "Angulos 6\" x 3/8\"\" x 6 mts\"",
+    "precio": "372.044"
+  },
+  {
+    "nombre": "Angulos 7/8\" x 1/8\"\"\"",
+    "precio": "12.350"
+  },
+  {
+    "nombre": "Bobina ch galv cal 22 ancho 1.22 x kilo",
+    "precio": "2.206"
+  },
+  {
+    "nombre": "Bobina ch galv cal 25 ancho 1.22 x kilo",
+    "precio": "2.229"
+  },
+  {
+    "nombre": "Bobina ch galv cal 27 ancho 1.22 x kilo",
+    "precio": "2.406"
+  },
+  {
+    "nombre": "Bobina ch galva 0.30 ancho 1.000  x kilo",
+    "precio": "2.907"
+  },
+  {
+    "nombre": "Bobina ch galva 0.36 ancho 1.000  x kilo",
+    "precio": "2.834"
+  },
+  {
+    "nombre": "Bobina ch galva 0.40 ancho 1.220  x kilo",
+    "precio": "2.646"
+  },
+  {
+    "nombre": "Bobina ch galva 0.50 ancho 1.000  x kilo",
+    "precio": "2.522"
+  },
+  {
+    "nombre": "Bobina ch galva 0.50 ancho 1.220  x kilo",
+    "precio": "2.427"
+  },
+  {
+    "nombre": "Bobina ch galva 0.70 ancho 1.000  x kilo",
+    "precio": "2.503"
+  },
+  {
+    "nombre": "Bobina ch galva 0.70 ancho 1.220  x kilo",
+    "precio": "2.427"
+  },
+  {
+    "nombre": "Bobina ch galva 0.90 ancho 1.000  x kilo",
+    "precio": "2.477"
+  },
+  {
+    "nombre": "Bobina ch galva 0.90 ancho 1.220  x kilo",
+    "precio": "2.416"
+  },
+  {
+    "nombre": "Bobina ch galva 1.25 ancho 1.000  x kilo",
+    "precio": "2.427"
+  },
+  {
+    "nombre": "Bobina ch galva 1.25 ancho 1.220  x kilo",
+    "precio": "2.353"
+  },
+  {
+    "nombre": "Bobina ch galva 1.60 ancho 1.000  x kilo",
+    "precio": "2.401"
+  },
+  {
+    "nombre": "Bobina ch galva 1.60 ancho 1.220  x kilo",
+    "precio": "2.328"
+  },
+  {
+    "nombre": "Bobina ch galva 2.00 ancho 1.000  x kilo",
+    "precio": "2.401"
+  },
+  {
+    "nombre": "Bobina ch galva 2.00 ancho 1.220  x kilo",
+    "precio": "2.328"
+  },
+  {
+    "nombre": "Bobina ch galva 2.50 ancho 1.220  x kilo",
+    "precio": "2.278"
+  },
+  {
+    "nombre": "Bobina ch galva 3.20 ancho 1.220  x kilo",
+    "precio": "2.219"
+  },
+  {
+    "nombre": "Bobina cinca 0.50 ancho 1.220  x kilo",
+    "precio": "2.330"
+  },
+  {
+    "nombre": "Bobina cinca 0.70 ancho 1.220  x kilo",
+    "precio": "2.264"
+  },
+  {
+    "nombre": "Bobina lac 1.60 ancho 1.025  x kilo",
+    "precio": "1.938"
+  },
+  {
+    "nombre": "Bobina lac 2.00 ancho 1.025  x kilo",
+    "precio": "1.772"
+  },
+  {
+    "nombre": "Bobina lac 2.00 ancho 1.245  x kilo",
+    "precio": "1.721"
+  },
+  {
+    "nombre": "Bobina lac 2.50 ancho 1.025  x kilo",
+    "precio": "1.736"
+  },
+  {
+    "nombre": "Bobina lac 2.50 ancho 1.245  x kilo",
+    "precio": "1.685"
+  },
+  {
+    "nombre": "Bobina lac 3.20 ancho 1.245  x kilo",
+    "precio": "1.668"
+  },
+  {
+    "nombre": "Bobina lac 3.20 ancho 1.500  x kilo",
+    "precio": "1.650"
+  },
+  {
+    "nombre": "Bobina lac 4.00 ancho 1.500  x kilo",
+    "precio": "1.635"
+  },
+  {
+    "nombre": "Bobina lac 4.75 ancho 1.500  x kilo",
+    "precio": "1.635"
+  },
+  {
+    "nombre": "Bobina lac 6.35 ancho 1.500  x kilo",
+    "precio": "1.650"
+  },
+  {
+    "nombre": "Bobina lac 8.00 ancho 1.500  x kilo",
+    "precio": "1.650"
+  },
+  {
+    "nombre": "Bobina lac antideslizante 3.20 ancho 1.245  x kilo",
+    "precio": "1.837"
+  },
+  {
+    "nombre": "Bobina lac antideslizante 4.75 ancho 1.500  x kilo",
+    "precio": "1.802"
+  },
+  {
+    "nombre": "Bobina lac antideslizante 6.35 ancho 1.500  x kilo",
+    "precio": "1.822"
+  },
+  {
+    "nombre": "Bobina laf 0.40 ancho 1.000  x kilo",
+    "precio": "2.163"
+  },
+  {
+    "nombre": "Bobina laf 0.56 ancho 1.000  x kilo",
+    "precio": "2.087"
+  },
+  {
+    "nombre": "Bobina laf 0.56 ancho 1.220  x kilo",
+    "precio": "2.030"
+  },
+  {
+    "nombre": "Bobina laf 0.70 ancho 1.000  x kilo",
+    "precio": "2.030"
+  },
+  {
+    "nombre": "Bobina laf 0.70 ancho 1.220  x kilo",
+    "precio": "1.959"
+  },
+  {
+    "nombre": "Bobina laf 0.90 ancho 1.000  x kilo",
+    "precio": "1.972"
+  },
+  {
+    "nombre": "Bobina laf 0.90 ancho 1.220  x kilo",
+    "precio": "1.913"
+  },
+  {
+    "nombre": "Bobina laf 0.90 ancho 1.320  x kilo",
+    "precio": "1.896"
+  },
+  {
+    "nombre": "Bobina laf 0.90 ancho 1.500  x kilo",
+    "precio": "1.896"
+  },
+  {
+    "nombre": "Bobina laf 1.25 ancho 1.000  x kilo",
+    "precio": "1.938"
+  },
+  {
+    "nombre": "Bobina laf 1.25 ancho 1.220  x kilo",
+    "precio": "1.883"
+  },
+  {
+    "nombre": "Bobina laf 1.25 ancho 1.320  x kilo",
+    "precio": "1.862"
+  },
+  {
+    "nombre": "Bobina laf 1.25 ancho 1.500  x kilo",
+    "precio": "1.862"
+  },
+  {
+    "nombre": "Bobina laf 1.60 ancho 1.000  x kilo",
+    "precio": "1.938"
+  },
+  {
+    "nombre": "Bobina laf 1.60 ancho 1.220  x kilo",
+    "precio": "1.883"
+  },
+  {
+    "nombre": "Bobina prepi blanco 0.50 ancho 1.220  x kilo",
+    "precio": "2.983"
+  },
+  {
+    "nombre": "Bobina prepi gris 0.50 ancho 1.220  x kilo",
+    "precio": "3.129"
+  },
+  {
+    "nombre": "Bobina prepi milenium 0.50 ancho 1.220  x kilo",
+    "precio": "3.188"
+  },
+  {
+    "nombre": "Bobina prepi negro 0.50 ancho 1.220  x kilo",
+    "precio": "3.129"
+  },
+  {
+    "nombre": "Bobina prepi rojo 0.50 ancho 1.220  x kilo",
+    "precio": "3.129"
+  },
+  {
+    "nombre": "Bobina prepi verde 0.50 ancho 1.220  x kilo",
+    "precio": "3.098"
+  },
+  {
+    "nombre": "Caño estructural 5 1/2'' (139,7 x 3.2) x 6 mts",
+    "precio": "175.111"
+  },
+  {
+    "nombre": "Caño galva de 1 1/2\"\"",
+    "precio": "102.062"
+  },
+  {
+    "nombre": "Caño galva de 1 1/4\"\"",
+    "precio": "80.980"
+  },
+  {
+    "nombre": "Caño galva de 1\"\"",
+    "precio": "64.537"
+  },
+  {
+    "nombre": "Caño galva de 1/2\"\"",
+    "precio": "35.534"
+  },
+  {
+    "nombre": "Caño galva de 2 1/2\"\"",
+    "precio": "182.950"
+  },
+  {
+    "nombre": "Caño galva de 2\"\"",
+    "precio": "132.086"
+  },
+  {
+    "nombre": "Caño galva de 3\"\"",
+    "precio": "221.151"
+  },
+  {
+    "nombre": "Caño galva de 3/4\"\"",
+    "precio": "48.616"
+  },
+  {
+    "nombre": "Caño galva de 4\"\"",
+    "precio": "317.874"
+  },
+  {
+    "nombre": "Caño neg. 5'' (139,7 x 4,8) x  12 m",
+    "precio": "538.581"
+  },
+  {
+    "nombre": "Caño neg. biselado 1 1/2'' (48,3 x 2,9 ) iram 2502",
+    "precio": "56.730"
+  },
+  {
+    "nombre": "Caño neg. biselado 1 1/4'' (42,4 x 2,6 ) iram 2502",
+    "precio": "46.490"
+  },
+  {
+    "nombre": "Caño neg. biselado 1'' (33,7 x 2,6 ) iram 2502",
+    "precio": "37.243"
+  },
+  {
+    "nombre": "Caño neg. biselado 1/2'' (21,3 x 2,00 ) iram 2502",
+    "precio": "19.391"
+  },
+  {
+    "nombre": "Caño neg. biselado 2 1/2'' (76,2 x 3,2 ) iram 2502",
+    "precio": "107.275"
+  },
+  {
+    "nombre": "Caño neg. biselado 2'' (60,3 x 2,9) iram 2502",
+    "precio": "76.670"
+  },
+  {
+    "nombre": "Caño neg. biselado 3'' (88,9 x 3,2) iram 2502",
+    "precio": "126.059"
+  },
+  {
+    "nombre": "Caño neg. biselado 3/4'' (26,9 x 2,3) iram 2502",
+    "precio": "26.371"
+  },
+  {
+    "nombre": "Caño neg. biselado 4'' (114,3 x 3,6) iram 2502",
+    "precio": "183.157"
+  },
+  {
+    "nombre": "Caño neg. mec. 1 1/2'' (48.3 x 2.5) x 6,40 mts.",
+    "precio": "49.751"
+  },
+  {
+    "nombre": "Caño neg. mec. 1 1/4'' (42.2 x 2.3) x 6,40 mts.",
+    "precio": "40.956"
+  },
+  {
+    "nombre": "Caño neg. mec. 1'' (33.7 x 2.3) x 6,40 mts.",
+    "precio": "31.335"
+  },
+  {
+    "nombre": "Caño neg. mec. 1/2'' (21.3 x 2 ) x 6,40 mts.",
+    "precio": "20.076"
+  },
+  {
+    "nombre": "Caño neg. mec. 2 1/2\" (76.2 x 3.2) x 6.40 mts\"",
+    "precio": "85.585"
+  },
+  {
+    "nombre": "Caño neg. mec. 2 1/2'' (76.2 x 2.85) x 6,40 mts.",
+    "precio": "76.533"
+  },
+  {
+    "nombre": "Caño neg. mec. 2\" (60.3 x 3.2)  x 6.40 mts\"",
+    "precio": "67.777"
+  },
+  {
+    "nombre": "Caño neg. mec. 2'' (60.3 x 2.85) x 6,40 mts.",
+    "precio": "59.927"
+  },
+  {
+    "nombre": "Caño neg. mec. 3\" (88.9 x 3.6) x 6.40 mts\"",
+    "precio": "113.642"
+  },
+  {
+    "nombre": "Caño neg. mec. 3'' (88.9 x 3.2) x 6,40 mts.",
+    "precio": "102.702"
+  },
+  {
+    "nombre": "Caño neg. mec. 3/4'' (26,9 x 2 ) x 6,40 mts.",
+    "precio": "22.662"
+  },
+  {
+    "nombre": "Caño neg. mec. 4'' (114.3 x 3.6) x 6,40 mts.",
+    "precio": "145.878"
+  },
+  {
+    "nombre": "Caño neg. mec. 4'' (114.3 x 4,0) x 6,40 mts.",
+    "precio": "163.505"
+  },
+  {
+    "nombre": "Caños est  5\" x 2\"",
+    "precio": "88.821"
+  },
+  {
+    "nombre": "Caños est  5'' x 3,2",
+    "precio": "133.008"
+  },
+  {
+    "nombre": "Caños est 1 1/2\" x 2\"",
+    "precio": "25.422"
+  },
+  {
+    "nombre": "Caños est 1 1/4\" x 2\"",
+    "precio": "20.088"
+  },
+  {
+    "nombre": "Caños est 1\" x 2\"",
+    "precio": "16.830"
+  },
+  {
+    "nombre": "Caños est 2 1/2\" x 2\"",
+    "precio": "41.451"
+  },
+  {
+    "nombre": "Caños est 2\" x 2\"",
+    "precio": "32.389"
+  },
+  {
+    "nombre": "Caños est 3 1/2'' x 1,6",
+    "precio": "50.673"
+  },
+  {
+    "nombre": "Caños est 3\" x 2\"",
+    "precio": "50.186"
+  },
+  {
+    "nombre": "Caños est 3/4'' x 1,2",
+    "precio": "8.202"
+  },
+  {
+    "nombre": "Caños est 50 x 50 x 5.49 x 6.40",
+    "precio": "180.796"
+  },
+  {
+    "nombre": "Caños est. \"galvanizado\"\" 50 x 50 x 2\"",
+    "precio": "128.772"
+  },
+  {
+    "nombre": "Caños est. 1 1/2'' x 0,9",
+    "precio": "12.364"
+  },
+  {
+    "nombre": "Caños est. 1 1/2'' x 1,2",
+    "precio": "16.818"
+  },
+  {
+    "nombre": "Caños est. 1 1/2'' x 1,6",
+    "precio": "21.324"
+  },
+  {
+    "nombre": "Caños est. 1 1/4'' x 0,9",
+    "precio": "10.232"
+  },
+  {
+    "nombre": "Caños est. 1 1/4'' x 1,2",
+    "precio": "13.918"
+  },
+  {
+    "nombre": "Caños est. 1 1/4'' x 1,6",
+    "precio": "17.634"
+  },
+  {
+    "nombre": "Caños est. 1 1/8'' x 0,9",
+    "precio": "9.050"
+  },
+  {
+    "nombre": "Caños est. 1 1/8'' x 1,2",
+    "precio": "12.456"
+  },
+  {
+    "nombre": "Caños est. 1 3/4'' x 0,9",
+    "precio": "14.446"
+  },
+  {
+    "nombre": "Caños est. 1 3/4'' x 1,2",
+    "precio": "19.720"
+  },
+  {
+    "nombre": "Caños est. 1 3/4'' x 1,6",
+    "precio": "25.038"
+  },
+  {
+    "nombre": "Caños est. 1 3/8\" x 2\"",
+    "precio": "22.328"
+  },
+  {
+    "nombre": "Caños est. 1 3/8'' x 1,2",
+    "precio": "15.356"
+  },
+  {
+    "nombre": "Caños est. 1'' x 0,9",
+    "precio": "8.129"
+  },
+  {
+    "nombre": "Caños est. 1'' x 1,2",
+    "precio": "11.022"
+  },
+  {
+    "nombre": "Caños est. 1'' x 1,6",
+    "precio": "13.895"
+  },
+  {
+    "nombre": "Caños est. 1'' x 1,6 m.m. x 6,40 mts",
+    "precio": "15.046"
+  },
+  {
+    "nombre": "Caños est. 1/2'' x 0,9",
+    "precio": "4.898"
+  },
+  {
+    "nombre": "Caños est. 1/2'' x 1,2",
+    "precio": "6.566"
+  },
+  {
+    "nombre": "Caños est. 10 x 10 x 0,9",
+    "precio": "4.835"
+  },
+  {
+    "nombre": "Caños est. 10 x 10 x 1,2",
+    "precio": "6.840"
+  },
+  {
+    "nombre": "Caños est. 10 x 20 x 0,9",
+    "precio": "6.084"
+  },
+  {
+    "nombre": "Caños est. 10 x 20 x 1,2",
+    "precio": "8.202"
+  },
+  {
+    "nombre": "Caños est. 10 x 30 x 0,9",
+    "precio": "8.129"
+  },
+  {
+    "nombre": "Caños est. 10 x 30 x 1,2",
+    "precio": "10.781"
+  },
+  {
+    "nombre": "Caños est. 10 x 40 x 1,2",
+    "precio": "13.729"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 1,6",
+    "precio": "75.136"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 2",
+    "precio": "86.504"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 2,5",
+    "precio": "109.522"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 3,2",
+    "precio": "133.008"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 4,75 x 6 metros",
+    "precio": "265.343"
+  },
+  {
+    "nombre": "Caños est. 100 x 100 x 6.35 x 6 mts",
+    "precio": "347.588"
+  },
+  {
+    "nombre": "Caños est. 12 x 12 x 0,9",
+    "precio": "5.272"
+  },
+  {
+    "nombre": "Caños est. 12 x 12 x 1,2",
+    "precio": "7.055"
+  },
+  {
+    "nombre": "Caños est. 12 x 12 x 1,6",
+    "precio": "9.305"
+  },
+  {
+    "nombre": "Caños est. 120 x 120 x 3.2 x 6 mts",
+    "precio": "217.085"
+  },
+  {
+    "nombre": "Caños est. 140 x 140 x 3.2 x 12 mts",
+    "precio": "546.003"
+  },
+  {
+    "nombre": "Caños est. 15 x 15 x 0,9",
+    "precio": "5.985"
+  },
+  {
+    "nombre": "Caños est. 15 x 15 x 1,2",
+    "precio": "8.104"
+  },
+  {
+    "nombre": "Caños est. 15 x 15 x 1,6",
+    "precio": "10.162"
+  },
+  {
+    "nombre": "Caños est. 15 x 20 x 0,9",
+    "precio": "6.966"
+  },
+  {
+    "nombre": "Caños est. 15 x 20 x 1,2",
+    "precio": "9.390"
+  },
+  {
+    "nombre": "Caños est. 15 x 25 x 0,9",
+    "precio": "8.030"
+  },
+  {
+    "nombre": "Caños est. 15 x 25 x 1,2",
+    "precio": "10.827"
+  },
+  {
+    "nombre": "Caños est. 15 x 30 x 0,9",
+    "precio": "9.075"
+  },
+  {
+    "nombre": "Caños est. 15 x 30 x 1,2",
+    "precio": "12.290"
+  },
+  {
+    "nombre": "Caños est. 15 x 30 x 1,6",
+    "precio": "15.285"
+  },
+  {
+    "nombre": "Caños est. 2 1/2'' x 1,2",
+    "precio": "28.416"
+  },
+  {
+    "nombre": "Caños est. 2 1/2'' x 1,6",
+    "precio": "36.156"
+  },
+  {
+    "nombre": "Caños est. 2 1/4'' x 1,2",
+    "precio": "25.518"
+  },
+  {
+    "nombre": "Caños est. 2 1/4'' x 1,6",
+    "precio": "32.465"
+  },
+  {
+    "nombre": "Caños est. 2 1/4'' x 2,85",
+    "precio": "61.005"
+  },
+  {
+    "nombre": "Caños est. 2'' x 0,9",
+    "precio": "16.552"
+  },
+  {
+    "nombre": "Caños est. 2'' x 1,2",
+    "precio": "22.234"
+  },
+  {
+    "nombre": "Caños est. 2'' x 1,6",
+    "precio": "28.754"
+  },
+  {
+    "nombre": "Caños est. 2'' x 3,2",
+    "precio": "48.067"
+  },
+  {
+    "nombre": "Caños est. 2'' x 3,2 galvanizado",
+    "precio": "157.499"
+  },
+  {
+    "nombre": "Caños est. 20 x 100 x 1,2",
+    "precio": "33.589"
+  },
+  {
+    "nombre": "Caños est. 20 x 100 x 1,6",
+    "precio": "42.740"
+  },
+  {
+    "nombre": "Caños est. 20 x 100 x 2",
+    "precio": "49.523"
+  },
+  {
+    "nombre": "Caños est. 20 x 20 x 0,9",
+    "precio": "8.030"
+  },
+  {
+    "nombre": "Caños est. 20 x 20 x 1,2",
+    "precio": "11.022"
+  },
+  {
+    "nombre": "Caños est. 20 x 20 x 1,6",
+    "precio": "13.607"
+  },
+  {
+    "nombre": "Caños est. 20 x 20 x 2",
+    "precio": "15.781"
+  },
+  {
+    "nombre": "Caños est. 20 x 30 x 0,9",
+    "precio": "10.114"
+  },
+  {
+    "nombre": "Caños est. 20 x 30 x 1,2",
+    "precio": "13.582"
+  },
+  {
+    "nombre": "Caños est. 20 x 30 x 1,6",
+    "precio": "17.131"
+  },
+  {
+    "nombre": "Caños est. 20 x 30 x 2",
+    "precio": "19.957"
+  },
+  {
+    "nombre": "Caños est. 20 x 40 x 0,9",
+    "precio": "12.098"
+  },
+  {
+    "nombre": "Caños est. 20 x 40 x 1,2",
+    "precio": "16.436"
+  },
+  {
+    "nombre": "Caños est. 20 x 40 x 1,6",
+    "precio": "20.796"
+  },
+  {
+    "nombre": "Caños est. 20 x 40 x 2",
+    "precio": "25.026"
+  },
+  {
+    "nombre": "Caños est. 20 x 50 x 0,9",
+    "precio": "14.276"
+  },
+  {
+    "nombre": "Caños est. 20 x 50 x 1,2",
+    "precio": "19.313"
+  },
+  {
+    "nombre": "Caños est. 20 x 50 x 1,6",
+    "precio": "24.439"
+  },
+  {
+    "nombre": "Caños est. 20 x 50 x 2",
+    "precio": "28.076"
+  },
+  {
+    "nombre": "Caños est. 20 x 60 x 0,9",
+    "precio": "16.261"
+  },
+  {
+    "nombre": "Caños est. 20 x 60 x 1,2",
+    "precio": "21.565"
+  },
+  {
+    "nombre": "Caños est. 20 x 60 x 1,6",
+    "precio": "28.127"
+  },
+  {
+    "nombre": "Caños est. 20 x 60 x 2",
+    "precio": "32.281"
+  },
+  {
+    "nombre": "Caños est. 20 x 80 x 1,2",
+    "precio": "28.152"
+  },
+  {
+    "nombre": "Caños est. 20 x 80 x 1,6",
+    "precio": "36.806"
+  },
+  {
+    "nombre": "Caños est. 25 x 25 x 0,9",
+    "precio": "10.139"
+  },
+  {
+    "nombre": "Caños est. 25 x 25 x 1,2",
+    "precio": "13.729"
+  },
+  {
+    "nombre": "Caños est. 25 x 25 x 1,6",
+    "precio": "17.298"
+  },
+  {
+    "nombre": "Caños est. 25 x 25 x 2",
+    "precio": "19.957"
+  },
+  {
+    "nombre": "Caños est. 25 x 50 x 1,6",
+    "precio": "30.794"
+  },
+  {
+    "nombre": "Caños est. 3 1/2\" x 4\"",
+    "precio": "107.828"
+  },
+  {
+    "nombre": "Caños est. 3 1/2'' x 3,2",
+    "precio": "87.977"
+  },
+  {
+    "nombre": "Caños est. 3'' x 1,2",
+    "precio": "34.191"
+  },
+  {
+    "nombre": "Caños est. 3'' x 1,6",
+    "precio": "43.583"
+  },
+  {
+    "nombre": "Caños est. 3'' x 3,2",
+    "precio": "75.106"
+  },
+  {
+    "nombre": "Caños est. 3/4'' x 0,9",
+    "precio": "6.084"
+  },
+  {
+    "nombre": "Caños est. 3/4'' x 1,6",
+    "precio": "10.282"
+  },
+  {
+    "nombre": "Caños est. 30 x 30 x 0,9",
+    "precio": "12.217"
+  },
+  {
+    "nombre": "Caños est. 30 x 30 x 1,2",
+    "precio": "16.602"
+  },
+  {
+    "nombre": "Caños est. 30 x 30 x 1,6",
+    "precio": "20.989"
+  },
+  {
+    "nombre": "Caños est. 30 x 30 x 2",
+    "precio": "25.026"
+  },
+  {
+    "nombre": "Caños est. 30 x 40 x 0,9",
+    "precio": "14.207"
+  },
+  {
+    "nombre": "Caños est. 30 x 40 x 1,2",
+    "precio": "19.313"
+  },
+  {
+    "nombre": "Caños est. 30 x 40 x 1,6",
+    "precio": "24.461"
+  },
+  {
+    "nombre": "Caños est. 30 x 40 x 2",
+    "precio": "29.204"
+  },
+  {
+    "nombre": "Caños est. 30 x 50 x 0,9",
+    "precio": "16.261"
+  },
+  {
+    "nombre": "Caños est. 30 x 50 x 1,2",
+    "precio": "22.234"
+  },
+  {
+    "nombre": "Caños est. 30 x 50 x 1,6",
+    "precio": "28.127"
+  },
+  {
+    "nombre": "Caños est. 30 x 50 x 2",
+    "precio": "33.382"
+  },
+  {
+    "nombre": "Caños est. 30 x 60 x 1,2",
+    "precio": "25.015"
+  },
+  {
+    "nombre": "Caños est. 30 x 60 x 1,6",
+    "precio": "31.795"
+  },
+  {
+    "nombre": "Caños est. 30 x 60 x 2",
+    "precio": "36.480"
+  },
+  {
+    "nombre": "Caños est. 30 x 70 x 1,2",
+    "precio": "27.890"
+  },
+  {
+    "nombre": "Caños est. 30 x 70 x 1,6",
+    "precio": "35.435"
+  },
+  {
+    "nombre": "Caños est. 30 x 70 x 2",
+    "precio": "41.014"
+  },
+  {
+    "nombre": "Caños est. 35 x 35 x 0,9",
+    "precio": "14.325"
+  },
+  {
+    "nombre": "Caños est. 35 x 35 x 1,2",
+    "precio": "19.502"
+  },
+  {
+    "nombre": "Caños est. 35 x 35 x 1,6",
+    "precio": "24.677"
+  },
+  {
+    "nombre": "Caños est. 4 1/2'' x 3,2",
+    "precio": "114.159"
+  },
+  {
+    "nombre": "Caños est. 4\" x 2\"",
+    "precio": "66.679"
+  },
+  {
+    "nombre": "Caños est. 4'' x 1,6",
+    "precio": "58.702"
+  },
+  {
+    "nombre": "Caños est. 4'' x 3,2",
+    "precio": "105.146"
+  },
+  {
+    "nombre": "Caños est. 40 x 100 x 1,2",
+    "precio": "38.645"
+  },
+  {
+    "nombre": "Caños est. 40 x 100 x 1,6",
+    "precio": "50.317"
+  },
+  {
+    "nombre": "Caños est. 40 x 100 x 2",
+    "precio": "58.346"
+  },
+  {
+    "nombre": "Caños est. 40 x 100 x 3,2",
+    "precio": "90.124"
+  },
+  {
+    "nombre": "Caños est. 40 x 120 x 1,6",
+    "precio": "62.241"
+  },
+  {
+    "nombre": "Caños est. 40 x 120 x 2",
+    "precio": "70.073"
+  },
+  {
+    "nombre": "Caños est. 40 x 120 x 3,2",
+    "precio": "107.159"
+  },
+  {
+    "nombre": "Caños est. 40 x 40 x 0,9",
+    "precio": "16.431"
+  },
+  {
+    "nombre": "Caños est. 40 x 40 x 1,2",
+    "precio": "22.377"
+  },
+  {
+    "nombre": "Caños est. 40 x 40 x 1,6",
+    "precio": "28.393"
+  },
+  {
+    "nombre": "Caños est. 40 x 40 x 2",
+    "precio": "32.389"
+  },
+  {
+    "nombre": "Caños est. 40 x 40 x 3,2",
+    "precio": "51.498"
+  },
+  {
+    "nombre": "Caños est. 40 x 50 x 1,2",
+    "precio": "25.015"
+  },
+  {
+    "nombre": "Caños est. 40 x 50 x 1,6",
+    "precio": "31.795"
+  },
+  {
+    "nombre": "Caños est. 40 x 60 x 1,2",
+    "precio": "27.194"
+  },
+  {
+    "nombre": "Caños est. 40 x 60 x 1,6",
+    "precio": "35.435"
+  },
+  {
+    "nombre": "Caños est. 40 x 60 x 2",
+    "precio": "40.903"
+  },
+  {
+    "nombre": "Caños est. 40 x 80 x 1,2",
+    "precio": "33.589"
+  },
+  {
+    "nombre": "Caños est. 40 x 80 x 1,6",
+    "precio": "43.128"
+  },
+  {
+    "nombre": "Caños est. 40 x 80 x 2",
+    "precio": "48.972"
+  },
+  {
+    "nombre": "Caños est. 40 x 80 x 2,5",
+    "precio": "59.999"
+  },
+  {
+    "nombre": "Caños est. 45 x 45 x 1,2",
+    "precio": "25.279"
+  },
+  {
+    "nombre": "Caños est. 5/8'' x 0,9",
+    "precio": "5.429"
+  },
+  {
+    "nombre": "Caños est. 5/8'' x 1,2",
+    "precio": "7.262"
+  },
+  {
+    "nombre": "Caños est. 5/8'' x 1,6",
+    "precio": "9.305"
+  },
+  {
+    "nombre": "Caños est. 50 x 100 x 1,6",
+    "precio": "55.515"
+  },
+  {
+    "nombre": "Caños est. 50 x 100 x 2",
+    "precio": "62.526"
+  },
+  {
+    "nombre": "Caños est. 50 x 100 x 3,2",
+    "precio": "98.708"
+  },
+  {
+    "nombre": "Caños est. 50 x 150 x 3,2",
+    "precio": "126.621"
+  },
+  {
+    "nombre": "Caños est. 50 x 50 x 1,2",
+    "precio": "28.152"
+  },
+  {
+    "nombre": "Caños est. 50 x 50 x 1,6",
+    "precio": "35.772"
+  },
+  {
+    "nombre": "Caños est. 50 x 50 x 2",
+    "precio": "40.926"
+  },
+  {
+    "nombre": "Caños est. 50 x 50 x 3,2",
+    "precio": "61.908"
+  },
+  {
+    "nombre": "Caños est. 50 x 50 x 4,75",
+    "precio": "123.898"
+  },
+  {
+    "nombre": "Caños est. 50 x 70 x 1,2",
+    "precio": "33.589"
+  },
+  {
+    "nombre": "Caños est. 50 x 70 x 1,6",
+    "precio": "42.740"
+  },
+  {
+    "nombre": "Caños est. 50 x 70 x 2",
+    "precio": "49.457"
+  },
+  {
+    "nombre": "Caños est. 60 x 100 x 1,6",
+    "precio": "57.503"
+  },
+  {
+    "nombre": "Caños est. 60 x 100 x 2",
+    "precio": "67.433"
+  },
+  {
+    "nombre": "Caños est. 60 x 100 x 2,5",
+    "precio": "84.537"
+  },
+  {
+    "nombre": "Caños est. 60 x 120 x 1,6",
+    "precio": "70.629"
+  },
+  {
+    "nombre": "Caños est. 60 x 120 x 2",
+    "precio": "77.314"
+  },
+  {
+    "nombre": "Caños est. 60 x 120 x 2,5",
+    "precio": "98.627"
+  },
+  {
+    "nombre": "Caños est. 60 x 120 x 3,2",
+    "precio": "122.563"
+  },
+  {
+    "nombre": "Caños est. 60 x 140 x 1,6",
+    "precio": "79.594"
+  },
+  {
+    "nombre": "Caños est. 60 x 140 x 2",
+    "precio": "89.986"
+  },
+  {
+    "nombre": "Caños est. 60 x 140 x 3,2",
+    "precio": "138.822"
+  },
+  {
+    "nombre": "Caños est. 60 x 60 x 1,2",
+    "precio": "33.929"
+  },
+  {
+    "nombre": "Caños est. 60 x 60 x 1,6",
+    "precio": "43.176"
+  },
+  {
+    "nombre": "Caños est. 60 x 60 x 2",
+    "precio": "49.457"
+  },
+  {
+    "nombre": "Caños est. 60 x 60 x 3,2",
+    "precio": "74.286"
+  },
+  {
+    "nombre": "Caños est. 60 x 60 x 4.75 x 6 mts",
+    "precio": "147.589"
+  },
+  {
+    "nombre": "Caños est. 60 x 80 x 1,6",
+    "precio": "50.792"
+  },
+  {
+    "nombre": "Caños est. 60 x 80 x 2",
+    "precio": "58.588"
+  },
+  {
+    "nombre": "Caños est. 7/8'' x 0,9",
+    "precio": "7.065"
+  },
+  {
+    "nombre": "Caños est. 7/8'' x 1,2",
+    "precio": "9.558"
+  },
+  {
+    "nombre": "Caños est. 7/8'' x 1,6",
+    "precio": "12.050"
+  },
+  {
+    "nombre": "Caños est. 70 x 70 x 1,6",
+    "precio": "50.792"
+  },
+  {
+    "nombre": "Caños est. 70 x 70 x 2",
+    "precio": "57.484"
+  },
+  {
+    "nombre": "Caños est. 70 x 70 x 6.35 x 6 mts",
+    "precio": "230.984"
+  },
+  {
+    "nombre": "Caños est. 80 x 100 x 1,6",
+    "precio": "67.370"
+  },
+  {
+    "nombre": "Caños est. 80 x 100 x 2",
+    "precio": "74.286"
+  },
+  {
+    "nombre": "Caños est. 80 x 100 x 3,2",
+    "precio": "118.666"
+  },
+  {
+    "nombre": "Caños est. 80 x 120 x 1,6",
+    "precio": "78.819"
+  },
+  {
+    "nombre": "Caños est. 80 x 120 x 2",
+    "precio": "89.986"
+  },
+  {
+    "nombre": "Caños est. 80 x 120 x 3,2",
+    "precio": "138.822"
+  },
+  {
+    "nombre": "Caños est. 80 x 140 x 3.2 x 12 mts",
+    "precio": "352.347"
+  },
+  {
+    "nombre": "Caños est. 80 x 80 x 1,6",
+    "precio": "57.509"
+  },
+  {
+    "nombre": "Caños est. 80 x 80 x 2",
+    "precio": "67.433"
+  },
+  {
+    "nombre": "Caños est. 80 x 80 x 2,5",
+    "precio": "82.628"
+  },
+  {
+    "nombre": "Caños est. 80 x 80 x 3,2",
+    "precio": "101.109"
+  },
+  {
+    "nombre": "Caños est. 80 x 80 x 6.35 x 6 mts",
+    "precio": "265.267"
+  },
+  {
+    "nombre": "Caños galvanizado 42.4 x 3.2 m.m. x 6 mts",
+    "precio": "139.766"
+  },
+  {
+    "nombre": "Caños pasamano 26 x 51 x 1.2 m.m.",
+    "precio": "22.715"
+  },
+  {
+    "nombre": "Caños pasamano 36 x 57 x 1.2 m.m.",
+    "precio": "25.713"
+  },
+  {
+    "nombre": "Carro  n 1 (168) xe",
+    "precio": "4.234"
+  },
+  {
+    "nombre": "Carro  n 2 (164) xe",
+    "precio": "4.335"
+  },
+  {
+    "nombre": "Carro  n 3 (170) xe",
+    "precio": "8.220"
+  },
+  {
+    "nombre": "Carro p/guia n 1 (168)",
+    "precio": "5.020"
+  },
+  {
+    "nombre": "Carro p/guia n 2 (164)",
+    "precio": "5.778"
+  },
+  {
+    "nombre": "Carro p/guia n 3 (170)",
+    "precio": "10.556"
+  },
+  {
+    "nombre": "Carro p/guia n 4 (172)",
+    "precio": "15.382"
+  },
+  {
+    "nombre": "Carro p/guia n 5 (174)",
+    "precio": "21.350"
+  },
+  {
+    "nombre": "Ch arabia 20 hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch c40-20 hoja 1 x 2",
+    "precio": "83.186"
+  },
+  {
+    "nombre": "Ch c40-45-20 hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch codigo 20 hoja 1 x 2",
+    "precio": "83.207"
+  },
+  {
+    "nombre": "Ch gajo 20 hoja 1 x 2",
+    "precio": "83.207"
+  },
+  {
+    "nombre": "Ch lineas 15-20  hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch perf 18 red 20 m.m. 1 x 2 p27",
+    "precio": "97.503"
+  },
+  {
+    "nombre": "Ch perf 18 red 3 m.m. 1 x 2",
+    "precio": "84.888"
+  },
+  {
+    "nombre": "Ch perf 18 red 5 m.m. 1 x 2",
+    "precio": "77.347"
+  },
+  {
+    "nombre": "Ch perf 20 cuad 10 x 10 1 x 2",
+    "precio": "59.801"
+  },
+  {
+    "nombre": "Ch perf 20 red 3 m.m. 1 x 2",
+    "precio": "62.529"
+  },
+  {
+    "nombre": "Ch perf 20 red 5 m.m. 1 x 2",
+    "precio": "59.801"
+  },
+  {
+    "nombre": "Ch perf 20 trebol 1 x 2",
+    "precio": "59.801"
+  },
+  {
+    "nombre": "Ch perf 20 trebol comb 1 x 2",
+    "precio": "59.801"
+  },
+  {
+    "nombre": "Ch perf 3/16 red 10 m.m. 0.50 x 0.50",
+    "precio": "40.979"
+  },
+  {
+    "nombre": "Ch porton 20 hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch r20-20 hoja 1 x 2",
+    "precio": "83.186"
+  },
+  {
+    "nombre": "Ch ramas 20 hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch runas 20 hoja 1 x 2",
+    "precio": "83.207"
+  },
+  {
+    "nombre": "Ch trenzza 20 hoja 1 x 2",
+    "precio": "83.197"
+  },
+  {
+    "nombre": "Ch zigzag 20 hoja 1 x 2",
+    "precio": "83.207"
+  },
+  {
+    "nombre": "Chapa antideslizante  1/4  1,50 x 6",
+    "precio": "939.644"
+  },
+  {
+    "nombre": "Chapa antideslizante  1/8  1,24 x 6",
+    "precio": "434.850"
+  },
+  {
+    "nombre": "Chapa antideslizante  3/16 1,50 x 6",
+    "precio": "718.301"
+  },
+  {
+    "nombre": "Chapa estampada 12  1,22 x 2,44",
+    "precio": "135.147"
+  },
+  {
+    "nombre": "Chapa estampada 14  1,22 x 2,44",
+    "precio": "109.244"
+  },
+  {
+    "nombre": "Chapa estampada 18  1 x 2",
+    "precio": "50.034"
+  },
+  {
+    "nombre": "Chapa estampada 18  1,22 x 2,44",
+    "precio": "72.757"
+  },
+  {
+    "nombre": "Chapa estampada 20  1 x 2",
+    "precio": "37.142"
+  },
+  {
+    "nombre": "Chapa estampada 20  1,22 x 2,44",
+    "precio": "53.199"
+  },
+  {
+    "nombre": "Chapa galvanizada  12  4 x 8",
+    "precio": "122.033"
+  },
+  {
+    "nombre": "Chapa galvanizada  14  1 x 2",
+    "precio": "69.940"
+  },
+  {
+    "nombre": "Chapa galvanizada  14  4 x 8",
+    "precio": "101.072"
+  },
+  {
+    "nombre": "Chapa galvanizada  16  1 x 2",
+    "precio": "56.475"
+  },
+  {
+    "nombre": "Chapa galvanizada  16  4 x 8",
+    "precio": "78.962"
+  },
+  {
+    "nombre": "Chapa galvanizada  18  1 x 2",
+    "precio": "44.326"
+  },
+  {
+    "nombre": "Chapa galvanizada  18  4 x 8",
+    "precio": "64.473"
+  },
+  {
+    "nombre": "Chapa galvanizada  20  1 x 2",
+    "precio": "32.773"
+  },
+  {
+    "nombre": "Chapa galvanizada  20  4 x 8",
+    "precio": "47.157"
+  },
+  {
+    "nombre": "Chapa galvanizada  22  1 x 2",
+    "precio": "26.247"
+  },
+  {
+    "nombre": "Chapa galvanizada  22  4 x 8",
+    "precio": "37.677"
+  },
+  {
+    "nombre": "Chapa galvanizada  25  1,22 x 2 metros",
+    "precio": "22.346"
+  },
+  {
+    "nombre": "Chapa galvanizada  25  4 x 8",
+    "precio": "27.169"
+  },
+  {
+    "nombre": "Chapa galvanizada  27  4 x 8",
+    "precio": "24.116"
+  },
+  {
+    "nombre": "Chapa galvanizada  28  1 x 2",
+    "precio": "15.465"
+  },
+  {
+    "nombre": "Chapa galvanizada  30  1 x 2",
+    "precio": "13.617"
+  },
+  {
+    "nombre": "Chapa negra l.c.  12  1 x 2",
+    "precio": "80.014"
+  },
+  {
+    "nombre": "Chapa negra l.c.  12  1,22 x 2,44",
+    "precio": "115.071"
+  },
+  {
+    "nombre": "Chapa negra l.c.  14  1 x 1.685 largo especial",
+    "precio": "54.975"
+  },
+  {
+    "nombre": "Chapa negra l.c.  14  1 x 2",
+    "precio": "65.449"
+  },
+  {
+    "nombre": "Chapa negra l.c.  14  1,22 x 2,44",
+    "precio": "94.888"
+  },
+  {
+    "nombre": "Chapa negra l.c. 1/2  1,50 x 6",
+    "precio": "1.701.821"
+  },
+  {
+    "nombre": "Chapa negra l.c. 1/4  1,24 x 6,20",
+    "precio": "2.233.592"
+  },
+  {
+    "nombre": "Chapa negra l.c. 1/4  1,50 x 6",
+    "precio": "851.433"
+  },
+  {
+    "nombre": "Chapa negra l.c. 1/8  1,50 x 6",
+    "precio": "432.332"
+  },
+  {
+    "nombre": "Chapa negra l.c. 3/16 1,50 x 6",
+    "precio": "632.583"
+  },
+  {
+    "nombre": "Chapa negra l.c. 3/8  1,50 x 6",
+    "precio": "1.279.175"
+  },
+  {
+    "nombre": "Chapa negra l.c. 3/8  2,50 x 12",
+    "precio": "12.685.647"
+  },
+  {
+    "nombre": "Chapa negra l.c. 4 m.m. 1,50 x 6",
+    "precio": "533.975"
+  },
+  {
+    "nombre": "Chapa negra l.c. 5/16 1,50 x 6",
+    "precio": "1.055.039"
+  },
+  {
+    "nombre": "Chapa negra l.f.  16  1,22 x 2,44",
+    "precio": "85.735"
+  },
+  {
+    "nombre": "Chapa negra l.f.  16  1.500 x 3.000",
+    "precio": "123.301"
+  },
+  {
+    "nombre": "Chapa negra l.f.  18  1 x 2",
+    "precio": "44.556"
+  },
+  {
+    "nombre": "Chapa negra l.f.  18  1,22 x 2,44",
+    "precio": "67.501"
+  },
+  {
+    "nombre": "Chapa negra l.f.  18  1.500 x 3.000",
+    "precio": "96.329"
+  },
+  {
+    "nombre": "Chapa negra l.f.  20  1 x 2",
+    "precio": "32.614"
+  },
+  {
+    "nombre": "Chapa negra l.f.  20  1,22 x 2,44",
+    "precio": "49.195"
+  },
+  {
+    "nombre": "Chapa negra l.f.  22  1 x 2",
+    "precio": "26.371"
+  },
+  {
+    "nombre": "Chapa negra l.f.  22  1,22 x 2,44",
+    "precio": "37.870"
+  },
+  {
+    "nombre": "Chapa negra l.f.  24  1 x 2",
+    "precio": "20.872"
+  },
+  {
+    "nombre": "Chapa negra l.f.  24  1,22 x 2,44",
+    "precio": "30.498"
+  },
+  {
+    "nombre": "Chapa negra l.f.  27  1 x 2",
+    "precio": "15.900"
+  },
+  {
+    "nombre": "Chapa negra l.f. 16  1 x 2",
+    "precio": "57.031"
+  },
+  {
+    "nombre": "Chapa negra lisa 1/8 1,25 x 6",
+    "precio": "364.585"
+  },
+  {
+    "nombre": "Concertina diam 300 cruzado x 8 mts (e2.5m.m. 54 vueltas)",
+    "precio": "33.716"
+  },
+  {
+    "nombre": "Concertina diam 300 simple x 10 mts (e2.5m.m. 40 vueltas)",
+    "precio": "26.031"
+  },
+  {
+    "nombre": "Concertina diam 450 cruzado  x 10 mts (e2.5m.m. 54 vueltas)",
+    "precio": "40.536"
+  },
+  {
+    "nombre": "Concertina diam 450 simple x 8 mts (e2.5m.m. 33 vueltas)",
+    "precio": "29.627"
+  },
+  {
+    "nombre": "Concertina diam 700 cruzado  x 18 mts (e2.5m.m. 55 vueltas)",
+    "precio": "84.560"
+  },
+  {
+    "nombre": "Concertina diam 700 simple x 15 mts (e2.5m.m. 34 vueltas)",
+    "precio": "71.286"
+  },
+  {
+    "nombre": "Cuadrado de 1 1/4\"\"",
+    "precio": "84.919"
+  },
+  {
+    "nombre": "Cuadrado de 1 3/4 x metro",
+    "precio": "45.137"
+  },
+  {
+    "nombre": "Cuadrado de 1\"\"",
+    "precio": "51.530"
+  },
+  {
+    "nombre": "Cuadrado de 1/2\"\"",
+    "precio": "13.263"
+  },
+  {
+    "nombre": "Cuadrado de 2 1/2 x metro",
+    "precio": "64.468"
+  },
+  {
+    "nombre": "Cuadrado de 3/4\"\"",
+    "precio": "28.041"
+  },
+  {
+    "nombre": "Cuadrado de 3/8\"\"",
+    "precio": "10.043"
+  },
+  {
+    "nombre": "Cuadrado de 5/16\"\"",
+    "precio": "7.136"
+  },
+  {
+    "nombre": "Cuadrado de 5/8\"\"",
+    "precio": "21.689"
+  },
+  {
+    "nombre": "Cuadrado de 7/16\"\"",
+    "precio": "11.357"
+  },
+  {
+    "nombre": "Cuadrado de 7/8\"\"",
+    "precio": "39.270"
+  },
+  {
+    "nombre": "Cuadrado de 9/16\"\"",
+    "precio": "17.672"
+  },
+  {
+    "nombre": "Elec tubular 7724 caja 5 kg.",
+    "precio": "454.995"
+  },
+  {
+    "nombre": "Elect. conarco 2   m.m. p.a.",
+    "precio": "9.979"
+  },
+  {
+    "nombre": "Elect. conarco 2,5 m.m. p.a.",
+    "precio": "6.920"
+  },
+  {
+    "nombre": "Elect. conarco 3,2 m.m. p.a.",
+    "precio": "6.213"
+  },
+  {
+    "nombre": "Elect. conarco 4   m.m. p.a.",
+    "precio": "6.969"
+  },
+  {
+    "nombre": "Elect. conarcrom 600 de 3,2 m.m.",
+    "precio": "8.690"
+  },
+  {
+    "nombre": "Elect. indura basico 7016 de 3,2 mm",
+    "precio": "3.893"
+  },
+  {
+    "nombre": "Elect. indura basico 7016 de 4  mm",
+    "precio": "3.781"
+  },
+  {
+    "nombre": "Elect. indura basico 7018 de 2,4 mm",
+    "precio": "4.494"
+  },
+  {
+    "nombre": "Elect. inox 308 l 2 m.m.  (83)",
+    "precio": "290"
+  },
+  {
+    "nombre": "Elect. inox 308 l 2,5 m.m. (54)",
+    "precio": "421"
+  },
+  {
+    "nombre": "Elect. losarc 7010 cord-51  3 m.m.",
+    "precio": "10.887"
+  },
+  {
+    "nombre": "Elect.conarco ok  2    mm",
+    "precio": "7.451"
+  },
+  {
+    "nombre": "Elect.conarco ok  2,5 mm",
+    "precio": "5.472"
+  },
+  {
+    "nombre": "Elect.conarco ok  3,2 mm",
+    "precio": "4.909"
+  },
+  {
+    "nombre": "Elect.conarco ok  4    mm",
+    "precio": "5.005"
+  },
+  {
+    "nombre": "Elect.conarcrom 1400 de 3,2",
+    "precio": "10.229"
+  },
+  {
+    "nombre": "Elect.conarcrom 1400 de 4",
+    "precio": "10.710"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2 mm *308l p/inoxidable x kg",
+    "precio": "40.023"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2 mm *308l p/inoxidable x kg",
+    "precio": "38.857"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2 mm x kg",
+    "precio": "15.255"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2 mm x kg",
+    "precio": "14.810"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5 mm x kg",
+    "precio": "10.903"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5 mm x kg",
+    "precio": "10.585"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5mm *308l p/inoxidable x kg",
+    "precio": "38.464"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5mm *308l p/inoxidable x kg",
+    "precio": "37.344"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5mm *ni100 p/fundicion x kg",
+    "precio": "73.133"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 2.5mm *ni100 p/fundicion x kg",
+    "precio": "71.003"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 3.25 mm x kg",
+    "precio": "10.068"
+  },
+  {
+    "nombre": "Electrodo \"ok\" 3.25 mm x kg",
+    "precio": "9.775"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.0mm  *13a x kg",
+    "precio": "16.572"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.0mm  *13a x kg",
+    "precio": "16.089"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5 mm *18p.verde",
+    "precio": "21.408"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5 mm *18p.verde",
+    "precio": "20.785"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm  *13a x kg",
+    "precio": "14.561"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm  *13a x kg",
+    "precio": "14.137"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm *6010 x kg",
+    "precio": "19.125"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm *6010 x kg",
+    "precio": "18.568"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm *6011 x kg",
+    "precio": "5.307"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm *6011 x kg",
+    "precio": "5.152"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm*309l x kg",
+    "precio": "7.982"
+  },
+  {
+    "nombre": "Electrodo *conarco 2.5mm*309l x kg",
+    "precio": "7.825"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm  *13a x kg",
+    "precio": "12.563"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm  *13a x kg",
+    "precio": "12.197"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm *18p.verde",
+    "precio": "17.996"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm *18p.verde",
+    "precio": "17.472"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm *6011 x kg",
+    "precio": "3.880"
+  },
+  {
+    "nombre": "Electrodo *conarco 3.25mm *6011 x kg",
+    "precio": "3.767"
+  },
+  {
+    "nombre": "Electrodo acindar 6013 p.a.  2  mm",
+    "precio": "7.148"
+  },
+  {
+    "nombre": "Electrodo acindar 6013 p.a.  2,5  mm",
+    "precio": "5.201"
+  },
+  {
+    "nombre": "Electrodo acindar 6013 p.a.  3,25  mm",
+    "precio": "4.803"
+  },
+  {
+    "nombre": "Electrodo acindar 6013 p.a.  4  mm",
+    "precio": "4.803"
+  },
+  {
+    "nombre": "Electrodos c-10 de 2,5 m.m.",
+    "precio": "11.428"
+  },
+  {
+    "nombre": "Electrodos c-10 de 3,2 m.m.",
+    "precio": "9.859"
+  },
+  {
+    "nombre": "Electrodos c-10 de 4 m.m.",
+    "precio": "9.696"
+  },
+  {
+    "nombre": "Electrodos c-11 de 2,5 m.m.",
+    "precio": "11.330"
+  },
+  {
+    "nombre": "Electrodos c-11 de 3,2 m.m.",
+    "precio": "9.041"
+  },
+  {
+    "nombre": "Electrodos c-11 de 4 m.m.",
+    "precio": "8.875"
+  },
+  {
+    "nombre": "Electrodos c-15 de 3,0 m.m.",
+    "precio": "10.733"
+  },
+  {
+    "nombre": "Electrodos c-16 de  3,2 m.m.",
+    "precio": "11.835"
+  },
+  {
+    "nombre": "Electrodos c-16 de  4,0 m.m.",
+    "precio": "11.590"
+  },
+  {
+    "nombre": "Electrodos c-16 de 2,5 m.m.",
+    "precio": "15.616"
+  },
+  {
+    "nombre": "Electrodos c-18 de  3,2 m.m.",
+    "precio": "10.498"
+  },
+  {
+    "nombre": "Electrodos c-18 de  4 m.m.",
+    "precio": "9.289"
+  },
+  {
+    "nombre": "Electrodos c-18 de 2,5 mm",
+    "precio": "11.744"
+  },
+  {
+    "nombre": "Electrodos c-7010 de 3,25",
+    "precio": "5.601"
+  },
+  {
+    "nombre": "Electrodos corte de 3,2 m.m.",
+    "precio": "12.237"
+  },
+  {
+    "nombre": "Electrodos indura de 2 mm",
+    "precio": "4.070"
+  },
+  {
+    "nombre": "Electrodos indura de 2,4 mm",
+    "precio": "4.236"
+  },
+  {
+    "nombre": "Electrodos indura de 3,2 mm",
+    "precio": "4.019"
+  },
+  {
+    "nombre": "Electrodos indura de 4 mm",
+    "precio": "4.188"
+  },
+  {
+    "nombre": "Electrodos ni 100 de 2,5 m.m.(49)",
+    "precio": "2.800"
+  },
+  {
+    "nombre": "Electrodos ni 100 de 3,2 m.m.(29)",
+    "precio": "4.840"
+  },
+  {
+    "nombre": "Esparrago zinc completo 3/8 x 300",
+    "precio": "975"
+  },
+  {
+    "nombre": "Esparrago zinc completo 5/16 x 250",
+    "precio": "607"
+  },
+  {
+    "nombre": "Estaño al 50 %",
+    "precio": "2.137"
+  },
+  {
+    "nombre": "Guia p/corred n 1 (168)",
+    "precio": "25.089"
+  },
+  {
+    "nombre": "Guia p/corred n 2 (164)",
+    "precio": "20.773"
+  },
+  {
+    "nombre": "Guia p/corred n 3 (170)",
+    "precio": "31.944"
+  },
+  {
+    "nombre": "Guia p/corred n 4 (172)",
+    "precio": "88.786"
+  },
+  {
+    "nombre": "Guia p/corred n 5 (174)",
+    "precio": "101.876"
+  },
+  {
+    "nombre": "Guia u 84 x 6 mts",
+    "precio": "22.310"
+  },
+  {
+    "nombre": "H.  liso de  6 m.m.",
+    "precio": "4.783"
+  },
+  {
+    "nombre": "H.  liso de  8 m.m.",
+    "precio": "8.182"
+  },
+  {
+    "nombre": "H.  liso de 10 m.m.",
+    "precio": "12.748"
+  },
+  {
+    "nombre": "H.  liso de 12 m.m.",
+    "precio": "18.587"
+  },
+  {
+    "nombre": "H.  liso de 14 m.m.",
+    "precio": "25.784"
+  },
+  {
+    "nombre": "H.  liso de 16 m.m.",
+    "precio": "32.736"
+  },
+  {
+    "nombre": "H.  liso de 20 m.m.",
+    "precio": "51.687"
+  },
+  {
+    "nombre": "H.  liso de 25 m.m.",
+    "precio": "80.120"
+  },
+  {
+    "nombre": "H.  liso de 32 m.m.",
+    "precio": "138.698"
+  },
+  {
+    "nombre": "Hierro tee 1 1/2\" x 1/8\"\"\"",
+    "precio": "22.490"
+  },
+  {
+    "nombre": "Hierro tee 1 1/2\" x 3/16\"\"\"",
+    "precio": "32.238"
+  },
+  {
+    "nombre": "Hierro tee 1 1/4\" x 1/8\"\"\"",
+    "precio": "18.902"
+  },
+  {
+    "nombre": "Hierro tee 1 1/4\" x 3/16\"\"\"",
+    "precio": "27.025"
+  },
+  {
+    "nombre": "Hierro tee 1\" x 1/8\"\"\"",
+    "precio": "13.784"
+  },
+  {
+    "nombre": "Hierro tee 2\" x 1/4\"\"\"",
+    "precio": "67.977"
+  },
+  {
+    "nombre": "Hierro tee 2\" x 3/16\"\"\"",
+    "precio": "49.867"
+  },
+  {
+    "nombre": "Hierro tee 3/4\" x 1/8\"\"\"",
+    "precio": "10.889"
+  },
+  {
+    "nombre": "Hierro tee 7/8\" x 1/8\"\"\"",
+    "precio": "13.701"
+  },
+  {
+    "nombre": "Hierro Torsionado n* 6",
+    "precio": "5.232"
+  },
+  {
+    "nombre": "Hierro Torsionado n* 6",
+    "precio": "5.080"
+  },
+  {
+    "nombre": "Hierro Torsionado n* 8",
+    "precio": "8.809"
+  },
+  {
+    "nombre": "Hierro Torsionado n* 8",
+    "precio": "8.553"
+  },
+  {
+    "nombre": "Hierro Torsionado n*10",
+    "precio": "13.870"
+  },
+  {
+    "nombre": "Hierro Torsionado n*10",
+    "precio": "13.466"
+  },
+  {
+    "nombre": "Hierro Torsionado n*12",
+    "precio": "19.957"
+  },
+  {
+    "nombre": "Hierro Torsionado n*12",
+    "precio": "19.376"
+  },
+  {
+    "nombre": "Hierro Torsionado n*16",
+    "precio": "35.099"
+  },
+  {
+    "nombre": "Hierro Torsionado n*16",
+    "precio": "34.076"
+  },
+  {
+    "nombre": "Hierro Torsionado n*20",
+    "precio": "54.870"
+  },
+  {
+    "nombre": "Hierro Torsionado n*20",
+    "precio": "53.271"
+  },
+  {
+    "nombre": "Hierro Torsionado n*25",
+    "precio": "85.525"
+  },
+  {
+    "nombre": "Hierro Torsionado n*25",
+    "precio": "83.034"
+  },
+  {
+    "nombre": "I.p.n.  320 x 131 x 11,5 x metro",
+    "precio": "291.618"
+  },
+  {
+    "nombre": "I.p.n.  340 x 137 x 12,2 x metro",
+    "precio": "323.492"
+  },
+  {
+    "nombre": "I.p.n.  360 x 143 x 13,0 x metro",
+    "precio": "361.549"
+  },
+  {
+    "nombre": "I.p.n.  400 x 155 x 14,4 x metro",
+    "precio": "439.566"
+  },
+  {
+    "nombre": "I.p.n.  450 x 170 x 16,2 x metro",
+    "precio": "548.037"
+  },
+  {
+    "nombre": "I.p.n.  500 x 185 x 18 x metro",
+    "precio": "683.163"
+  },
+  {
+    "nombre": "I.p.n.  80 x 42 x 3,9 x metro",
+    "precio": "11.426"
+  },
+  {
+    "nombre": "I.p.n. 100 x 50 x 4,5 x metro",
+    "precio": "16.420"
+  },
+  {
+    "nombre": "I.p.n. 120 x 58 x 5,1 x metro",
+    "precio": "47.260"
+  },
+  {
+    "nombre": "I.p.n. 140 x 66 x 5,7 x metro",
+    "precio": "60.764"
+  },
+  {
+    "nombre": "I.p.n. 160 x 74 x 6,3 x metro",
+    "precio": "75.535"
+  },
+  {
+    "nombre": "I.p.n. 180 x 82 x 6,9 x metro",
+    "precio": "94.770"
+  },
+  {
+    "nombre": "I.p.n. 200 x 90 x 7,5 x metro",
+    "precio": "114.239"
+  },
+  {
+    "nombre": "I.p.n. 220 x 98 x 8,1 x metro",
+    "precio": "138.178"
+  },
+  {
+    "nombre": "I.p.n. 240 x 106 x 8,7 x metro",
+    "precio": "163.292"
+  },
+  {
+    "nombre": "I.p.n. 260 x 113 x 9,4 x metro",
+    "precio": "187.681"
+  },
+  {
+    "nombre": "I.p.n. 280 x 119 x 10,1 x metro",
+    "precio": "227.553"
+  },
+  {
+    "nombre": "I.p.n. 300 x 125 x 10,8 x metro",
+    "precio": "242.316"
+  },
+  {
+    "nombre": "Malla  q188 15 x 15 x 6 m.m. (2.15 x 6 mts) discontinua",
+    "precio": "82.108"
+  },
+  {
+    "nombre": "Malla job shop galva q109 (50 x 50) 1.20 x 3",
+    "precio": "32.941"
+  },
+  {
+    "nombre": "Malla job shop galva q216 (25 x 25) 1.20 x 3",
+    "precio": "61.947"
+  },
+  {
+    "nombre": "Malla job shop galva r141 (30 x 50) 1.20 x 3",
+    "precio": "53.939"
+  },
+  {
+    "nombre": "Malla job shop negra q109 (50 x 50) 1.20 x 3",
+    "precio": "20.647"
+  },
+  {
+    "nombre": "Malla job shop negra q216 (25 x 25) 1.20 x 3",
+    "precio": "41.297"
+  },
+  {
+    "nombre": "Malla mini cerramiento q84 15 x 15  4 m.m.(2x3 mts)",
+    "precio": "14.821"
+  },
+  {
+    "nombre": "Malla mini cerramiento r84 15 x 25  4 m.m.(2x3 mts)",
+    "precio": "11.392"
+  },
+  {
+    "nombre": "Malla p/silo 2.50 x 25mts. 5 m.m.",
+    "precio": "597.399"
+  },
+  {
+    "nombre": "Malla q131 15 x 15 x 5 m.m. (2.40 x 6 mts)",
+    "precio": "61.301"
+  },
+  {
+    "nombre": "Malla q188 15 x 15 x 6 m.m. (2.40 x 6 mts)",
+    "precio": "89.898"
+  },
+  {
+    "nombre": "Malla q196 10 x 10 x 5 m.m. (2.40 x 6 mts)",
+    "precio": "93.548"
+  },
+  {
+    "nombre": "Malla q335 15 x 15 x 8 m.m. (2.15 x 6 mts) discontinua",
+    "precio": "148.729"
+  },
+  {
+    "nombre": "Malla q335 15 x 15 x 8 m.m. (2.40 x 6 mts)",
+    "precio": "167.552"
+  },
+  {
+    "nombre": "Malla q524 15 x 15 x 10 m.m. (2.15 x 6 mts) discontinua",
+    "precio": "231.345"
+  },
+  {
+    "nombre": "Malla q524 15 x 15 x 10 m.m. (2.40 x 6 mts)",
+    "precio": "260.691"
+  },
+  {
+    "nombre": "Malla q754 15 x 15 x 12 m.m. (2.40 x 6 mts)",
+    "precio": "369.188"
+  },
+  {
+    "nombre": "Malla q84 15 x 15 x 4 m.m. (2 x 5 mts)",
+    "precio": "22.556"
+  },
+  {
+    "nombre": "Malla q84 15 x 15 x 4 m.m. (2 x 6 mts) discontinua",
+    "precio": "24.197"
+  },
+  {
+    "nombre": "Malla r131 15 x 25 x 5 m.m. (2.40 x 6 mts)",
+    "precio": "49.053"
+  },
+  {
+    "nombre": "Malla r188 15 x 25  5y6 m.m. (2.40 x 6 mts)",
+    "precio": "60.481"
+  },
+  {
+    "nombre": "Malla r84 15 x 25 x 4 m.m.  (2,x 5 mts)",
+    "precio": "18.079"
+  },
+  {
+    "nombre": "Metal desp 270-16-20 (1 x 3)",
+    "precio": "39.940"
+  },
+  {
+    "nombre": "Metal desp 270-30-30 (1 x 3)",
+    "precio": "100.359"
+  },
+  {
+    "nombre": "Metal desp 450-30-30 (1,50 x 3)",
+    "precio": "78.406"
+  },
+  {
+    "nombre": "Metal desp 670-30-60 (1,50 x 3)",
+    "precio": "114.178"
+  },
+  {
+    "nombre": "Metal desp 750-50-50 (1,50 x 3)",
+    "precio": "128.941"
+  },
+  {
+    "nombre": "Metal desp 750-50-80 (1,50 x 3)",
+    "precio": "211.431"
+  },
+  {
+    "nombre": "Metal desp 900-30-30 (1,50 x 3)",
+    "precio": "51.661"
+  },
+  {
+    "nombre": "Metal desp granada pesado (1,50 x 2)",
+    "precio": "59.624"
+  },
+  {
+    "nombre": "Metal para cielorraso (mini 440) 0.75 x 2 mt",
+    "precio": "2.995"
+  },
+  {
+    "nombre": "Ovalado 14 x 30 x 1.2 m.m.",
+    "precio": "12.684"
+  },
+  {
+    "nombre": "Palomita u zincada",
+    "precio": "525"
+  },
+  {
+    "nombre": "Panel malla cerco practico 1 mm",
+    "precio": "86.468"
+  },
+  {
+    "nombre": "Panel malla cerco practico 1.5 mm",
+    "precio": "117.955"
+  },
+  {
+    "nombre": "Perfil \"c\"\"  80 x 50 x 15 x 2 x metro\"",
+    "precio": "6.428"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 100 x 40 x 15 x 2 x metro\"",
+    "precio": "6.364"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 100 x 50 x 15 x 2 x metro\"",
+    "precio": "7.027"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 120 x 50 x 15 x 2 x metro\"",
+    "precio": "7.667"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 140 x 60 x 20 x 2 x metro\"",
+    "precio": "9.209"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 160 x 60 x 20 x 2 x metro\"",
+    "precio": "9.744"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 180 x 70 x 20 x 2 x metro\"",
+    "precio": "11.266"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 200 x 80 x 20 x 2 x metro\"",
+    "precio": "12.153"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 220 x 80 x 20 x 2 x metro\"",
+    "precio": "13.127"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 300 x 80 x 25 x 2.5 x metro\"",
+    "precio": "19.256"
+  },
+  {
+    "nombre": "Perfil \"c\"\" 300 x 80 x 25 x 3.2 x metro\"",
+    "precio": "24.082"
+  },
+  {
+    "nombre": "Perfil \"c\"\" galva 180 x 70 x 20 x 2 x metro\"",
+    "precio": "13.435"
+  },
+  {
+    "nombre": "Perfil \"c\"\" galva 200 x 80 x 20 x 2 x metro\"",
+    "precio": "14.940"
+  },
+  {
+    "nombre": "Perfil \"c\"\" galva. 160 x 60 x 20 x 3.2 x metro\"",
+    "precio": "17.884"
+  },
+  {
+    "nombre": "Perfil ''c''  50 x 25 x 10 x 1,6 x 6mts largo",
+    "precio": "23.574"
+  },
+  {
+    "nombre": "Perfil ''c''  60 x 30 x 10 x 1,6 x 6mts largo",
+    "precio": "27.750"
+  },
+  {
+    "nombre": "Perfil ''c''  80 x 40 x 15 x 1,6 x metro",
+    "precio": "5.123"
+  },
+  {
+    "nombre": "Perfil ''c''  80 x 50 x 15 x 1,6 x metro",
+    "precio": "5.725"
+  },
+  {
+    "nombre": "Perfil ''c'' 100 x 40 x 15 x 1,6 x metro",
+    "precio": "5.718"
+  },
+  {
+    "nombre": "Perfil ''c'' 100 x 50 x 15 x 1,6 x metro",
+    "precio": "6.246"
+  },
+  {
+    "nombre": "Perfil ''c'' 120 x 50 x 15 x 1,6 x metro",
+    "precio": "6.794"
+  },
+  {
+    "nombre": "Perfil ''c'' 120 x 50 x 15 x 2,5 x metro",
+    "precio": "9.241"
+  },
+  {
+    "nombre": "Perfil ''c'' 120 x 50 x 15 x 3,2 x metro",
+    "precio": "11.337"
+  },
+  {
+    "nombre": "Perfil ''c'' 140 x 60 x 20 x 2,5 x metro",
+    "precio": "11.036"
+  },
+  {
+    "nombre": "Perfil ''c'' 160 x 60 x 20 x 2,5 x metro",
+    "precio": "11.838"
+  },
+  {
+    "nombre": "Perfil ''c'' 160 x 60 x 20 x 3,2 x metro",
+    "precio": "14.821"
+  },
+  {
+    "nombre": "Perfil ''c'' 180 x 70 x 20 x 2,5 x metro",
+    "precio": "13.499"
+  },
+  {
+    "nombre": "Perfil ''c'' 180 x 70 x 20 x 3,2 x metro",
+    "precio": "16.777"
+  },
+  {
+    "nombre": "Perfil ''c'' 200 x 80 x 20 x 2,5 x metro",
+    "precio": "15.200"
+  },
+  {
+    "nombre": "Perfil ''c'' 200 x 80 x 20 x 3,2 x metro",
+    "precio": "18.822"
+  },
+  {
+    "nombre": "Perfil ''c'' 220 x 80 x 20 x 2,5 x metro",
+    "precio": "16.071"
+  },
+  {
+    "nombre": "Perfil ''c'' 220 x 80 x 20 x 3,2 x metro",
+    "precio": "20.008"
+  },
+  {
+    "nombre": "Perfil ''c'' 240 x 80 x 25 x 2,5 x metro",
+    "precio": "17.128"
+  },
+  {
+    "nombre": "Perfil ''c'' 240 x 80 x 25 x 3,2 x metro",
+    "precio": "21.492"
+  },
+  {
+    "nombre": "Perfil ''c'' 260 x 80 x 20 x 3,2 x metro",
+    "precio": "22.917"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 180 x 70 x 20 x 2,5 x metro",
+    "precio": "16.448"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 200 x 80 x 20 x 2,5 x metro",
+    "precio": "18.245"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 200 x 80 x 20 x 3,2 x metro",
+    "precio": "22.829"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 220 x 80 x 20 x 2,5 x metro",
+    "precio": "19.522"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 240 x 80 x 25 x 3,2 x metro",
+    "precio": "25.810"
+  },
+  {
+    "nombre": "Perfil ''c'' galva 260 x 80 x 25 x 2,5 x metro",
+    "precio": "21.582"
+  },
+  {
+    "nombre": "Perfil c  80x40x15x1.6 x 12mts",
+    "precio": "71.064"
+  },
+  {
+    "nombre": "Perfil c  80x40x15x1.6 x 12mts",
+    "precio": "68.994"
+  },
+  {
+    "nombre": "Perfil c  80x50x15x1.6 x 12mts",
+    "precio": "98.879"
+  },
+  {
+    "nombre": "Perfil c  80x50x15x1.6 x 12mts",
+    "precio": "96.940"
+  },
+  {
+    "nombre": "Perfil c 100x45x10x1.6x12m",
+    "precio": "79.668"
+  },
+  {
+    "nombre": "Perfil c 100x45x10x1.6x12m",
+    "precio": "77.348"
+  },
+  {
+    "nombre": "Perfil c 120x50x15x1.6 x 12mts",
+    "precio": "94.964"
+  },
+  {
+    "nombre": "Perfil c 120x50x15x1.6 x 12mts",
+    "precio": "92.198"
+  },
+  {
+    "nombre": "Perfil c 120x50x15x2mm x 12mts",
+    "precio": "156.707"
+  },
+  {
+    "nombre": "Perfil c 120x50x15x2mm x 12mts",
+    "precio": "97.000"
+  },
+  {
+    "nombre": "Perfil c 120x50x15x2mm x 12mts",
+    "precio": "152.142"
+  },
+  {
+    "nombre": "Perfil c 140x60x20x2mm x 12mts",
+    "precio": "190.796"
+  },
+  {
+    "nombre": "Perfil c 140x60x20x2mm x 12mts",
+    "precio": "185.239"
+  },
+  {
+    "nombre": "Perfil c 160x60x20x2mm x 12mts",
+    "precio": "203.940"
+  },
+  {
+    "nombre": "Perfil c 160x60x20x2mm x 12mts",
+    "precio": "155.000"
+  },
+  {
+    "nombre": "Perfil c 160x60x20x2mm x 12mts",
+    "precio": "198.000"
+  },
+  {
+    "nombre": "Perfil c 180x70x20x2mm x 12mts",
+    "precio": "229.379"
+  },
+  {
+    "nombre": "Perfil c 180x70x20x2mm x 12mts",
+    "precio": "163.000"
+  },
+  {
+    "nombre": "Perfil c 180x70x20x2mm x 12mts",
+    "precio": "222.698"
+  },
+  {
+    "nombre": "Perfil c 200x80x20x2mm x 12mts",
+    "precio": "249.307"
+  },
+  {
+    "nombre": "Perfil c 200x80x20x2mm x 12mts",
+    "precio": "199.000"
+  },
+  {
+    "nombre": "Perfil c 200x80x20x2mm x 12mts",
+    "precio": "242.046"
+  },
+  {
+    "nombre": "Perfil\"c\"\" galva. 100 x 40 x 15 x 2 x metro\"",
+    "precio": "7.803"
+  },
+  {
+    "nombre": "Perfil\"c\"\" galva. 120 x 50 x 15 x 2 x metro\"",
+    "precio": "9.356"
+  },
+  {
+    "nombre": "Perfil\"c\"\" galva. 140 x 60 x 20 x 2 x metro\"",
+    "precio": "11.224"
+  },
+  {
+    "nombre": "Perfil''c'' galva. 100 x 40 x 15 x 1,6 x metro",
+    "precio": "6.440"
+  },
+  {
+    "nombre": "Perfil''c'' galva. 140 x 60 x 20 x 2,5 x metro",
+    "precio": "13.524"
+  },
+  {
+    "nombre": "Perfil''c'' galva. 80 x 40 x 15 x 1,6 x metro",
+    "precio": "5.766"
+  },
+  {
+    "nombre": "Perno c/ruleman guiador",
+    "precio": "7.932"
+  },
+  {
+    "nombre": "Pistola mig bernard 4,5m",
+    "precio": "7.027"
+  },
+  {
+    "nombre": "Planch perforada  1\" x 3/16\"\" red 10\"",
+    "precio": "11.622"
+  },
+  {
+    "nombre": "Planch perforada  1\" x 3/16\"\" red 12\"",
+    "precio": "11.622"
+  },
+  {
+    "nombre": "Planch perforada 1 1/2\" x 3/16\"\" cuad 5/8\"",
+    "precio": "18.357"
+  },
+  {
+    "nombre": "Planch perforada 1 1/2\" x 3/16\"\" red 14\"",
+    "precio": "18.357"
+  },
+  {
+    "nombre": "Planch perforada 1 1/4\" x 3/16\"\" cuad 1/2\"\"\"",
+    "precio": "14.136"
+  },
+  {
+    "nombre": "Planch perforada 1 1/4\" x 3/16\"\" cuad 9/16\"\"\"",
+    "precio": "14.370"
+  },
+  {
+    "nombre": "Planch perforada 1 1/4\" x 3/16\"\" red 12\"",
+    "precio": "14.237"
+  },
+  {
+    "nombre": "Planch perforada 1 1/4\" x 3/16\"\" red 14\"",
+    "precio": "14.770"
+  },
+  {
+    "nombre": "Planch perforada 1\" x 3/16\"\" cuad 1/2\"\"\"",
+    "precio": "11.817"
+  },
+  {
+    "nombre": "Planchuela  1 1/2 x 1/8",
+    "precio": "11.591"
+  },
+  {
+    "nombre": "Planchuela  1 1/2 x 1/8",
+    "precio": "11.253"
+  },
+  {
+    "nombre": "Planchuela  1 1/2 x 3/16",
+    "precio": "15.507"
+  },
+  {
+    "nombre": "Planchuela  1 1/2 x 3/16",
+    "precio": "15.055"
+  },
+  {
+    "nombre": "Planchuela  1 x 1/8",
+    "precio": "7.436"
+  },
+  {
+    "nombre": "Planchuela  1 x 1/8",
+    "precio": "7.220"
+  },
+  {
+    "nombre": "Planchuela  1 x 3/16",
+    "precio": "10.381"
+  },
+  {
+    "nombre": "Planchuela  1 x 3/16",
+    "precio": "10.079"
+  },
+  {
+    "nombre": "Planchuela  1/2 x 1/8",
+    "precio": "5.739"
+  },
+  {
+    "nombre": "Planchuela  1/2 x 1/8",
+    "precio": "5.572"
+  },
+  {
+    "nombre": "Planchuela  1/2 x 3/16",
+    "precio": "8.083"
+  },
+  {
+    "nombre": "Planchuela  1/2 x 3/16",
+    "precio": "7.848"
+  },
+  {
+    "nombre": "Planchuela  3/4 x 1/8",
+    "precio": "6.787"
+  },
+  {
+    "nombre": "Planchuela  3/4 x 1/8",
+    "precio": "6.590"
+  },
+  {
+    "nombre": "Planchuela  5/8 x 1/8",
+    "precio": "6.809"
+  },
+  {
+    "nombre": "Planchuela  5/8 x 1/8",
+    "precio": "6.611"
+  },
+  {
+    "nombre": "Planchuela  7/8 x 1/8",
+    "precio": "7.719"
+  },
+  {
+    "nombre": "Planchuela  7/8 x 1/8",
+    "precio": "7.494"
+  },
+  {
+    "nombre": "Planchuela  7/8 x 3/16",
+    "precio": "10.607"
+  },
+  {
+    "nombre": "Planchuela  7/8 x 3/16",
+    "precio": "10.298"
+  },
+  {
+    "nombre": "Planchuela 1 1/2 x 3/16 per/12",
+    "precio": "18.975"
+  },
+  {
+    "nombre": "Planchuela 1 1/2 x 3/16 per/12",
+    "precio": "18.422"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 1/8",
+    "precio": "8.706"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 1/8",
+    "precio": "8.452"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 3/16 per/12",
+    "precio": "16.229"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 3/16 per/12",
+    "precio": "15.756"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 3/16 per/14",
+    "precio": "16.323"
+  },
+  {
+    "nombre": "Planchuela 1 1/4 x 3/16 per/14",
+    "precio": "15.847"
+  },
+  {
+    "nombre": "Planchuela 1 1/4x3/16",
+    "precio": "12.611"
+  },
+  {
+    "nombre": "Planchuela 1 1/4x3/16",
+    "precio": "12.244"
+  },
+  {
+    "nombre": "Planchuela 1 x 3/16 perf/lis10",
+    "precio": "12.363"
+  },
+  {
+    "nombre": "Planchuela 1 x 3/16 perf/lis10",
+    "precio": "12.003"
+  },
+  {
+    "nombre": "Planchuela 2 x 1/8",
+    "precio": "17.013"
+  },
+  {
+    "nombre": "Planchuela 2 x 1/8",
+    "precio": "16.517"
+  },
+  {
+    "nombre": "Planchuela 2 x 3/16",
+    "precio": "20.655"
+  },
+  {
+    "nombre": "Planchuela 2 x 3/16",
+    "precio": "20.053"
+  },
+  {
+    "nombre": "Planchuela 3/4 x 3/16",
+    "precio": "7.561"
+  },
+  {
+    "nombre": "Planchuela 3/4 x 3/16",
+    "precio": "7.341"
+  },
+  {
+    "nombre": "Planchuela 5/8 x 3/16",
+    "precio": "9.436"
+  },
+  {
+    "nombre": "Planchuela 5/8 x 3/16",
+    "precio": "9.162"
+  },
+  {
+    "nombre": "Planchuela p/estantes 100 mm",
+    "precio": "121"
+  },
+  {
+    "nombre": "Planchuela p/estantes 100 mm",
+    "precio": "117"
+  },
+  {
+    "nombre": "Planchuela p/estantes 125 mm",
+    "precio": "153"
+  },
+  {
+    "nombre": "Planchuela p/estantes 125 mm",
+    "precio": "149"
+  },
+  {
+    "nombre": "Planchuela p/estantes 150 mm",
+    "precio": "232"
+  },
+  {
+    "nombre": "Planchuela p/estantes 150 mm",
+    "precio": "225"
+  },
+  {
+    "nombre": "Planchuela p/estantes 200 mm",
+    "precio": "362"
+  },
+  {
+    "nombre": "Planchuela p/estantes 200 mm",
+    "precio": "351"
+  },
+  {
+    "nombre": "Planchuela p/estantes 50 mm",
+    "precio": "49"
+  },
+  {
+    "nombre": "Planchuela p/estantes 50 mm",
+    "precio": "48"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 1/2\"\"\"",
+    "precio": "41.092"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 1/4\"\"\"",
+    "precio": "18.549"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 1/8\"\"\"",
+    "precio": "10.204"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 3/16\"\"\"",
+    "precio": "14.699"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 3/8\"\"\"",
+    "precio": "30.452"
+  },
+  {
+    "nombre": "Planchuelas 1 1/2\" x 5/16\"\"\"",
+    "precio": "25.879"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 1/2\"\"\"",
+    "precio": "34.761"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 1/4\"\"\"",
+    "precio": "16.044"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 1/8\"\"\"",
+    "precio": "8.165"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 3/16\"\"\"",
+    "precio": "11.679"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 3/8\"\"\"",
+    "precio": "25.877"
+  },
+  {
+    "nombre": "Planchuelas 1 1/4\" x 5/16\"\"\"",
+    "precio": "21.740"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 1/2\"\"\"",
+    "precio": "48.297"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 1/4\"\"\"",
+    "precio": "24.144"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 1/8\"\"\"",
+    "precio": "14.818"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 3/16\"\"\"",
+    "precio": "18.886"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 3/8\"\"\"",
+    "precio": "35.708"
+  },
+  {
+    "nombre": "Planchuelas 1 3/4\" x 5/16\"\"\"",
+    "precio": "30.526"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 1/2\"\"\"",
+    "precio": "27.607"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 1/4\"\"\"",
+    "precio": "13.187"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 1/8\"\"\"",
+    "precio": "6.941"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 3/16\"\"\"",
+    "precio": "9.600"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 3/8\"\"\"",
+    "precio": "20.867"
+  },
+  {
+    "nombre": "Planchuelas 1\" x 5/16\"\"\"",
+    "precio": "17.245"
+  },
+  {
+    "nombre": "Planchuelas 1/2\" x 1/4\"\"\"",
+    "precio": "10.592"
+  },
+  {
+    "nombre": "Planchuelas 1/2\" x 1/8\"\"\"",
+    "precio": "5.022"
+  },
+  {
+    "nombre": "Planchuelas 1/2\" x 3/16\"\"\"",
+    "precio": "7.398"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 1/2\"\"\"",
+    "precio": "63.241"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 1/4\"\"\"",
+    "precio": "34.070"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 1/8\"\"\"",
+    "precio": "21.188"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 3/16\"\"\"",
+    "precio": "25.822"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 3/4\"\"\"",
+    "precio": "104.406"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 3/8\"\"\"",
+    "precio": "49.786"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 5/16\"\"\"",
+    "precio": "42.600"
+  },
+  {
+    "nombre": "Planchuelas 2 1/2\" x 5/8\"\"\"",
+    "precio": "87.009"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 1 sae 1045 largo variabl\"",
+    "precio": "165.980"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 1/2\"\"\"",
+    "precio": "48.110"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 1/4\"\"\"",
+    "precio": "24.520"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 1/8\"\"\"",
+    "precio": "15.599"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 3/16\"\"\"",
+    "precio": "19.203"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 3/4\"\"\"",
+    "precio": "83.535"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 3/8\"\"\"",
+    "precio": "38.684"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 5/16\"\"\"",
+    "precio": "32.640"
+  },
+  {
+    "nombre": "Planchuelas 2\" x 5/8\"\"\"",
+    "precio": "66.109"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 1\"\"\"",
+    "precio": "186.790"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 1/2\"\"\"",
+    "precio": "82.158"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 1/4\"\"\"",
+    "precio": "41.042"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 1/8\"\"\"",
+    "precio": "25.422"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 3/16\"\"\"",
+    "precio": "30.478"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 3/4\"\"\"",
+    "precio": "125.296"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 3/8\"\"\"",
+    "precio": "62.977"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 5/16\"\"\"",
+    "precio": "52.486"
+  },
+  {
+    "nombre": "Planchuelas 3\" x 5/8\"\"\"",
+    "precio": "101.943"
+  },
+  {
+    "nombre": "Planchuelas 3/4\" x 1/4\"\"\"",
+    "precio": "10.518"
+  },
+  {
+    "nombre": "Planchuelas 3/4\" x 1/8\"\"\"",
+    "precio": "6.081"
+  },
+  {
+    "nombre": "Planchuelas 3/4\" x 3/16\"\"\"",
+    "precio": "7.002"
+  },
+  {
+    "nombre": "Planchuelas 3/4\" x 5/16\"\"\"",
+    "precio": "13.127"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 1\"\"\"",
+    "precio": "224.366"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 1/2\"\"\"",
+    "precio": "115.518"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 1/4\"\"\"",
+    "precio": "64.443"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 1/8\"\"\"",
+    "precio": "33.754"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 3/16\"\"\"",
+    "precio": "55.186"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 3/4\"\"\"",
+    "precio": "177.007"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 3/8\"\"\"",
+    "precio": "83.903"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 5/16\"\"\"",
+    "precio": "76.215"
+  },
+  {
+    "nombre": "Planchuelas 4\" x 5/8\"\"\"",
+    "precio": "148.929"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 1\"\"\"",
+    "precio": "311.017"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 1/2\"\"\"",
+    "precio": "148.507"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 1/4\"\"\"",
+    "precio": "54.832"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 3/4\"\"\"",
+    "precio": "229.233"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 3/8\"\"\"",
+    "precio": "117.222"
+  },
+  {
+    "nombre": "Planchuelas 5\" x 5/8\"\"\"",
+    "precio": "184.666"
+  },
+  {
+    "nombre": "Planchuelas 5/8\" x 1/4\"\"\"",
+    "precio": "11.263"
+  },
+  {
+    "nombre": "Planchuelas 5/8\" x 1/8\"\"\"",
+    "precio": "6.187"
+  },
+  {
+    "nombre": "Planchuelas 5/8\" x 3/16\"\"\"",
+    "precio": "8.786"
+  },
+  {
+    "nombre": "Planchuelas 6\" x 3/4\"\"\"",
+    "precio": "300.121"
+  },
+  {
+    "nombre": "Planchuelas 7/8\" x 1/4\"\"\"",
+    "precio": "12.052"
+  },
+  {
+    "nombre": "Planchuelas 7/8\" x 1/8\"\"\"",
+    "precio": "7.021"
+  },
+  {
+    "nombre": "Planchuelas 7/8\" x 3/16\"\"\"",
+    "precio": "9.762"
+  },
+  {
+    "nombre": "Poste metalico esquinero simple 2.4 mts",
+    "precio": "293.640"
+  },
+  {
+    "nombre": "Poste metalico facon de 1,50 mts x unidad",
+    "precio": "12.419"
+  },
+  {
+    "nombre": "Poste metalico facon de 1,80 mts x unidad",
+    "precio": "16.620"
+  },
+  {
+    "nombre": "Poste metalico facon de 2,20 mts x unidad",
+    "precio": "19.118"
+  },
+  {
+    "nombre": "Poste metalico facon de 2,40 mts x unidad",
+    "precio": "20.166"
+  },
+  {
+    "nombre": "Poste metalico facon de 3,00 mts x unidad",
+    "precio": "25.532"
+  },
+  {
+    "nombre": "Poste p/cerco  galva 2,60 sin  base",
+    "precio": "35.379"
+  },
+  {
+    "nombre": "Poste practico 1 m - 1 mm 60 x 60 mm con  base",
+    "precio": "56.763"
+  },
+  {
+    "nombre": "Poste practico 1 m - 1,4 mm 60 x 60 mm sin  base",
+    "precio": "56.296"
+  },
+  {
+    "nombre": "Poste practico 1,5 m - 1,5 mm 60 x 60 mm con  base",
+    "precio": "63.163"
+  },
+  {
+    "nombre": "Poste practico 1,5 m - 2 mm 60 x 60 mm sin  base",
+    "precio": "68.862"
+  },
+  {
+    "nombre": "Poste practico 2 m - 2,4 mm 60 x 60 mm sin  base",
+    "precio": "79.679"
+  },
+  {
+    "nombre": "Poste practico 2 mm - 2 mm 60 x 60 mm con base",
+    "precio": "75.646"
+  },
+  {
+    "nombre": "Prep lisa  roja c-25 4x8",
+    "precio": "40.155"
+  },
+  {
+    "nombre": "Prep lisa azul c-25 4x8",
+    "precio": "40.915"
+  },
+  {
+    "nombre": "Prep lisa gris c-25 4x8",
+    "precio": "40.155"
+  },
+  {
+    "nombre": "Prep lisa milenium c-25 4x8",
+    "precio": "40.915"
+  },
+  {
+    "nombre": "Prep lisa negra c-25 4x8",
+    "precio": "40.155"
+  },
+  {
+    "nombre": "Prep lisa verde c-25 4x8",
+    "precio": "39.776"
+  },
+  {
+    "nombre": "Redondo 5,5 m.m. x 3,25 mts",
+    "precio": "1.296"
+  },
+  {
+    "nombre": "Redondo herrero  5/16'' x 6,00 mts",
+    "precio": "4.302"
+  },
+  {
+    "nombre": "Redondo herrero 1'' x 6,00 mts",
+    "precio": "43.289"
+  },
+  {
+    "nombre": "Redondo herrero 1/2'' x 6,00 mts",
+    "precio": "9.924"
+  },
+  {
+    "nombre": "Redondo herrero 1/4'' x 6,00 mts",
+    "precio": "2.909"
+  },
+  {
+    "nombre": "Redondo herrero 3/4'' x 6,00 mts",
+    "precio": "21.717"
+  },
+  {
+    "nombre": "Redondo herrero 3/8'' x 6,00 mts",
+    "precio": "7.021"
+  },
+  {
+    "nombre": "Redondo herrero 5/8'' x 6,00 mts",
+    "precio": "17.487"
+  },
+  {
+    "nombre": "Redondo herrero 7/8'' x 6,00 mts",
+    "precio": "31.889"
+  },
+  {
+    "nombre": "Redondo herrero 9/16'' x 6,00 mts",
+    "precio": "13.701"
+  },
+  {
+    "nombre": "Rodillo estabilizador para porton",
+    "precio": "2.421"
+  },
+  {
+    "nombre": "Roldana v 149  c/soporte",
+    "precio": "25.185"
+  },
+  {
+    "nombre": "Roldana v 150 c/perno",
+    "precio": "26.178"
+  },
+  {
+    "nombre": "Roldana v 200 c/perno",
+    "precio": "83.614"
+  },
+  {
+    "nombre": "Rollo alambre mig acindar 0.9 mm. x 15 kg",
+    "precio": "61.775"
+  },
+  {
+    "nombre": "Rollo alambre mig acindar 1,2 mm. x 15 kg",
+    "precio": "59.392"
+  },
+  {
+    "nombre": "Rueda *acero  50 mm c/ruleman",
+    "precio": "6.423"
+  },
+  {
+    "nombre": "Rueda *acero  50 mm c/ruleman",
+    "precio": "6.236"
+  },
+  {
+    "nombre": "Rueda *acero  60 mm c/ruleman",
+    "precio": "7.057"
+  },
+  {
+    "nombre": "Rueda *acero  60 mm c/ruleman",
+    "precio": "6.852"
+  },
+  {
+    "nombre": "Rueda *acero  75 mm c/ruleman",
+    "precio": "8.448"
+  },
+  {
+    "nombre": "Rueda *acero  75 mm c/ruleman",
+    "precio": "8.202"
+  },
+  {
+    "nombre": "Rueda *acero  80 mm c/ruleman",
+    "precio": "8.892"
+  },
+  {
+    "nombre": "Rueda *acero  80 mm c/ruleman",
+    "precio": "8.633"
+  },
+  {
+    "nombre": "Rueda *acero  90 mm c/ruleman",
+    "precio": "11.954"
+  },
+  {
+    "nombre": "Rueda *acero  90 mm c/ruleman",
+    "precio": "11.606"
+  },
+  {
+    "nombre": "Rueda *acero 100 mm c/ruleman",
+    "precio": "15.116"
+  },
+  {
+    "nombre": "Rueda *acero 100 mm c/ruleman",
+    "precio": "14.676"
+  },
+  {
+    "nombre": "Rueda 100 m.m. (roma) de 180 a 300 kgs",
+    "precio": "12.911"
+  },
+  {
+    "nombre": "Rueda 100 v",
+    "precio": "11.994"
+  },
+  {
+    "nombre": "Rueda 100 v c/soporte",
+    "precio": "13.577"
+  },
+  {
+    "nombre": "Rueda 105 m.m. c/soporte ( g.g.)",
+    "precio": "21.580"
+  },
+  {
+    "nombre": "Rueda 120 m.m. c/soporte ( g.g.)",
+    "precio": "30.241"
+  },
+  {
+    "nombre": "Rueda 50 m.m. c/soporte ( g.g.)",
+    "precio": "7.816"
+  },
+  {
+    "nombre": "Rueda 50 v",
+    "precio": "4.266"
+  },
+  {
+    "nombre": "Rueda 60 m.m. c/soporte ( g.g.)",
+    "precio": "8.903"
+  },
+  {
+    "nombre": "Rueda 60 v c/soporte",
+    "precio": "5.624"
+  },
+  {
+    "nombre": "Rueda 65 m.m. (roma) de (80 a 120kgs)",
+    "precio": "7.123"
+  },
+  {
+    "nombre": "Rueda 70 v",
+    "precio": "6.309"
+  },
+  {
+    "nombre": "Rueda 70 v c/soporte",
+    "precio": "6.966"
+  },
+  {
+    "nombre": "Rueda 74 c/soporte (roma) hasta 180 kgs",
+    "precio": "7.297"
+  },
+  {
+    "nombre": "Rueda 75 m.m. (roma) de 80 a 180 kgs",
+    "precio": "7.297"
+  },
+  {
+    "nombre": "Rueda 75 m.m. c/soporte ( g.g.)",
+    "precio": "10.528"
+  },
+  {
+    "nombre": "Rueda 90 m.m. c/soporte ( g.g.)",
+    "precio": "13.486"
+  },
+  {
+    "nombre": "Rueda 90 v c/soporte",
+    "precio": "10.493"
+  },
+  {
+    "nombre": "Rueda 99 c/soporte (roma) hasta 300 kgs",
+    "precio": "12.911"
+  },
+  {
+    "nombre": "Rueda aplicable 120 (roma) de 350 a 450 kgs",
+    "precio": "13.476"
+  },
+  {
+    "nombre": "Rueda aplicable 90 (roma) de 250 a 350 kgs",
+    "precio": "9.770"
+  },
+  {
+    "nombre": "Rueda corrediza 105 m.m. ( g.g.)",
+    "precio": "19.619"
+  },
+  {
+    "nombre": "Rueda corrediza 120 m.m. ( g.g.)",
+    "precio": "27.492"
+  },
+  {
+    "nombre": "Rueda corrediza 150 m.m. ( g.g.)",
+    "precio": "40.572"
+  },
+  {
+    "nombre": "Rueda corrediza 180 m.m. ( g.g.)",
+    "precio": "48.209"
+  },
+  {
+    "nombre": "Rueda corrediza 50 m.m. ( g.g.)",
+    "precio": "6.585"
+  },
+  {
+    "nombre": "Rueda corrediza 60 m.m. ( g.g.)",
+    "precio": "7.381"
+  },
+  {
+    "nombre": "Rueda corrediza 75 m.m. ( g.g.)",
+    "precio": "8.784"
+  },
+  {
+    "nombre": "Rueda corrediza 90 m.m. ( g.g.)",
+    "precio": "10.480"
+  },
+  {
+    "nombre": "Rueda quitypon de 120",
+    "precio": "13.476"
+  },
+  {
+    "nombre": "Tensor de 150 mm. con tuerca y arandela",
+    "precio": "444"
+  },
+  {
+    "nombre": "Tensor de 180 mm. con tuerca y arandela",
+    "precio": "483"
+  },
+  {
+    "nombre": "Tensor de 200 mm. con tuerca y arandela",
+    "precio": "533"
+  },
+  {
+    "nombre": "Tensor de 250 mm. con tuerca y arandela",
+    "precio": "609"
+  },
+  {
+    "nombre": "Toberas ez 2",
+    "precio": "179"
+  },
+  {
+    "nombre": "Toberas ez 400   de  3/4",
+    "precio": "205"
+  },
+  {
+    "nombre": "Torniquete doble galvanizado",
+    "precio": "9.676"
+  },
+  {
+    "nombre": "Torniquete galv mini",
+    "precio": "1.662"
+  },
+  {
+    "nombre": "Torniquete galv. nro.7",
+    "precio": "2.899"
+  },
+  {
+    "nombre": "Torniquete nro.6 galvanizado",
+    "precio": "3.503"
+  },
+  {
+    "nombre": "Torniquete nro.8 galvanizado",
+    "precio": "4.171"
+  },
+  {
+    "nombre": "Torniquete pint doble",
+    "precio": "7.963"
+  },
+  {
+    "nombre": "Torniquete pint. nro.6",
+    "precio": "3.036"
+  },
+  {
+    "nombre": "Torniquete pint. nro.7",
+    "precio": "2.530"
+  },
+  {
+    "nombre": "Torniquete pint.nro 8",
+    "precio": "3.324"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" (273.1x4.00) x mt\"",
+    "precio": "99.474"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" (273.1x4.80) x mt\"",
+    "precio": "155.515"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" (273.1x5.60) x mt\"",
+    "precio": "180.882"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" (273.1x6.40) x mt\"",
+    "precio": "206.077"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" (273.1x9.30) x mt\"",
+    "precio": "296.056"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" estr 4.00\"",
+    "precio": "96.190"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" estr 4.80\"",
+    "precio": "107.732"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" estr 5.60\"",
+    "precio": "133.868"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" estr 6.40\"",
+    "precio": "152.498"
+  },
+  {
+    "nombre": "Tubo c/cost 10\" estr 9.30\"",
+    "precio": "219.255"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" (323.8x4.80) x mt\"",
+    "precio": "184.894"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" (323.8x5.60) x mt\"",
+    "precio": "164.754"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" (323.8x6.40) x mt\"",
+    "precio": "245.186"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" (323.8x9.50) x mt\"",
+    "precio": "360.503"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" estr 4.80\"",
+    "precio": "136.947"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" estr 5.60\"",
+    "precio": "149.145"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" estr 6.40\"",
+    "precio": "181.630"
+  },
+  {
+    "nombre": "Tubo c/cost 12\" estr 9.50\"",
+    "precio": "266.887"
+  },
+  {
+    "nombre": "Tubo c/cost 14\" (355.6x12.70) x mt\"",
+    "precio": "605.544"
+  },
+  {
+    "nombre": "Tubo c/cost 14\" (355.6x6.40) x mt\"",
+    "precio": "310.782"
+  },
+  {
+    "nombre": "Tubo c/cost 14\" (355.6x9.50) x mt\"",
+    "precio": "457.153"
+  },
+  {
+    "nombre": "Tubo c/cost 16\" (406.4x12.7) x mt\"",
+    "precio": "667.895"
+  },
+  {
+    "nombre": "Tubo c/cost 16\" (406.4x6.40) x mt\"",
+    "precio": "355.944"
+  },
+  {
+    "nombre": "Tubo c/cost 16\" (406.4x9.50) x mt\"",
+    "precio": "524.281"
+  },
+  {
+    "nombre": "Tubo c/cost 18\" (457.2x12.7) x mt\"",
+    "precio": "890.520"
+  },
+  {
+    "nombre": "Tubo c/cost 18\" (457.2x6.40) x mt\"",
+    "precio": "401.161"
+  },
+  {
+    "nombre": "Tubo c/cost 18\" (457.2x9.50) x mt\"",
+    "precio": "591.298"
+  },
+  {
+    "nombre": "Tubo c/cost 20\" (508.0x6.40) x mt\"",
+    "precio": "490.953"
+  },
+  {
+    "nombre": "Tubo c/cost 20\" (508.0x9.50) x mt\"",
+    "precio": "724.278"
+  },
+  {
+    "nombre": "Tubo c/cost 24\" (609.6x6.40) x mt\"",
+    "precio": "654.272"
+  },
+  {
+    "nombre": "Tubo c/cost 24\" (609.6x9.50) x mt\"",
+    "precio": "966.159"
+  },
+  {
+    "nombre": "Tubo c/cost 6\"  estr 4.00\"",
+    "precio": "52.270"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" (168.3x4.80) x mt\"",
+    "precio": "81.476"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" (168.3x5.60) x mt\"",
+    "precio": "94.610"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" (168.3x6.40) x mt\"",
+    "precio": "107.580"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" (168.3x7.10) x mt\"",
+    "precio": "118.825"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" estr 4.80\"",
+    "precio": "55.347"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" estr 5.60\"",
+    "precio": "64.253"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" estr 6.40\"",
+    "precio": "73.030"
+  },
+  {
+    "nombre": "Tubo c/cost 6\" estr 7.10\"",
+    "precio": "80.658"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" (219.1x4.00) x mt\"",
+    "precio": "103.430"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" (219.1x4.80) x mt\"",
+    "precio": "124.096"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" (219.1x5.60) x mt\"",
+    "precio": "144.384"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" (219.1x6.40) x mt\"",
+    "precio": "164.352"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" (219.1x8.10) x mt\"",
+    "precio": "208.734"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" estr 4.00\"",
+    "precio": "66.083"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" estr 4.80\"",
+    "precio": "79.026"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" estr 5.60\"",
+    "precio": "91.870"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" estr 6.40\"",
+    "precio": "104.544"
+  },
+  {
+    "nombre": "Tubo c/cost 8\" estr 8.10\"",
+    "precio": "132.809"
+  },
+  {
+    "nombre": "Tubo mec s/c  (127 x 9,5)",
+    "precio": "96.769"
+  },
+  {
+    "nombre": "Tubo mec s/c  (152 x 5,5)",
+    "precio": "71.571"
+  },
+  {
+    "nombre": "Tubo mec s/c  (76,0 x 6,0)",
+    "precio": "42.938"
+  },
+  {
+    "nombre": "Tubo mec s/c  10'' (273 x 9,27)",
+    "precio": "225.039"
+  },
+  {
+    "nombre": "Tubo mec s/c  5'' (141,3 x 13)",
+    "precio": "168.849"
+  },
+  {
+    "nombre": "Tubo mec s/c  5'' (141,3 x 6,55)",
+    "precio": "78.452"
+  },
+  {
+    "nombre": "Tubo mec s/c  5'' (141,3 x 9,5)",
+    "precio": "111.269"
+  },
+  {
+    "nombre": "Tubo mec s/c  6'' (168,3 x 11)",
+    "precio": "160.661"
+  },
+  {
+    "nombre": "Tubo mec s/c  6'' (168,3 x 7,11)",
+    "precio": "106.413"
+  },
+  {
+    "nombre": "Tubo mec s/c  8'' (219,1 x 11)",
+    "precio": "242.743"
+  },
+  {
+    "nombre": "Tubo mec s/c  8'' (219,1 x 13)",
+    "precio": "248.773"
+  },
+  {
+    "nombre": "Tubo mec s/c  8'' (219,1 x 18)",
+    "precio": "383.847"
+  },
+  {
+    "nombre": "Tubo mec s/c  8'' (219,1 x 8,18)",
+    "precio": "160.211"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/2'' (48,3 x 10)",
+    "precio": "44.111"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/2'' (48,3 x 3,68)",
+    "precio": "16.992"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/2'' (48,3 x 5,1)",
+    "precio": "23.046"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/2'' (48,3 x 7)",
+    "precio": "33.311"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/4'' (42,2 x 3,56)",
+    "precio": "14.237"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/4'' (42,2 x 4,9)",
+    "precio": "19.102"
+  },
+  {
+    "nombre": "Tubo mec s/c 1 1/4'' (42,2 x 6,5)",
+    "precio": "26.724"
+  },
+  {
+    "nombre": "Tubo mec s/c 1'' (33,4 x 3,38)",
+    "precio": "11.312"
+  },
+  {
+    "nombre": "Tubo mec s/c 1'' (33,4 x 4,6)",
+    "precio": "14.375"
+  },
+  {
+    "nombre": "Tubo mec s/c 1'' (33,4 x 6,35)",
+    "precio": "19.775"
+  },
+  {
+    "nombre": "Tubo mec s/c 2 1/2\" (73 x 14)\"",
+    "precio": "94.764"
+  },
+  {
+    "nombre": "Tubo mec s/c 2 1/2\" (73 x 7)\"",
+    "precio": "41.423"
+  },
+  {
+    "nombre": "Tubo mec s/c 2 1/2'' (73 x 5,16)",
+    "precio": "31.390"
+  },
+  {
+    "nombre": "Tubo mec s/c 2 1/2'' (73 x 9,5)",
+    "precio": "61.607"
+  },
+  {
+    "nombre": "Tubo mec s/c 2'' (60,3 x 12)",
+    "precio": "59.182"
+  },
+  {
+    "nombre": "Tubo mec s/c 2'' (60,3 x 3,91)",
+    "precio": "19.762"
+  },
+  {
+    "nombre": "Tubo mec s/c 2'' (60,3 x 5,6)",
+    "precio": "27.465"
+  },
+  {
+    "nombre": "Tubo mec s/c 2'' (60,3 x 8,8)",
+    "precio": "46.288"
+  },
+  {
+    "nombre": "Tubo mec s/c 3 1/2'' (101,6 x 12,7)",
+    "precio": "115.313"
+  },
+  {
+    "nombre": "Tubo mec s/c 3 1/2'' (101,6 x 6,0)",
+    "precio": "51.424"
+  },
+  {
+    "nombre": "Tubo mec s/c 3 1/2'' (101,6 x 8,1)",
+    "precio": "67.906"
+  },
+  {
+    "nombre": "Tubo mec s/c 3'' (88,9 x 11,2)",
+    "precio": "88.882"
+  },
+  {
+    "nombre": "Tubo mec s/c 3'' (88,9 x 5,49)",
+    "precio": "41.047"
+  },
+  {
+    "nombre": "Tubo mec s/c 3'' (88,9 x 7,7)",
+    "precio": "56.060"
+  },
+  {
+    "nombre": "Tubo mec s/c 4'' (114,3 x 11,1)",
+    "precio": "117.005"
+  },
+  {
+    "nombre": "Tubo mec s/c 4'' (114,3 x 14)",
+    "precio": "143.421"
+  },
+  {
+    "nombre": "Tubo mec s/c 4'' (114,3 x 6,02)",
+    "precio": "58.436"
+  },
+  {
+    "nombre": "Tubo mec s/c 4'' (114,3 x 8,6)",
+    "precio": "81.504"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/2'' (48,3 x 10,16) xxs",
+    "precio": "51.153"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/2'' (48,3 x 3,1) s.liv",
+    "precio": "14.628"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/2'' (48,3 x 3,68) sch40",
+    "precio": "19.495"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/2'' (48,3 x 5,08) sch80",
+    "precio": "26.037"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/2'' (48,3 x 7,14)sch160",
+    "precio": "38.479"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/4'' (42,2 x 2,9) s.liv",
+    "precio": "12.502"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/4'' (42,2 x 3,56) sch40",
+    "precio": "16.319"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/4'' (42,2 x 4,85) sch80",
+    "precio": "21.701"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/4'' (42,2 x 6,35)sch160",
+    "precio": "30.059"
+  },
+  {
+    "nombre": "Tubo s/c 1 1/4'' (42,2 x 9,7)  xxs",
+    "precio": "56.214"
+  },
+  {
+    "nombre": "Tubo s/c 1'' (33,4 x 3,38)  sch40",
+    "precio": "12.970"
+  },
+  {
+    "nombre": "Tubo s/c 1'' (33,4 x 4,55)  sch80",
+    "precio": "16.319"
+  },
+  {
+    "nombre": "Tubo s/c 1'' (33,4 x 6,35)  sch160",
+    "precio": "22.689"
+  },
+  {
+    "nombre": "Tubo s/c 1'' (33,4 x 9,09)   xxs",
+    "precio": "37.539"
+  },
+  {
+    "nombre": "Tubo s/c 1'' (33,7 x 2,9) s.liv",
+    "precio": "11.578"
+  },
+  {
+    "nombre": "Tubo s/c 1/2'' (21,3 x 2,77) sch40",
+    "precio": "8.198"
+  },
+  {
+    "nombre": "Tubo s/c 1/2'' (21,3 x 3,73) sch80",
+    "precio": "10.452"
+  },
+  {
+    "nombre": "Tubo s/c 1/2'' (21,3 x 4,78) sch160",
+    "precio": "12.594"
+  },
+  {
+    "nombre": "Tubo s/c 1/2'' (21,3 x 7,47)  xxs",
+    "precio": "16.473"
+  },
+  {
+    "nombre": "Tubo s/c 1/4'' (13,7 x 2,24) sch40",
+    "precio": "4.082"
+  },
+  {
+    "nombre": "Tubo s/c 1/4'' (13,7 x 3,02) sch80",
+    "precio": "5.132"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 11,13)",
+    "precio": "351.276"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 12,7) sch60",
+    "precio": "348.748"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 15,09) sch80",
+    "precio": "469.036"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 18,26) sch100",
+    "precio": "560.573"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 21,44) sch120",
+    "precio": "649.984"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 6,35) sch20",
+    "precio": "204.075"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 7,8) sch30",
+    "precio": "249.281"
+  },
+  {
+    "nombre": "Tubo s/c 10'' (273 x 9,27) sch40",
+    "precio": "257.906"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 10,31) sch40",
+    "precio": "397.485"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 12,7)  xs",
+    "precio": "485.883"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 14,27)sch60",
+    "precio": "543.204"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 17,48)sch80",
+    "precio": "640.176"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 21,44)sch100",
+    "precio": "775.059"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 6,35) sch20",
+    "precio": "247.900"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 8,38) sch30",
+    "precio": "325.049"
+  },
+  {
+    "nombre": "Tubo s/c 12'' (323,8 x 9,52) std",
+    "precio": "367.957"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 10,31)",
+    "precio": "448.880"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 11,13)sch40",
+    "precio": "483.431"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 12,7) xs",
+    "precio": "549.117"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 15,09)sch60",
+    "precio": "623.310"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 19,05)sch80",
+    "precio": "777.759"
+  },
+  {
+    "nombre": "Tubo s/c 14'' (355,6 x 9,52)stdy30",
+    "precio": "415.425"
+  },
+  {
+    "nombre": "Tubo s/c 16'' (406,4 x 12,7)xsy40",
+    "precio": "734.638"
+  },
+  {
+    "nombre": "Tubo s/c 16'' (406,4 x 21,44)sch80",
+    "precio": "1.212.661"
+  },
+  {
+    "nombre": "Tubo s/c 16'' (406,4 x 7,92)sch20",
+    "precio": "463.691"
+  },
+  {
+    "nombre": "Tubo s/c 16'' (406,4 x 9,52)stdy30",
+    "precio": "555.115"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 10,31)",
+    "precio": "932.968"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 11,13)sch30",
+    "precio": "1.005.311"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 12,7) xs",
+    "precio": "1.143.085"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 14,27)sch40",
+    "precio": "1.279.878"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 7,92)sch20",
+    "precio": "720.523"
+  },
+  {
+    "nombre": "Tubo s/c 18'' (457,2 x 9,52)std",
+    "precio": "863.008"
+  },
+  {
+    "nombre": "Tubo s/c 2 1/2'' (73 x 14,02)  xxs",
+    "precio": "96.795"
+  },
+  {
+    "nombre": "Tubo s/c 2 1/2'' (73 x 5,16)sch40",
+    "precio": "35.974"
+  },
+  {
+    "nombre": "Tubo s/c 2 1/2'' (73 x 7,01)sch80",
+    "precio": "47.524"
+  },
+  {
+    "nombre": "Tubo s/c 2 1/2'' (73 x 9,52)sch160",
+    "precio": "70.806"
+  },
+  {
+    "nombre": "Tubo s/c 2 1/2'' (76,1 x 3,25) s.liv",
+    "precio": "21.441"
+  },
+  {
+    "nombre": "Tubo s/c 2'' (60,3 x 11,07)  xxs",
+    "precio": "63.793"
+  },
+  {
+    "nombre": "Tubo s/c 2'' (60,3 x 3,25) s.liv",
+    "precio": "16.760"
+  },
+  {
+    "nombre": "Tubo s/c 2'' (60,3 x 3,91) sch40",
+    "precio": "22.641"
+  },
+  {
+    "nombre": "Tubo s/c 2'' (60,3 x 5,54) sch80",
+    "precio": "31.155"
+  },
+  {
+    "nombre": "Tubo s/c 2'' (60,3 x 8,74)sch160",
+    "precio": "52.776"
+  },
+  {
+    "nombre": "Tubo s/c 20'' (508 x 12,7) xs y 30",
+    "precio": "1.263.742"
+  },
+  {
+    "nombre": "Tubo s/c 20'' (508 x 15,09) sch40",
+    "precio": "1.494.335"
+  },
+  {
+    "nombre": "Tubo s/c 20'' (508 x 9,52) std y 20",
+    "precio": "953.407"
+  },
+  {
+    "nombre": "Tubo s/c 24'' (609,6 x 12,7) xs",
+    "precio": "1.547.673"
+  },
+  {
+    "nombre": "Tubo s/c 24'' (609,6 x 14,27) sch30",
+    "precio": "1.637.787"
+  },
+  {
+    "nombre": "Tubo s/c 24'' (609,6 x 17,48) sch40",
+    "precio": "1.995.393"
+  },
+  {
+    "nombre": "Tubo s/c 24'' (609,6 x 9,53)stdy20",
+    "precio": "1.167.524"
+  },
+  {
+    "nombre": "Tubo s/c 3 1/2'' (101,6 x 5,74)sch40",
+    "precio": "56.538"
+  },
+  {
+    "nombre": "Tubo s/c 3 1/2'' (101,6 x 8,08)sch80",
+    "precio": "77.645"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 11,13)sch160",
+    "precio": "101.332"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 15,24)  xxs",
+    "precio": "131.578"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 3,60) s.liv",
+    "precio": "29.199"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 4,78)",
+    "precio": "53.295"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 5,49) sch40",
+    "precio": "47.051"
+  },
+  {
+    "nombre": "Tubo s/c 3'' (88,9 x 7,62) sch80",
+    "precio": "63.641"
+  },
+  {
+    "nombre": "Tubo s/c 3/4'' (26,7 x 2,87) sch40",
+    "precio": "10.075"
+  },
+  {
+    "nombre": "Tubo s/c 3/4'' (26,7 x 3,91) sch80",
+    "precio": "13.109"
+  },
+  {
+    "nombre": "Tubo s/c 3/4'' (26,7 x 5,56) sch160",
+    "precio": "17.303"
+  },
+  {
+    "nombre": "Tubo s/c 3/4'' (26,7 x 7,82)  xxs",
+    "precio": "21.717"
+  },
+  {
+    "nombre": "Tubo s/c 3/8'' (17,1 x 2,31) sch40",
+    "precio": "5.442"
+  },
+  {
+    "nombre": "Tubo s/c 3/8'' (17,1 x 3,2) sch80",
+    "precio": "7.103"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 11,13) sch120",
+    "precio": "134.444"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 13,49) sch160",
+    "precio": "159.231"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 17,1) xxs",
+    "precio": "194.780"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 4,05) s.liv",
+    "precio": "38.815"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 6,02) sch40",
+    "precio": "66.975"
+  },
+  {
+    "nombre": "Tubo s/c 4'' (114,3 x 8,56) sch80",
+    "precio": "93.001"
+  },
+  {
+    "nombre": "Tubo s/c 5'' (139,7 x 4,85) s.liv",
+    "precio": "58.624"
+  },
+  {
+    "nombre": "Tubo s/c 5'' (141,3 x 12,7) sch120",
+    "precio": "189.709"
+  },
+  {
+    "nombre": "Tubo s/c 5'' (141,3 x 15,88) sch160",
+    "precio": "231.115"
+  },
+  {
+    "nombre": "Tubo s/c 5'' (141,3 x 6,55) sch40",
+    "precio": "89.883"
+  },
+  {
+    "nombre": "Tubo s/c 5'' (141,3 x 9,52) sch80",
+    "precio": "127.897"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (165,1 x 4,85) s.liv",
+    "precio": "72.815"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 10,97) sch80",
+    "precio": "183.690"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 14,27) sch120",
+    "precio": "267.178"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 18,26) sch160",
+    "precio": "333.014"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 21,95) xxs",
+    "precio": "390.472"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 22,22)",
+    "precio": "394.558"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 4,78)",
+    "precio": "93.587"
+  },
+  {
+    "nombre": "Tubo s/c 6'' (168,3 x 7,11) sch40",
+    "precio": "121.957"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 10,31) sch60",
+    "precio": "261.640"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 12,7) sch80",
+    "precio": "278.984"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 15,09) sch100",
+    "precio": "374.201"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 18,26) sch120",
+    "precio": "445.793"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 22,2)  xxs",
+    "precio": "531.341"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 23,01) sch160",
+    "precio": "548.462"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 6,35) sch20",
+    "precio": "164.213"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 7,04) sch30",
+    "precio": "181.468"
+  },
+  {
+    "nombre": "Tubo s/c 8'' (219,1 x 8,18) sch40",
+    "precio": "183.612"
+  },
+  {
+    "nombre": "Tubos sch-40 de 1 1/2 (48,3 x 3,68)",
+    "precio": "79.299"
+  },
+  {
+    "nombre": "Tubos sch-40 de 1 1/4 (42,2 x 3,56)",
+    "precio": "66.610"
+  },
+  {
+    "nombre": "Tubos sch-40 de 1''    (33,4 x 3,38)",
+    "precio": "50.021"
+  },
+  {
+    "nombre": "Tubos sch-40 de 1/2''  (21,3 x 2,77)",
+    "precio": "26.550"
+  },
+  {
+    "nombre": "Tubos sch-40 de 2 1/2 (76,1 x 5,16)",
+    "precio": "169.019"
+  },
+  {
+    "nombre": "Tubos sch-40 de 2''    (60,3 x 3,91)",
+    "precio": "106.213"
+  },
+  {
+    "nombre": "Tubos sch-40 de 3''    (88,9 x 5,49)",
+    "precio": "221.219"
+  },
+  {
+    "nombre": "Tubos sch-40 de 3/4''  (26,7 x 2,87)",
+    "precio": "34.977"
+  },
+  {
+    "nombre": "Tubos sch-40 de 4''   (114,3 x 6,02)",
+    "precio": "314.296"
+  },
+  {
+    "nombre": "Tubos sch-80 de 1 1/2 (48,3 x 5,08)",
+    "precio": "136.823"
+  },
+  {
+    "nombre": "Tubos sch-80 de 1 1/4 (42,2 x 4,85)",
+    "precio": "118.374"
+  },
+  {
+    "nombre": "Tubos sch-80 de 1'' (33,4 x 4,55)",
+    "precio": "87.414"
+  },
+  {
+    "nombre": "Tubos sch-80 de 1/2''  (21,3 x 3,73)",
+    "precio": "55.037"
+  },
+  {
+    "nombre": "Tubos sch-80 de 2 1/2 (76,1 x 7,01)",
+    "precio": "287.551"
+  },
+  {
+    "nombre": "Tubos sch-80 de 2''    (60,3 x 5,54)",
+    "precio": "188.920"
+  },
+  {
+    "nombre": "Tubos sch-80 de 3''    (88,9 x 7,62)",
+    "precio": "385.255"
+  },
+  {
+    "nombre": "Tubos sch-80 de 3/4''  (26,7 x 3,91)",
+    "precio": "59.045"
+  },
+  {
+    "nombre": "Tubos sch-80 de 4''   (114,3 x 8,56)",
+    "precio": "562.869"
+  },
+  {
+    "nombre": "U.p.n.  80 x 45 x 6 x metro",
+    "precio": "16.570"
+  },
+  {
+    "nombre": "U.p.n. 100 x 50 x 6 x metro",
+    "precio": "20.008"
+  },
+  {
+    "nombre": "U.p.n. 120 x 55 x 7 x metro",
+    "precio": "25.801"
+  },
+  {
+    "nombre": "U.p.n. 140 x 60 x 7 x metro",
+    "precio": "67.938"
+  },
+  {
+    "nombre": "U.p.n. 160 x 65 x 7,5 x metro",
+    "precio": "79.754"
+  },
+  {
+    "nombre": "U.p.n. 180 x 70 x 8 x metro",
+    "precio": "94.770"
+  },
+  {
+    "nombre": "U.p.n. 200 x 75 x 8,5 x metro",
+    "precio": "109.482"
+  },
+  {
+    "nombre": "U.p.n. 220 x 80 x 9 x metro",
+    "precio": "131.032"
+  },
+  {
+    "nombre": "U.p.n. 240 x 85 x 9,5 x metro",
+    "precio": "147.976"
+  },
+  {
+    "nombre": "U.p.n. 260 x 90 x 10 x metro",
+    "precio": "169.764"
+  },
+  {
+    "nombre": "U.p.n. 280 x 95 x 10 x metro",
+    "precio": "198.579"
+  },
+  {
+    "nombre": "U.p.n. 300 x 100 x 10 x metro",
+    "precio": "206.484"
+  },
+  {
+    "nombre": "U.p.n. 320 x 100 x 14 x metro",
+    "precio": "285.434"
+  },
+  {
+    "nombre": "U.p.n. 400 x 110 x 14 x metro",
+    "precio": "342.519"
+  },
+  {
+    "nombre": "Varilla alamb 5 hilos",
+    "precio": "1.074"
+  },
+  {
+    "nombre": "Varilla alamb 6 hilos",
+    "precio": "1.074"
+  },
+  {
+    "nombre": "Varilla alamb 7 hilos",
+    "precio": "1.129"
+  }
+]

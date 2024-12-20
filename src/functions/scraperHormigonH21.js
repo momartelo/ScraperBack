@@ -7,7 +7,7 @@ const urls = {
   itar: "https://itar.com.ar/producto/m3-hormigon-elab-h21-as10/",
   perfil: "https://hormigonline.com.ar/producto/hormigon-tipo-h21-2/",
   suministro_de_obras:
-    "https://suministrodeobras.com.ar/producto/hormigon-elaborado-m3-h21-2/",
+    "https://suministrodeobras.mercadoshops.com.ar/MLA-903605508-hormigon-elaborado-m3-h21-_JM#polycard_client=search-nordic-mshops&position=2&search_layout=grid&type=item&tracking_id=8ce542dd-1c72-46b0-a0a0-f785ba632856",
   promat: "https://promatacopio.com/producto/hormigon-elaborado-h21-x-m%c2%b3/",
 };
 
@@ -17,26 +17,47 @@ console.log(__filename);
 const __dirname = path.dirname(__filename);
 console.log(__dirname);
 
+function priceRegulator(price) {
+  const cleanPrice = price.replace(/[^\d.-]/g, "");
+  const number = parseFloat(cleanPrice);
+  const formattedPrice = number.toLocaleString("es-AR", {
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2,
+  });
+  return formattedPrice;
+}
+
 const obtenerDatosItar = async (page) => {
-  const items = await page.$$eval(".product-summary", (elements) =>
-    elements.map((element) => {
+  const items = await page.$$eval(".product-summary", (elements) => {
+    // Acceder a la función priceRegulator dentro del contexto del navegador
+    const priceRegulator = (price) => {
+      const cleanPrice = price.replace(/[^\d.-]/g, "");
+      const number = parseFloat(cleanPrice);
+      const formattedPrice = number.toLocaleString("es-AR", {
+        minimumFractionDigits: 2,
+        maximumFractionDigits: 2,
+      });
+      return formattedPrice;
+    };
+
+    return elements.map((element) => {
       const nombre =
         element.querySelector("h1")?.innerText.trim() || "Nombre no disponible"; // Valor por defecto
 
-      const precio =
+      const prePrecio =
         element
           .querySelector(".woocommerce-Price-amount.amount bdi")
           ?.innerText.trim() || "Precio no disponible"; // Valor por defecto
 
       const proveedor = "Itar";
 
-      return { nombre, precio, proveedor };
-    })
-  );
+      // Devolver solo el precio ya formateado
+      return { nombre, precio: priceRegulator(prePrecio), proveedor };
+    });
+  });
 
   return items;
 };
-
 const obtenerDatosPerfil = async (page) => {
   const items = await page.$$eval(".summary.entry-summary", (elements) =>
     elements.map((element) => {
@@ -59,17 +80,18 @@ const obtenerDatosPerfil = async (page) => {
 };
 
 const obtenerDatosSuministro = async (page) => {
-  const items = await page.$$eval(".summary.entry-summary", (elements) =>
+  const items = await page.$$eval(".ui-pdp-component-list", (elements) =>
     elements.map((element) => {
       const nombre =
-        element.querySelector(".product_title.entry-title")?.innerText.trim() ||
+        element.querySelector(".ui-pdp-title")?.innerText.trim() ||
         "Nombre no disponible"; // Valor por defecto
+      console.log(nombre);
 
       const precio =
         element
-          .querySelector(".woocommerce-Price-amount.amount bdi")
+          .querySelector(".andes-money-amount__fraction")
           ?.innerText.trim() || "Precio no disponible"; // Valor por defecto
-
+      console.log(precio);
       const proveedor = "Suministro de Obras";
 
       return { nombre, precio, proveedor };
@@ -152,7 +174,8 @@ export const scrapeHormigon = async () => {
       path.join(jsonDirectory, fileName),
       JSON.stringify(hormigones, null, 2)
     );
-    console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
+    console.log(`Datos gardados en ${path.join(jsonDirectory, fileName)}`);
+    console.log("Esto es hormigones desde el scrape", hormigones);
     return {
       message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
       fileName: fileName,

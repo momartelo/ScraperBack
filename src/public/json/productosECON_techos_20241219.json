@@ -1,0 +1,2722 @@
+[
+  {
+    "nombre": "Bobina gris pizarra ancho 487 m.m. e-0.80 m.m.",
+    "precio": "14.297"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 0.50 mt",
+    "precio": "5.794"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 1.00 mt",
+    "precio": "11.592"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 1.50 mt",
+    "precio": "17.392"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 10.00 mt",
+    "precio": "115.956"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 10.50 mt",
+    "precio": "121.755"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 11.00 mt",
+    "precio": "127.551"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 11.50 mt",
+    "precio": "133.350"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 12.00 mt",
+    "precio": "139.149"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 12.50 mt",
+    "precio": "144.948"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 13.00 mt",
+    "precio": "150.744"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 2.00 mt",
+    "precio": "23.188"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 2.50 mt",
+    "precio": "28.986"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 3.00 mt",
+    "precio": "34.786"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 3.50 mt",
+    "precio": "40.584"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 4.00 mt",
+    "precio": "46.380"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 4.50 mt",
+    "precio": "52.180"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 5.00 mt",
+    "precio": "57.976"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 5.50 mt",
+    "precio": "63.772"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 6.00 mt",
+    "precio": "69.572"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 6.50 mt",
+    "precio": "75.370"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 7.00 mt",
+    "precio": "81.170"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 7.50 mt",
+    "precio": "86.966"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 8.00 mt",
+    "precio": "92.765"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 8.50 mt",
+    "precio": "98.564"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 9.00 mt",
+    "precio": "104.363"
+  },
+  {
+    "nombre": "Chapa cinca acan c-25 x 9.50 mt",
+    "precio": "110.156"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 0.50 mt",
+    "precio": "4.886"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 1.00 mt",
+    "precio": "9.774"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 1.50 mt",
+    "precio": "14.666"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 10.00 mt",
+    "precio": "97.790"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 10.50 mt",
+    "precio": "102.676"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 11.00 mt",
+    "precio": "107.568"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 11.50 mt",
+    "precio": "112.457"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 12.00 mt",
+    "precio": "117.349"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 12.50 mt",
+    "precio": "122.237"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 13.00 mt",
+    "precio": "127.129"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 2.00 mt",
+    "precio": "19.555"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 2.50 mt",
+    "precio": "24.447"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 3.00 mt",
+    "precio": "29.335"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 3.50 mt",
+    "precio": "34.221"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 4.00 mt",
+    "precio": "39.113"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 4.50 mt",
+    "precio": "44.002"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 4.88 mt",
+    "precio": "48.894"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 5.00 mt",
+    "precio": "48.894"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 5.50 mt",
+    "precio": "53.782"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 6.00 mt",
+    "precio": "58.674"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 6.50 mt",
+    "precio": "63.563"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 7.00 mt",
+    "precio": "68.449"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 7.50 mt",
+    "precio": "73.341"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 8.00 mt",
+    "precio": "78.229"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 8.50 mt",
+    "precio": "83.121"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 9.00 mt",
+    "precio": "88.010"
+  },
+  {
+    "nombre": "Chapa cinca acan c-27 x 9.50 mt",
+    "precio": "92.902"
+  },
+  {
+    "nombre": "Chapa cinca acanalada c-22 x 1.00 mt",
+    "precio": "15.705"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 0.50 mts",
+    "precio": "6.244"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 1,00 mts",
+    "precio": "12.490"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 1,50 mts",
+    "precio": "18.736"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 10,00 mts",
+    "precio": "124.935"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 10,50 mts",
+    "precio": "131.183"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 11,00 mts",
+    "precio": "137.430"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 11,50 mts",
+    "precio": "143.676"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 12,00 mts",
+    "precio": "149.922"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 12,50 mts",
+    "precio": "156.071"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 13,00 mts",
+    "precio": "162.418"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 2,00 mts",
+    "precio": "24.983"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 2,50 mts",
+    "precio": "31.231"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 3,00 mts",
+    "precio": "37.478"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 3,50 mts",
+    "precio": "43.699"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 4,00 mts",
+    "precio": "49.970"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 4,50 mts",
+    "precio": "56.220"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 5,00 mts",
+    "precio": "62.466"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 5,50 mts",
+    "precio": "68.712"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 6,00 mts",
+    "precio": "74.959"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 6,50 mts",
+    "precio": "81.207"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 7,00 mts",
+    "precio": "87.454"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 7,50 mts",
+    "precio": "93.700"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 8,00 mts",
+    "precio": "99.946"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 8,50 mts",
+    "precio": "106.196"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 9,00 mts",
+    "precio": "112.442"
+  },
+  {
+    "nombre": "Chapa cinca t 90 cal 25 x 9,50 mts",
+    "precio": "118.689"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-22 x 1.00 mt",
+    "precio": "15.471"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 0.50 mt",
+    "precio": "5.851"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 1.00 mt",
+    "precio": "11.706"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 1.50 mt",
+    "precio": "17.560"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 10.00 mt",
+    "precio": "117.085"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 10.50 mt",
+    "precio": "122.938"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 11.00 mt",
+    "precio": "128.795"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 11.50 mt",
+    "precio": "134.649"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 12.00 mt",
+    "precio": "140.504"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 12.50 mt",
+    "precio": "146.356"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 13.00 mt",
+    "precio": "152.211"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 2.00 mt",
+    "precio": "23.415"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 2.50 mt",
+    "precio": "29.267"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 3.00 mt",
+    "precio": "35.124"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 3.50 mt",
+    "precio": "40.979"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 4.00 mt",
+    "precio": "46.833"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 4.50 mt",
+    "precio": "52.686"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 5.00 mt",
+    "precio": "58.540"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 5.50 mt",
+    "precio": "64.397"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 6.00 mt",
+    "precio": "70.252"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 6.50 mt",
+    "precio": "76.103"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 7.00 mt",
+    "precio": "81.959"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 7.50 mt",
+    "precio": "87.812"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 8.00 mt",
+    "precio": "93.670"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 8.50 mt",
+    "precio": "99.522"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 9.00 mt",
+    "precio": "105.376"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-25 x 9.50 mt",
+    "precio": "111.231"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 0.50 mt",
+    "precio": "4.934"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 1.00 mt",
+    "precio": "9.873"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 1.50 mt",
+    "precio": "14.807"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 10.00 mt",
+    "precio": "98.751"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 10.50 mt",
+    "precio": "103.687"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 11.00 mt",
+    "precio": "108.628"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 11.50 mt",
+    "precio": "113.564"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 12.00 mt",
+    "precio": "118.501"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 12.50 mt",
+    "precio": "123.441"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 13.00 mt",
+    "precio": "128.378"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 2.00 mt",
+    "precio": "19.748"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 2.50 mt",
+    "precio": "24.687"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 3.00 mt",
+    "precio": "29.621"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 3.50 mt",
+    "precio": "34.561"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 4.00 mt",
+    "precio": "39.500"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 4.50 mt",
+    "precio": "44.434"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 5.00 mt",
+    "precio": "49.374"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 5.50 mt",
+    "precio": "54.313"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 6.00 mt",
+    "precio": "59.247"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 6.50 mt",
+    "precio": "64.188"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 7.00 mt",
+    "precio": "69.127"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 7.50 mt",
+    "precio": "74.061"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 8.00 mt",
+    "precio": "79.001"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 8.50 mt",
+    "precio": "83.937"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 9.00 mt",
+    "precio": "88.874"
+  },
+  {
+    "nombre": "Chapa cinca t101 c-27 x 9.50 mt",
+    "precio": "93.814"
+  },
+  {
+    "nombre": "Chapa galv. acan.  1,52 c-30",
+    "precio": "10.192"
+  },
+  {
+    "nombre": "Chapa galv. acan.  2,13 c-30",
+    "precio": "14.272"
+  },
+  {
+    "nombre": "Chapa galv. acan.  2,75 c-30",
+    "precio": "18.352"
+  },
+  {
+    "nombre": "Chapa galv. acan.  3,66 c-30",
+    "precio": "24.470"
+  },
+  {
+    "nombre": "Chapa galv. acan.  4,27 c-30",
+    "precio": "28.545"
+  },
+  {
+    "nombre": "Chapa galv. acan.  4,57 c-30",
+    "precio": "30.587"
+  },
+  {
+    "nombre": "Chapa galva 1,83 x 1.10 c-27",
+    "precio": "17.303"
+  },
+  {
+    "nombre": "Chapa galva 2,13 x 1.10 c-27",
+    "precio": "20.184"
+  },
+  {
+    "nombre": "Chapa galva 2,75 x 1.10 c-27",
+    "precio": "25.953"
+  },
+  {
+    "nombre": "Chapa galva 3,35 x 1.10 c-27",
+    "precio": "31.719"
+  },
+  {
+    "nombre": "Chapa galva 3,66 x 1.10 c-27",
+    "precio": "34.607"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 0.50 mt",
+    "precio": "5.576"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 1.00 mt",
+    "precio": "11.153"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 1.50 mt",
+    "precio": "16.729"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 10.00 mt",
+    "precio": "111.555"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 10.50 mt",
+    "precio": "117.131"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 11.00 mt",
+    "precio": "122.710"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 11.50 mt",
+    "precio": "128.290"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 12.00 mt",
+    "precio": "133.865"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 12.50 mt",
+    "precio": "139.442"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 13.00 mt",
+    "precio": "145.024"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 2.00 mt",
+    "precio": "22.308"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 2.13 mt",
+    "precio": "23.335"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 2.50 mt",
+    "precio": "27.887"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 3.00 mt",
+    "precio": "33.463"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 3.35 mt",
+    "precio": "37.404"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 3.50 mt",
+    "precio": "39.042"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 3.66 mt",
+    "precio": "40.099"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 4.00 mt",
+    "precio": "44.619"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 4.50 mt",
+    "precio": "50.198"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 5.00 mt",
+    "precio": "55.777"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 5.50 mt",
+    "precio": "61.354"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 6.00 mt",
+    "precio": "66.930"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 6.50 mt",
+    "precio": "72.511"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 7.00 mt",
+    "precio": "78.088"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 7.50 mt",
+    "precio": "83.664"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 8.00 mt",
+    "precio": "89.241"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 8.50 mt",
+    "precio": "94.821"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 9.00 mt",
+    "precio": "100.399"
+  },
+  {
+    "nombre": "Chapa galva acan c-25 x 9.50 mt",
+    "precio": "105.976"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 0.50 mt",
+    "precio": "4.783"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 1.00 mt",
+    "precio": "9.570"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 1.50 mt",
+    "precio": "14.358"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 10.00 mt",
+    "precio": "95.735"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 10.50 mt",
+    "precio": "100.523"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 11.00 mt",
+    "precio": "105.311"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 11.50 mt",
+    "precio": "110.096"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 12.00 mt",
+    "precio": "114.883"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 12.50 mt",
+    "precio": "119.672"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 13.00 mt",
+    "precio": "124.459"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 2,75 mt",
+    "precio": "25.872"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 2.00 mt",
+    "precio": "19.143"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 2.50 mt",
+    "precio": "23.931"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 3.00 mt",
+    "precio": "28.719"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 3.50 mt",
+    "precio": "33.506"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 4.00 mt",
+    "precio": "38.291"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 4.50 mt",
+    "precio": "43.080"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 4.75 mt",
+    "precio": "44.912"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 5.00 mt",
+    "precio": "47.867"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 5.50 mt",
+    "precio": "52.656"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 6.00 mt",
+    "precio": "57.441"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 6.50 mt",
+    "precio": "62.228"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 7.00 mt",
+    "precio": "67.016"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 7.50 mt",
+    "precio": "71.799"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 8.00 mt",
+    "precio": "76.586"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 8.50 mt",
+    "precio": "81.375"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 9.00 mt",
+    "precio": "86.162"
+  },
+  {
+    "nombre": "Chapa galva acan c-27 x 9.50 mt",
+    "precio": "90.947"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 0.50 mt",
+    "precio": "3.399"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 1.00 mt",
+    "precio": "6.802"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 1.50 mt",
+    "precio": "10.204"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 10.00 mt",
+    "precio": "68.058"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 10.50 mt",
+    "precio": "71.463"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 11.00 mt",
+    "precio": "74.865"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 11.50 mt",
+    "precio": "78.268"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 12.00 mt",
+    "precio": "81.670"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 12.50 mt",
+    "precio": "85.075"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 13.00 mt",
+    "precio": "88.478"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 2.00 mt",
+    "precio": "13.607"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 2.50 mt",
+    "precio": "17.013"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 3.00 mt",
+    "precio": "20.414"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 3.50 mt",
+    "precio": "23.817"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 4.00 mt",
+    "precio": "27.219"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 4.50 mt",
+    "precio": "30.625"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 5.00 mt",
+    "precio": "34.028"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 5.50 mt",
+    "precio": "37.429"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 6.00 mt",
+    "precio": "40.832"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 6.50 mt",
+    "precio": "44.238"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 7.00 mt",
+    "precio": "47.640"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 7.50 mt",
+    "precio": "51.043"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 8.00 mt",
+    "precio": "54.444"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 8.50 mt",
+    "precio": "57.850"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 9.00 mt",
+    "precio": "61.253"
+  },
+  {
+    "nombre": "Chapa galva acan c-30 x 9.50 mt",
+    "precio": "64.655"
+  },
+  {
+    "nombre": "Chapa galvanizada  25  0.90 x 1.40 mts",
+    "precio": "12.366"
+  },
+  {
+    "nombre": "Chapa galvanizada  25  0.90 x 1.83 mts",
+    "precio": "16.153"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 0.50 mt",
+    "precio": "8.653"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 1.00 mt",
+    "precio": "17.308"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 1.50 mt",
+    "precio": "25.964"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 10.00 mt",
+    "precio": "173.103"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 10.50 mt",
+    "precio": "181.759"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 11.00 mt",
+    "precio": "190.416"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 11.50 mt",
+    "precio": "199.073"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 12.00 mt",
+    "precio": "207.728"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 12.50 mt",
+    "precio": "216.380"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 13.00 mt",
+    "precio": "225.036"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 2.00 mt",
+    "precio": "34.619"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 2.50 mt",
+    "precio": "43.271"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 3.00 mt",
+    "precio": "51.930"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 3.50 mt",
+    "precio": "60.585"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 4.00 mt",
+    "precio": "69.241"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 4.50 mt",
+    "precio": "77.896"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 5.00 mt",
+    "precio": "86.548"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 5.50 mt",
+    "precio": "95.207"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 6.00 mt",
+    "precio": "103.862"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 6.50 mt",
+    "precio": "112.518"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 7.00 mt",
+    "precio": "121.173"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 7.50 mt",
+    "precio": "129.826"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 8.00 mt",
+    "precio": "138.484"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 8.50 mt",
+    "precio": "147.139"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 9.00 mt",
+    "precio": "155.795"
+  },
+  {
+    "nombre": "Chapa prep acan azul c-25 x 9.50 mt",
+    "precio": "164.450"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 0.50 mt",
+    "precio": "8.083"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 1.00 mt",
+    "precio": "16.172"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 1.50 mt",
+    "precio": "24.262"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 10.00 mt",
+    "precio": "161.778"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 10.50 mt",
+    "precio": "169.867"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 11.00 mt",
+    "precio": "177.956"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 11.50 mt",
+    "precio": "186.046"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 12.00 mt",
+    "precio": "194.135"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 12.50 mt",
+    "precio": "202.224"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 13.00 mt",
+    "precio": "210.313"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 2.00 mt",
+    "precio": "32.351"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 2.50 mt",
+    "precio": "40.440"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 3.00 mt",
+    "precio": "48.529"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 3.50 mt",
+    "precio": "56.618"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 4.00 mt",
+    "precio": "64.708"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 4.50 mt",
+    "precio": "72.797"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 5.00 mt",
+    "precio": "80.886"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 5.50 mt",
+    "precio": "88.975"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 6.00 mt",
+    "precio": "97.064"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 6.50 mt",
+    "precio": "105.154"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 6.75 mt",
+    "precio": "109.198"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 7.00 mt",
+    "precio": "113.243"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 7.50 mt",
+    "precio": "121.332"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 8.00 mt",
+    "precio": "129.421"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 8.50 mt",
+    "precio": "137.510"
+  },
+  {
+    "nombre": "Chapa prep acan blanca c-25 x 9.00 mt",
+    "precio": "145.600"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 0.50 mt",
+    "precio": "8.291"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 1.00 mt",
+    "precio": "16.583"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 1.50 mt",
+    "precio": "24.874"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 10.00 mt",
+    "precio": "165.841"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 10.50 mt",
+    "precio": "174.132"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 11.00 mt",
+    "precio": "182.424"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 11.50 mt",
+    "precio": "190.717"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 12.00 mt",
+    "precio": "199.009"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 12.50 mt",
+    "precio": "207.300"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 13.00 mt",
+    "precio": "215.592"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 2.00 mt",
+    "precio": "33.166"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 2.50 mt",
+    "precio": "41.460"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 3.00 mt",
+    "precio": "49.751"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 3.50 mt",
+    "precio": "58.042"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 4.00 mt",
+    "precio": "66.334"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 4.50 mt",
+    "precio": "74.625"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 5.00 mt",
+    "precio": "82.919"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 5.50 mt",
+    "precio": "91.211"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 6.00 mt",
+    "precio": "99.502"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 6.50 mt",
+    "precio": "107.793"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 7.00 mt",
+    "precio": "116.087"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 7.50 mt",
+    "precio": "124.379"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 8.00 mt",
+    "precio": "132.670"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 8.50 mt",
+    "precio": "140.962"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 9.00 mt",
+    "precio": "149.253"
+  },
+  {
+    "nombre": "Chapa prep acan gris c-25 x 9.50 mt",
+    "precio": "157.549"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 0.50 mt",
+    "precio": "8.653"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 1.00 mt",
+    "precio": "17.308"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 1.50 mt",
+    "precio": "25.964"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 10.00 mt",
+    "precio": "173.103"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 10.50 mt",
+    "precio": "181.759"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 11.00 mt",
+    "precio": "190.416"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 11.50 mt",
+    "precio": "199.073"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 12.00 mt",
+    "precio": "207.728"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 12.50 mt",
+    "precio": "216.380"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 13.00 mt",
+    "precio": "225.036"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 2.00 mt",
+    "precio": "34.619"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 2.50 mt",
+    "precio": "43.271"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 3.00 mt",
+    "precio": "51.930"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 3.50 mt",
+    "precio": "60.585"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 4.00 mt",
+    "precio": "69.241"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 4.50 mt",
+    "precio": "77.896"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 5.00 mt",
+    "precio": "86.548"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 5.50 mt",
+    "precio": "95.207"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 6.00 mt",
+    "precio": "103.862"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 6.50 mt",
+    "precio": "112.518"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 7.00 mt",
+    "precio": "121.173"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 7.50 mt",
+    "precio": "129.826"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 8.00 mt",
+    "precio": "138.484"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 8.50 mt",
+    "precio": "147.139"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 9.00 mt",
+    "precio": "155.795"
+  },
+  {
+    "nombre": "Chapa prep acan milenium c-25 x 9.50 mt",
+    "precio": "164.450"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 0.50 mt",
+    "precio": "8.291"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 1.00 mt",
+    "precio": "16.583"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 1.50 mt",
+    "precio": "24.874"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 10.00 mt",
+    "precio": "165.841"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 10.50 mt",
+    "precio": "174.132"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 11.00 mt",
+    "precio": "182.424"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 11.50 mt",
+    "precio": "190.717"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 12.00 mt",
+    "precio": "199.009"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 12.50 mt",
+    "precio": "207.300"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 13.00 mt",
+    "precio": "215.592"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 2.00 mt",
+    "precio": "33.166"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 2.50 mt",
+    "precio": "41.460"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 3.00 mt",
+    "precio": "49.751"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 3.50 mt",
+    "precio": "58.042"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 4.00 mt",
+    "precio": "66.334"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 4.50 mt",
+    "precio": "74.625"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 5.00 mt",
+    "precio": "82.919"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 5.50 mt",
+    "precio": "91.211"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 6.00 mt",
+    "precio": "99.502"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 6.50 mt",
+    "precio": "107.793"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 7.00 mt",
+    "precio": "116.087"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 7.50 mt",
+    "precio": "124.379"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 8.00 mt",
+    "precio": "132.670"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 8.50 mt",
+    "precio": "140.962"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 9.00 mt",
+    "precio": "149.253"
+  },
+  {
+    "nombre": "Chapa prep acan negra c-25 x 9.50 mt",
+    "precio": "157.549"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 0.50 mt",
+    "precio": "8.494"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 1.00 mt",
+    "precio": "16.987"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 1.50 mt",
+    "precio": "25.481"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 10.00 mt",
+    "precio": "169.878"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 10.50 mt",
+    "precio": "178.372"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 11.00 mt",
+    "precio": "186.868"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 11.50 mt",
+    "precio": "195.361"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 12.00 mt",
+    "precio": "203.855"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 12.50 mt",
+    "precio": "212.349"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 13.00 mt",
+    "precio": "220.842"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 2.00 mt",
+    "precio": "33.975"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 2.50 mt",
+    "precio": "42.468"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 3.00 mt",
+    "precio": "50.962"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 3.50 mt",
+    "precio": "59.456"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 4.00 mt",
+    "precio": "67.952"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 4.50 mt",
+    "precio": "76.445"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 5.00 mt",
+    "precio": "84.939"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 5.50 mt",
+    "precio": "93.433"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 6.00 mt",
+    "precio": "101.926"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 6.50 mt",
+    "precio": "110.420"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 7.00 mt",
+    "precio": "118.914"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 7.50 mt",
+    "precio": "127.410"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 8.00 mt",
+    "precio": "135.903"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 8.50 mt",
+    "precio": "144.397"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 9.00 mt",
+    "precio": "152.891"
+  },
+  {
+    "nombre": "Chapa prep acan roja c-25 x 9.50 mt",
+    "precio": "161.384"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 0.50 mt",
+    "precio": "8.409"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 1.00 mt",
+    "precio": "16.822"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 1.50 mt",
+    "precio": "25.233"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 10.00 mt",
+    "precio": "168.247"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 10.50 mt",
+    "precio": "176.660"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 11.00 mt",
+    "precio": "185.071"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 11.50 mt",
+    "precio": "193.484"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 12.00 mt",
+    "precio": "201.895"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 12.50 mt",
+    "precio": "210.308"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 13.00 mt",
+    "precio": "218.719"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 2.00 mt",
+    "precio": "33.648"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 2.50 mt",
+    "precio": "42.058"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 3.00 mt",
+    "precio": "50.471"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 3.50 mt",
+    "precio": "58.886"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 4.00 mt",
+    "precio": "67.297"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 4.50 mt",
+    "precio": "75.710"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 5.00 mt",
+    "precio": "84.122"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 5.50 mt",
+    "precio": "92.535"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 6.00 mt",
+    "precio": "100.945"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 6.50 mt",
+    "precio": "109.358"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 7.00 mt",
+    "precio": "117.774"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 7.50 mt",
+    "precio": "126.183"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 8.00 mt",
+    "precio": "134.596"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 8.50 mt",
+    "precio": "143.009"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 9.00 mt",
+    "precio": "151.422"
+  },
+  {
+    "nombre": "Chapa prep acan verde c-25 x 9.50 mt",
+    "precio": "159.832"
+  },
+  {
+    "nombre": "Chapa prep. gris t101 c-22 x 10.00 mts",
+    "precio": "216.292"
+  },
+  {
+    "nombre": "Chapa prep. gris t101 c-22 x 13.00 mts",
+    "precio": "281.165"
+  },
+  {
+    "nombre": "Chapa prep. verde t101 c-22 x 10.50 mts",
+    "precio": "224.912"
+  },
+  {
+    "nombre": "Chapa prep. verde t101 c-22 x 8.50 mts",
+    "precio": "182.083"
+  },
+  {
+    "nombre": "Cierre de cumbrera pgt galvanizada",
+    "precio": "2.687"
+  },
+  {
+    "nombre": "Cierre de cumbrera pgt prepintada",
+    "precio": "3.225"
+  },
+  {
+    "nombre": "Cierre de cumbrera zt zip rib",
+    "precio": "4.764"
+  },
+  {
+    "nombre": "Clip de borde pgl",
+    "precio": "1.026"
+  },
+  {
+    "nombre": "Clip de borde zl zip rib",
+    "precio": "1.873"
+  },
+  {
+    "nombre": "Clip intermedio zh zip rib",
+    "precio": "1.519"
+  },
+  {
+    "nombre": "Clips intermedio pgh",
+    "precio": "761"
+  },
+  {
+    "nombre": "Compriband 10 x 10 x ml",
+    "precio": "154"
+  },
+  {
+    "nombre": "Compriband 20 x 20 x ml",
+    "precio": "436"
+  },
+  {
+    "nombre": "Compriband 40 x 50 x ml",
+    "precio": "1.523"
+  },
+  {
+    "nombre": "Compriband 50 x 70 x ml",
+    "precio": "2.669"
+  },
+  {
+    "nombre": "Compriband liso autoadh 5 x 20mm x 2.6 m",
+    "precio": "977"
+  },
+  {
+    "nombre": "Compriband sinusoidal sieg band x ml",
+    "precio": "3.800"
+  },
+  {
+    "nombre": "Compriband sinusoidal x ml",
+    "precio": "475"
+  },
+  {
+    "nombre": "Compriband trapezoidal base x ml",
+    "precio": "1.282"
+  },
+  {
+    "nombre": "Compriband trapezoidal cumbrera x ml",
+    "precio": "1.282"
+  },
+  {
+    "nombre": "Compriband trapezoidal sieg b x ml",
+    "precio": "8.790"
+  },
+  {
+    "nombre": "Compriband trapezoidal sieg c x ml",
+    "precio": "5.492"
+  },
+  {
+    "nombre": "Gancho  baston  50 mm completo",
+    "precio": "166"
+  },
+  {
+    "nombre": "Gancho  baston  60 mm completo",
+    "precio": "182"
+  },
+  {
+    "nombre": "Gancho  baston  70 mm completo",
+    "precio": "196"
+  },
+  {
+    "nombre": "Gancho  baston 100 mm completo",
+    "precio": "255"
+  },
+  {
+    "nombre": "Gancho  estructural 20 x 50",
+    "precio": "382"
+  },
+  {
+    "nombre": "Gancho  estructural 20 x 60",
+    "precio": "394"
+  },
+  {
+    "nombre": "Gancho  estructural 20 x 70",
+    "precio": "394"
+  },
+  {
+    "nombre": "Gancho  estructural 30 x 40",
+    "precio": "354"
+  },
+  {
+    "nombre": "Gancho  estructural 30 x 50",
+    "precio": "366"
+  },
+  {
+    "nombre": "Gancho  estructural 30 x 60",
+    "precio": "379"
+  },
+  {
+    "nombre": "Gancho  estructural 30 x 70",
+    "precio": "419"
+  },
+  {
+    "nombre": "Gancho  estructural 40 x 100",
+    "precio": "483"
+  },
+  {
+    "nombre": "Gancho  estructural 40 x 40",
+    "precio": "386"
+  },
+  {
+    "nombre": "Gancho  estructural 40 x 50",
+    "precio": "386"
+  },
+  {
+    "nombre": "Gancho  estructural 40 x 60",
+    "precio": "391"
+  },
+  {
+    "nombre": "Gancho  estructural 40 x 80",
+    "precio": "447"
+  },
+  {
+    "nombre": "Gancho  estructural 50 x 100",
+    "precio": "483"
+  },
+  {
+    "nombre": "Gancho  estructural 50 x 50",
+    "precio": "419"
+  },
+  {
+    "nombre": "Gancho estructural 130 x 270",
+    "precio": "37"
+  },
+  {
+    "nombre": "Gancho estructural 60 x 120",
+    "precio": "559"
+  },
+  {
+    "nombre": "Madera 6 x 1 1/2 caja 5000",
+    "precio": "140.957"
+  },
+  {
+    "nombre": "Madera 6 x 3/4 d caja 15000",
+    "precio": "267.353"
+  },
+  {
+    "nombre": "Madera 6x2 d caja 3500",
+    "precio": "91.149"
+  },
+  {
+    "nombre": "Moldura quiebre de techo zp zip rib",
+    "precio": "7.600"
+  },
+  {
+    "nombre": "Pg400 galvanizada espesor 0.50 m.m.",
+    "precio": "29.834"
+  },
+  {
+    "nombre": "Pg400 prepintado espesor 0.50 m.m.",
+    "precio": "41.818"
+  },
+  {
+    "nombre": "Pg400 prepintado espesor 0.70 m.m.",
+    "precio": "53.072"
+  },
+  {
+    "nombre": "Prep lisa blanca c-25 4x8",
+    "precio": "38.252"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 0.50 mt",
+    "precio": "8.531"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 1.00 mt",
+    "precio": "17.063"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 1.50 mt",
+    "precio": "25.594"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 10.00 mt",
+    "precio": "170.639"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 10.50 mt",
+    "precio": "179.170"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 11.00 mt",
+    "precio": "187.702"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 11.50 mt",
+    "precio": "196.239"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 12.00 mt",
+    "precio": "204.770"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 12.50 mt",
+    "precio": "213.302"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 13.00 mt",
+    "precio": "221.833"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 2.00 mt",
+    "precio": "34.126"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 2.50 mt",
+    "precio": "42.657"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 3.00 mt",
+    "precio": "51.192"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 3.50 mt",
+    "precio": "59.723"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 4.00 mt",
+    "precio": "68.255"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 4.50 mt",
+    "precio": "76.786"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 5.00 mt",
+    "precio": "85.318"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 5.50 mt",
+    "precio": "93.849"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 6.00 mt",
+    "precio": "102.384"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 6.50 mt",
+    "precio": "110.915"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 7.00 mt",
+    "precio": "119.447"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 7.50 mt",
+    "precio": "127.978"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 8.00 mt",
+    "precio": "136.510"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 8.50 mt",
+    "precio": "145.043"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 9.00 mt",
+    "precio": "153.576"
+  },
+  {
+    "nombre": "Prep t101 azul c-25 x 9.50 mt",
+    "precio": "162.107"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 0.50 mt",
+    "precio": "7.970"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 1.00 mt",
+    "precio": "15.942"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 1.50 mt",
+    "precio": "23.919"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 10.00 mt",
+    "precio": "159.466"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 10.50 mt",
+    "precio": "167.438"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 11.00 mt",
+    "precio": "175.412"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 11.50 mt",
+    "precio": "183.387"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 12.00 mt",
+    "precio": "191.360"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 12.50 mt",
+    "precio": "199.330"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 13.00 mt",
+    "precio": "207.305"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 2.00 mt",
+    "precio": "31.891"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 2.50 mt",
+    "precio": "39.865"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 3.00 mt",
+    "precio": "47.839"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 3.50 mt",
+    "precio": "55.809"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 4.00 mt",
+    "precio": "63.783"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 4.50 mt",
+    "precio": "71.758"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 5.00 mt",
+    "precio": "79.732"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 5.50 mt",
+    "precio": "87.704"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 6.00 mt",
+    "precio": "95.680"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 6.50 mt",
+    "precio": "103.650"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 7.00 mt",
+    "precio": "111.623"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 7.50 mt",
+    "precio": "119.599"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 8.00 mt",
+    "precio": "127.571"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 8.50 mt",
+    "precio": "135.545"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 9.00 mt",
+    "precio": "143.520"
+  },
+  {
+    "nombre": "Prep t101 blanca c-25 x 9.50 mt",
+    "precio": "151.490"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 1.00 mt (calibre 27)",
+    "precio": "14.568"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 1.50 mt (calibre 27)",
+    "precio": "21.855"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 10.00 mt (calibre 27)",
+    "precio": "145.719"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 10.50 mt (calibre 27)",
+    "precio": "153.004"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 11.00 mt (calibre 27)",
+    "precio": "160.287"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 11.50 mt (calibre 27)",
+    "precio": "167.575"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 12.00 mt (calibre 27)",
+    "precio": "174.860"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 12.50 mt (calibre 27)",
+    "precio": "182.148"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 13.00 mt (calibre 27)",
+    "precio": "189.400"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 2.00 mt (calibre 27)",
+    "precio": "29.140"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 2.50 mt (calibre 27)",
+    "precio": "36.429"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 3.00 mt (calibre 27)",
+    "precio": "43.712"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 3.50 mt (calibre 27)",
+    "precio": "51.675"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 4.00 mt (calibre 27)",
+    "precio": "58.284"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 4.50 mt (calibre 27)",
+    "precio": "65.573"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 5.00 mt (calibre 27)",
+    "precio": "72.858"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 5.50 mt (calibre 27)",
+    "precio": "80.141"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 6.00 mt (calibre 27)",
+    "precio": "87.428"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 6.50 mt (calibre 27)",
+    "precio": "94.713"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 7.00 mt (calibre 27)",
+    "precio": "102.002"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 7.50 mt (calibre 27)",
+    "precio": "109.287"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 8.00 mt (calibre 27)",
+    "precio": "116.575"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 8.50 mt (calibre 27)",
+    "precio": "123.857"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 9.00 mt (calibre 27)",
+    "precio": "131.146"
+  },
+  {
+    "nombre": "Prep t101 blanca c-27 x 9.50 mt (calibre 27)",
+    "precio": "138.431"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 0.50 mt",
+    "precio": "8.370"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 1.00 mt",
+    "precio": "16.742"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 1.50 mt",
+    "precio": "25.114"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 10.00 mt",
+    "precio": "167.438"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 10.50 mt",
+    "precio": "175.814"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 11.00 mt",
+    "precio": "184.183"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 11.50 mt",
+    "precio": "192.555"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 12.00 mt",
+    "precio": "200.928"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 12.50 mt",
+    "precio": "209.300"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 13.00 mt",
+    "precio": "217.675"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 2.00 mt",
+    "precio": "33.486"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 2.50 mt",
+    "precio": "41.856"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 3.00 mt",
+    "precio": "50.231"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 3.50 mt",
+    "precio": "58.601"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 4.00 mt",
+    "precio": "66.975"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 4.50 mt",
+    "precio": "75.345"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 5.00 mt",
+    "precio": "83.717"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 5.50 mt",
+    "precio": "92.090"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 6.00 mt",
+    "precio": "100.463"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 6.50 mt",
+    "precio": "108.837"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 7.00 mt",
+    "precio": "117.207"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 7.50 mt",
+    "precio": "125.579"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 8.00 mt",
+    "precio": "133.952"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 8.50 mt",
+    "precio": "142.324"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 9.00 mt",
+    "precio": "150.694"
+  },
+  {
+    "nombre": "Prep t101 gris c-25 x 9.50 mt",
+    "precio": "159.068"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 0.50 mt",
+    "precio": "8.531"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 1.00 mt",
+    "precio": "17.063"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 1.50 mt",
+    "precio": "25.594"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 10.00 mt",
+    "precio": "170.634"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 10.50 mt",
+    "precio": "179.165"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 11.00 mt",
+    "precio": "187.697"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 11.50 mt",
+    "precio": "196.228"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 12.00 mt",
+    "precio": "204.760"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 12.50 mt",
+    "precio": "213.291"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 13.00 mt",
+    "precio": "221.823"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 2.00 mt",
+    "precio": "34.126"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 2.50 mt",
+    "precio": "42.657"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 3.00 mt",
+    "precio": "51.189"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 3.50 mt",
+    "precio": "59.720"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 4.00 mt",
+    "precio": "68.253"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 4.50 mt",
+    "precio": "76.784"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 5.00 mt",
+    "precio": "85.316"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 5.50 mt",
+    "precio": "93.847"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 6.00 mt",
+    "precio": "102.379"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 6.50 mt",
+    "precio": "110.910"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 7.00 mt",
+    "precio": "119.445"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 7.50 mt",
+    "precio": "127.975"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 8.00 mt",
+    "precio": "136.508"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 8.50 mt",
+    "precio": "145.039"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 9.00 mt",
+    "precio": "153.571"
+  },
+  {
+    "nombre": "Prep t101 milenium c-25 x 9.50 mt",
+    "precio": "162.102"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 0.50 mt",
+    "precio": "8.931"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 1.00 mt",
+    "precio": "17.864"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 1.50 mt",
+    "precio": "26.798"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 10.00 mt",
+    "precio": "178.664"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 10.50 mt",
+    "precio": "187.598"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 11.00 mt",
+    "precio": "196.531"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 11.50 mt",
+    "precio": "205.466"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 12.00 mt",
+    "precio": "214.396"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 12.50 mt",
+    "precio": "223.332"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 13.00 mt",
+    "precio": "232.266"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 2.00 mt",
+    "precio": "35.731"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 2.50 mt",
+    "precio": "44.662"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 3.00 mt",
+    "precio": "53.596"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 3.50 mt",
+    "precio": "62.531"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 4.00 mt",
+    "precio": "71.465"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 4.50 mt",
+    "precio": "80.398"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 5.00 mt",
+    "precio": "89.329"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 5.50 mt",
+    "precio": "98.263"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 6.00 mt",
+    "precio": "107.196"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 6.50 mt",
+    "precio": "116.133"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 7.00 mt",
+    "precio": "125.066"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 7.50 mt",
+    "precio": "133.997"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 8.00 mt",
+    "precio": "142.931"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 8.50 mt",
+    "precio": "151.864"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 9.00 mt",
+    "precio": "160.798"
+  },
+  {
+    "nombre": "Prep t101 negra c-25 x 9.50 mt",
+    "precio": "169.734"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 0.50 mt",
+    "precio": "8.572"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 1.00 mt",
+    "precio": "17.146"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 1.50 mt",
+    "precio": "25.721"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 10.00 mt",
+    "precio": "171.485"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 10.50 mt",
+    "precio": "180.061"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 11.00 mt",
+    "precio": "188.635"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 11.50 mt",
+    "precio": "197.207"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 12.00 mt",
+    "precio": "205.783"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 12.50 mt",
+    "precio": "214.355"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 13.00 mt",
+    "precio": "222.933"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 2.00 mt",
+    "precio": "34.295"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 2.50 mt",
+    "precio": "42.867"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 3.00 mt",
+    "precio": "51.445"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 3.50 mt",
+    "precio": "60.017"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 4.00 mt",
+    "precio": "68.593"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 4.50 mt",
+    "precio": "77.168"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 5.00 mt",
+    "precio": "85.740"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 5.50 mt",
+    "precio": "94.317"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 6.00 mt",
+    "precio": "102.889"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 6.50 mt",
+    "precio": "111.466"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 7.00 mt",
+    "precio": "120.038"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 7.50 mt",
+    "precio": "128.612"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 8.00 mt",
+    "precio": "137.188"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 8.50 mt",
+    "precio": "145.762"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 9.00 mt",
+    "precio": "154.339"
+  },
+  {
+    "nombre": "Prep t101 roja c-25 x 9.50 mt",
+    "precio": "162.911"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 0.50 mt",
+    "precio": "8.291"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 1.00 mt",
+    "precio": "16.583"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 1.50 mt",
+    "precio": "24.874"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 10.00 mt",
+    "precio": "165.841"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 10.50 mt",
+    "precio": "174.132"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 11.00 mt",
+    "precio": "182.424"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 11.50 mt",
+    "precio": "190.717"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 12.00 mt",
+    "precio": "199.009"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 12.50 mt",
+    "precio": "207.300"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 13.00 mt",
+    "precio": "215.592"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 2.00 mt",
+    "precio": "33.166"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 2.50 mt",
+    "precio": "41.460"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 3.00 mt",
+    "precio": "49.751"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 3.50 mt",
+    "precio": "58.042"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 4.00 mt",
+    "precio": "66.334"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 4.50 mt",
+    "precio": "74.625"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 5.00 mt",
+    "precio": "82.919"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 5.50 mt",
+    "precio": "91.211"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 6.00 mt",
+    "precio": "99.502"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 6.50 mt",
+    "precio": "107.793"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 7.00 mt",
+    "precio": "116.087"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 7.50 mt",
+    "precio": "124.379"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 8.00 mt",
+    "precio": "132.670"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 8.50 mt",
+    "precio": "140.962"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 9.00 mt",
+    "precio": "149.253"
+  },
+  {
+    "nombre": "Prep t101 verde c-25 x 9.50 mt",
+    "precio": "157.549"
+  },
+  {
+    "nombre": "Rollo para zingueria chapa color x ml",
+    "precio": "8.069"
+  },
+  {
+    "nombre": "Sist.zip rib 0.80 m.m. gris pizarra x m2",
+    "precio": "54.352"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  1 1/2\"\"",
+    "precio": "131"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  1\"\"",
+    "precio": "106"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  2 1/2\" para madera\"",
+    "precio": "295"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  2\" para madera\"",
+    "precio": "205"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  2\"\"",
+    "precio": "146"
+  },
+  {
+    "nombre": "Tornillos aut. rosc.  3/4\"\"",
+    "precio": "154"
+  },
+  {
+    "nombre": "Tornillos aut. rosc. 2 1/2\"\"",
+    "precio": "179"
+  },
+  {
+    "nombre": "Tornillos aut. rosc. 4\"\"",
+    "precio": "614"
+  },
+  {
+    "nombre": "Tornillos aut. rosc. t1 12 x 3/4\" x caja 3500 un\"",
+    "precio": "218.402"
+  }
+]

@@ -7,8 +7,8 @@ import { fileURLToPath } from "url";
 const urls = {
   aceros: "https://econ.ar/productos/aceros/",
   aceros_Inoxidables: "https://econ.ar/productos/aceros-inoxidables/",
-  aislaciones: "https://econ.ar/productos/aislaciones",
-  amoblamientos: "https://econ.ar/productos/amoblamiento",
+  aislaciones: "https://econ.ar/productos/aislaciones/",
+  amoblamientos: "https://econ.ar/productos/amoblamiento/",
   carpinterias: "https://econ.ar/productos/carpinterias/",
   construccion_en_seco: "https://econ.ar/productos/construccion-en-seco/",
   construcciones_especiales:
@@ -16,16 +16,16 @@ const urls = {
   electricidad: "https://econ.ar/productos/electricidad-e-iluminacion/",
   electro: "https://econ.ar/productos/Electro/",
   ferreteria: "https://econ.ar/productos/ferreteria/",
-  fibra_de_vidrio: "https://econ.ar/productos/fibra-de-vidrio",
+  fibra_de_vidrio: "https://econ.ar/productos/fibra-de-vidrio/",
   jardineria: "https://econ.ar/productos/jardineria-y-camping/",
   maderas: "https://econ.ar/productos/maderas/",
-  marmoles_granitos: "https://econ.ar/productos/marmoles-y-granitos",
+  marmoles_granitos: "https://econ.ar/productos/marmoles-y-granitos/",
   obra_gruesa: "https://econ.ar/productos/obra-gruesa/",
   pinturas: "https://econ.ar/productos/pinturas/",
   pisos_y_revestimientos: "https://econ.ar/productos/pisos-y-revestimientos/",
   refrigeracion: "https://econ.ar/productos/refrigeracion/",
   sanitarios_y_griferias: "https://econ.ar/productos/sanitarios-y-griferias/",
-  techos: "https://econ.ar/productos/techos",
+  techos: "https://econ.ar/productos/techos/",
   vidrios: "https://econ.ar/productos/vidrios/",
   yeseria: "https://econ.ar/productos/yeseria/",
   zingueria: "https://econ.ar/productos/zingueria/",
@@ -49,6 +49,7 @@ async function scrapePage(url) {
     const $ = cheerio.load(html);
 
     const items = $(".col-lg-3 .item");
+    console.log("Cantidad de Items", items.length);
     if (items.length === 0) {
       return false;
     }
@@ -69,6 +70,7 @@ async function scrapePage(url) {
 
 export async function scrapeAllPages(category) {
   const baseUrl = urls[category]; // Obtener la URL base de la categoría
+  console.log("Base URL", baseUrl);
   if (!baseUrl) {
     throw new Error("Categoría no válida.");
   }
@@ -89,6 +91,7 @@ export async function scrapeAllPages(category) {
 
   const formattedDate = `${year}${month}${day}`; // Formato YYYYMMDD
   const fileName = `productosECON_${category}_${formattedDate}.json`;
+  console.log("Nombre del archivo", fileName);
 
   // Define la ruta para guardar el archivo JSON
   const jsonDirectory = path.join(__dirname, "../public/json");
@@ -102,6 +105,7 @@ export async function scrapeAllPages(category) {
     path.join(jsonDirectory, fileName),
     JSON.stringify(productos, null, 2)
   );
+  console.log(productos);
   console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
   return {
     message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,

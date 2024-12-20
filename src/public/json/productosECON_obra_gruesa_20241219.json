@@ -1,0 +1,2158 @@
+[
+  {
+    "nombre": "Aceite de linaza x 900cc",
+    "precio": "2.214"
+  },
+  {
+    "nombre": "Aceite de linaza x 900cc",
+    "precio": "2.150"
+  },
+  {
+    "nombre": "Aceite wd-40  aerosol  155gr",
+    "precio": "5.387"
+  },
+  {
+    "nombre": "Aceite wd-40  aerosol  155gr",
+    "precio": "5.230"
+  },
+  {
+    "nombre": "Aceite wd-40  aerosol  220gr flexi-tapa",
+    "precio": "8.013"
+  },
+  {
+    "nombre": "Aceite wd-40  aerosol  220gr flexi-tapa",
+    "precio": "7.780"
+  },
+  {
+    "nombre": "Aceitera  metal 400 cc pico flexible",
+    "precio": "14.068"
+  },
+  {
+    "nombre": "Aceitera  metal 400 cc pico flexible",
+    "precio": "13.658"
+  },
+  {
+    "nombre": "Acelerante de frague x1l *weber",
+    "precio": "6.779"
+  },
+  {
+    "nombre": "Acelerante de frague x1l *weber",
+    "precio": "6.581"
+  },
+  {
+    "nombre": "Acelerante de frague x5l *weber",
+    "precio": "16.269"
+  },
+  {
+    "nombre": "Acelerante de frague x5l *weber",
+    "precio": "15.795"
+  },
+  {
+    "nombre": "Acido muriatico x 1lt",
+    "precio": "1.994"
+  },
+  {
+    "nombre": "Acido muriatico x 1lt",
+    "precio": "1.936"
+  },
+  {
+    "nombre": "Adoquin tensolite gris 22x8x11,25 mod universal",
+    "precio": "329"
+  },
+  {
+    "nombre": "Anclaje quimico x300ml**weber",
+    "precio": "48.745"
+  },
+  {
+    "nombre": "Anclaje quimico x300ml**weber",
+    "precio": "47.325"
+  },
+  {
+    "nombre": "Anclas p/nivelacion lash",
+    "precio": "2.379"
+  },
+  {
+    "nombre": "Anclas p/nivelacion lash",
+    "precio": "2.332"
+  },
+  {
+    "nombre": "Antifrosto balde 25 kg",
+    "precio": "62.597"
+  },
+  {
+    "nombre": "Antifrosto bidon 6 kg",
+    "precio": "16.699"
+  },
+  {
+    "nombre": "Antifrosto tambor 250 kg",
+    "precio": "529.930"
+  },
+  {
+    "nombre": "Antisol normalizado balde 20 lts",
+    "precio": "67.770"
+  },
+  {
+    "nombre": "Antisol normalizado tambor 200 lts",
+    "precio": "592.242"
+  },
+  {
+    "nombre": "Antisol normalizado x lts",
+    "precio": "5.977"
+  },
+  {
+    "nombre": "Antisol solvente tambor 200 lts",
+    "precio": "2.430.863"
+  },
+  {
+    "nombre": "Antisol solvente x lt",
+    "precio": "13.282"
+  },
+  {
+    "nombre": "Base coat x30kg **weber *webertherm",
+    "precio": "39.810"
+  },
+  {
+    "nombre": "Base coat x30kg **weber *webertherm",
+    "precio": "38.650"
+  },
+  {
+    "nombre": "Bloque de hº norviguet 19x19x39",
+    "precio": "791"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 13x19cm esq. mitad",
+    "precio": "609"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 13x19cm mitad",
+    "precio": "563"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 13x39cm",
+    "precio": "1.082"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 13x39cm esq",
+    "precio": "995"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 13x39cm u",
+    "precio": "1.178"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 19x19cm esq. mitad",
+    "precio": "733"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 19x19cm mitad",
+    "precio": "735"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 19x39cm",
+    "precio": "1.299"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 19x39cm esq.",
+    "precio": "1.430"
+  },
+  {
+    "nombre": "Bloque de hº simil piedra 19x39cm u",
+    "precio": "1.430"
+  },
+  {
+    "nombre": "Bloque de hº tensol 13x19x19 mitad",
+    "precio": "277"
+  },
+  {
+    "nombre": "Bloque de hº tensol 13x19x39",
+    "precio": "485"
+  },
+  {
+    "nombre": "Bloque de hº tensol 13x19x39 u para encad",
+    "precio": "530"
+  },
+  {
+    "nombre": "Bloque de hº tensol 19x19x19 mitad mfd",
+    "precio": "392"
+  },
+  {
+    "nombre": "Bloque de hº tensol 19x19x39",
+    "precio": "690"
+  },
+  {
+    "nombre": "Bloque de hº tensol 19x19x39 para dintel",
+    "precio": "674"
+  },
+  {
+    "nombre": "Bloque de hº tensol 9x19x39 p/tabique",
+    "precio": "345"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite  9x19x39 *t10 c/u",
+    "precio": "497"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite  9x19x39 *t10 c/u",
+    "precio": "483"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 13x19x39 *t13 c/u",
+    "precio": "701"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 13x19x39 *t13 c/u",
+    "precio": "681"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 19x19x39 *t20 c/u",
+    "precio": "905"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 19x19x39 *t20 c/u",
+    "precio": "879"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 19x19x39 *t20 u p/encadenado c/u",
+    "precio": "969"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite 19x19x39 *t20 u p/encadenado c/u",
+    "precio": "941"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite simil piedra 13x19x39 c/u",
+    "precio": "1.479"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite simil piedra 13x19x39 c/u",
+    "precio": "1.436"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite simil piedra 19x19x39 c/u",
+    "precio": "1.766"
+  },
+  {
+    "nombre": "Bloque hormigon tensolite simil piedra 19x19x39 c/u",
+    "precio": "1.715"
+  },
+  {
+    "nombre": "Bovedilla tergopol 12cm altura",
+    "precio": "4.100"
+  },
+  {
+    "nombre": "Bovedilla tergopol 12cm altura",
+    "precio": "3.981"
+  },
+  {
+    "nombre": "Bovedilla tergopol 16cm altura",
+    "precio": "5.967"
+  },
+  {
+    "nombre": "Bovedilla tergopol 16cm altura",
+    "precio": "5.794"
+  },
+  {
+    "nombre": "Brea x 1 kg",
+    "precio": "1.972"
+  },
+  {
+    "nombre": "Brea x 1 kg",
+    "precio": "1.914"
+  },
+  {
+    "nombre": "Cal hidratada bolsa 25kg",
+    "precio": "3.766"
+  },
+  {
+    "nombre": "Cal hidratada bolsa 25kg",
+    "precio": "3.656"
+  },
+  {
+    "nombre": "Cemento Holcim x 50kg",
+    "precio": "8.780"
+  },
+  {
+    "nombre": "Cemento Loma Negra x 50kg.",
+    "precio": "9.785"
+  },
+  {
+    "nombre": "Cemento Loma Negra x 50kg.",
+    "precio": "9.500"
+  },
+  {
+    "nombre": "Cemento rapido vitecso*blanco x750 gr",
+    "precio": "2.038"
+  },
+  {
+    "nombre": "Cemento rapido vitecso*blanco x750 gr",
+    "precio": "1.979"
+  },
+  {
+    "nombre": "Cemento rapido vitecso*gris x750 gr",
+    "precio": "1.643"
+  },
+  {
+    "nombre": "Cemento rapido vitecso*gris x750 gr",
+    "precio": "1.595"
+  },
+  {
+    "nombre": "Desencofrante madera sinteplast x lts",
+    "precio": "4.244"
+  },
+  {
+    "nombre": "Desengrasante x lt",
+    "precio": "11.278"
+  },
+  {
+    "nombre": "Desincrustante x l",
+    "precio": "11.544"
+  },
+  {
+    "nombre": "Desoxidante grafitado x 1 lts  **penetr",
+    "precio": "12.215"
+  },
+  {
+    "nombre": "Desoxidante grafitado x 1 lts  **penetr",
+    "precio": "11.859"
+  },
+  {
+    "nombre": "Desoxidante vitecso x 1lt",
+    "precio": "4.716"
+  },
+  {
+    "nombre": "Desoxidante vitecso x 1lt",
+    "precio": "4.579"
+  },
+  {
+    "nombre": "Desoxidante vitecso x1/2lt",
+    "precio": "3.093"
+  },
+  {
+    "nombre": "Desoxidante vitecso x1/2lt",
+    "precio": "3.003"
+  },
+  {
+    "nombre": "Destapa cañerias \"pnt\"\"1/2\"",
+    "precio": "2.085"
+  },
+  {
+    "nombre": "Destapa cañerias \"pnt\"\"1/2\"",
+    "precio": "2.025"
+  },
+  {
+    "nombre": "Destapa cañerias *druvi x 1lt",
+    "precio": "4.861"
+  },
+  {
+    "nombre": "Destapa cañerias *druvi x 1lt",
+    "precio": "4.719"
+  },
+  {
+    "nombre": "Destapa cañerias baño bio-clin",
+    "precio": "6.292"
+  },
+  {
+    "nombre": "Destapa cañerias baño bio-clin",
+    "precio": "6.109"
+  },
+  {
+    "nombre": "Destapa cañerias cauchet x 1l",
+    "precio": "3.555"
+  },
+  {
+    "nombre": "Destapa cañerias cauchet x 1l",
+    "precio": "3.451"
+  },
+  {
+    "nombre": "Diluyente m (monomero) x 1l",
+    "precio": "10.211"
+  },
+  {
+    "nombre": "Diluyente m (monomero) x 500cc",
+    "precio": "4.607"
+  },
+  {
+    "nombre": "Endurecedor no metalico x 1 kg",
+    "precio": "563"
+  },
+  {
+    "nombre": "Endurecedor no metalico x 25 kg",
+    "precio": "9.024"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 300ml",
+    "precio": "10.913"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 300ml",
+    "precio": "10.595"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 500ml",
+    "precio": "14.848"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 500ml",
+    "precio": "14.416"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 750ml",
+    "precio": "16.760"
+  },
+  {
+    "nombre": "Espuma de poliur.suprabond 750ml",
+    "precio": "16.272"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 300ml",
+    "precio": "10.824"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 300ml",
+    "precio": "10.509"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 500ml",
+    "precio": "17.122"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 500ml",
+    "precio": "16.624"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 750ml",
+    "precio": "20.939"
+  },
+  {
+    "nombre": "Espuma de poliuretano fischer x 750ml",
+    "precio": "20.329"
+  },
+  {
+    "nombre": "Ferrite comun azul x kg az13",
+    "precio": "8.300"
+  },
+  {
+    "nombre": "Ferrite comun negro x kg ne11",
+    "precio": "8.673"
+  },
+  {
+    "nombre": "Ferrite comun verde x kg ve13",
+    "precio": "8.300"
+  },
+  {
+    "nombre": "Ferrite concentrado amarillo am10 x kg",
+    "precio": "7.627"
+  },
+  {
+    "nombre": "Ferrite concentrado negro ne14 x kg",
+    "precio": "12.636"
+  },
+  {
+    "nombre": "Ferrite concentrado rojo x kg ro10",
+    "precio": "7.678"
+  },
+  {
+    "nombre": "Fino endufin weber x 25 kg.",
+    "precio": "5.555"
+  },
+  {
+    "nombre": "Fino endufin weber x 25 kg.",
+    "precio": "5.393"
+  },
+  {
+    "nombre": "Fino stuko  exterior *klaukol",
+    "precio": "8.868"
+  },
+  {
+    "nombre": "Fino stuko  exterior *klaukol",
+    "precio": "8.610"
+  },
+  {
+    "nombre": "Fino stuko norteño interior",
+    "precio": "6.566"
+  },
+  {
+    "nombre": "Fino stuko norteño interior",
+    "precio": "6.375"
+  },
+  {
+    "nombre": "Fino weber al yeso gf x 25kg",
+    "precio": "14.331"
+  },
+  {
+    "nombre": "Fino weber al yeso gf x 25kg",
+    "precio": "13.914"
+  },
+  {
+    "nombre": "Fino weber hidrorepel. x 25 kgs",
+    "precio": "7.432"
+  },
+  {
+    "nombre": "Fino weber hidrorepel. x 25 kgs",
+    "precio": "7.215"
+  },
+  {
+    "nombre": "Fino weber tec hydromur x 25kg",
+    "precio": "31.966"
+  },
+  {
+    "nombre": "Fino weber tec hydromur x 25kg",
+    "precio": "31.035"
+  },
+  {
+    "nombre": "Fl flowcal x 1l",
+    "precio": "48.618"
+  },
+  {
+    "nombre": "Fl flowcal x 5l",
+    "precio": "215.648"
+  },
+  {
+    "nombre": "Fl flowner block x 2,5 kg",
+    "precio": "9.387"
+  },
+  {
+    "nombre": "Fl hidroflow x 1 l",
+    "precio": "31.373"
+  },
+  {
+    "nombre": "Fl hidroflow x 5 l",
+    "precio": "141.753"
+  },
+  {
+    "nombre": "Fl la calita clasica x 600 gr",
+    "precio": "9.991"
+  },
+  {
+    "nombre": "Fl la calita impermeable x 600 gr",
+    "precio": "12.102"
+  },
+  {
+    "nombre": "Fl memb cement fluida x 13 kg",
+    "precio": "77.876"
+  },
+  {
+    "nombre": "Lad/hueco  8x18x33 c/u",
+    "precio": "296"
+  },
+  {
+    "nombre": "Lad/hueco  8x18x33 c/u",
+    "precio": "287"
+  },
+  {
+    "nombre": "Lad/hueco  8x18x33 p/cerr.x198",
+    "precio": "58.513"
+  },
+  {
+    "nombre": "Lad/hueco  8x18x33 p/cerr.x198",
+    "precio": "56.809"
+  },
+  {
+    "nombre": "Lad/hueco 12x18x33 c/u",
+    "precio": "347"
+  },
+  {
+    "nombre": "Lad/hueco 12x18x33 c/u",
+    "precio": "337"
+  },
+  {
+    "nombre": "Lad/hueco 12x18x33 p/cerr.x144",
+    "precio": "49.991"
+  },
+  {
+    "nombre": "Lad/hueco 12x18x33 p/cerr.x144",
+    "precio": "48.534"
+  },
+  {
+    "nombre": "Lad/hueco 18x18x33 c/u",
+    "precio": "521"
+  },
+  {
+    "nombre": "Lad/hueco 18x18x33 c/u",
+    "precio": "506"
+  },
+  {
+    "nombre": "Lad/hueco 18x18x33 p/cerr.x 90",
+    "precio": "46.910"
+  },
+  {
+    "nombre": "Lad/hueco 18x18x33 p/cerr.x 90",
+    "precio": "45.544"
+  },
+  {
+    "nombre": "Ladrillo de vidrio mod.*burbujas combinadas",
+    "precio": "9.257"
+  },
+  {
+    "nombre": "Ladrillo de vidrio mod.*burbujas combinadas",
+    "precio": "8.987"
+  },
+  {
+    "nombre": "Ladrillo de vidrio mod.*nube",
+    "precio": "9.257"
+  },
+  {
+    "nombre": "Ladrillo de vidrio mod.*nube",
+    "precio": "8.987"
+  },
+  {
+    "nombre": "Ladrillo eps 100 x 420 x 1000 mm",
+    "precio": "2.615"
+  },
+  {
+    "nombre": "Ladrillo eps 120 x 420 x 1000 mm",
+    "precio": "3.135"
+  },
+  {
+    "nombre": "Ladrillo macizos comunes x 1000",
+    "precio": "137.093"
+  },
+  {
+    "nombre": "Ladrillo macizos comunes x 1000",
+    "precio": "133.100"
+  },
+  {
+    "nombre": "Ladrillo natural p/losa; 420x1000x100mm",
+    "precio": "3.637"
+  },
+  {
+    "nombre": "Ladrillo natural p/losa; 420x1000x120mm",
+    "precio": "4.391"
+  },
+  {
+    "nombre": "Ladrillo natural p/losa; 420x1000x160mm",
+    "precio": "6.139"
+  },
+  {
+    "nombre": "Ladrillo tejuela refract. c/u",
+    "precio": "843"
+  },
+  {
+    "nombre": "Ladrillo tejuela refract. c/u",
+    "precio": "818"
+  },
+  {
+    "nombre": "Ladrillos macizos comunes c/u",
+    "precio": "150"
+  },
+  {
+    "nombre": "Ladrillos macizos comunes c/u",
+    "precio": "145"
+  },
+  {
+    "nombre": "Ladrillos macizos semi-visto c/u",
+    "precio": "10.603"
+  },
+  {
+    "nombre": "Ladrillos macizos semi-visto c/u",
+    "precio": "10.395"
+  },
+  {
+    "nombre": "Ladrillos macizos semi-visto x 1000",
+    "precio": "15.437"
+  },
+  {
+    "nombre": "Ladrillos macizos semi-visto x 1000",
+    "precio": "15.134"
+  },
+  {
+    "nombre": "M mapethene geo 40 kg",
+    "precio": "94.219"
+  },
+  {
+    "nombre": "M planicrete fix x 20 lt",
+    "precio": "152.336"
+  },
+  {
+    "nombre": "M planicrete x 2 lt latex",
+    "precio": "20.897"
+  },
+  {
+    "nombre": "M planicrete x 20 lt latex",
+    "precio": "216.840"
+  },
+  {
+    "nombre": "M planicrete x 5 lt latex",
+    "precio": "53.910"
+  },
+  {
+    "nombre": "M planiseal 288 a+b x 25 kg",
+    "precio": "53.486"
+  },
+  {
+    "nombre": "M planiseal 88 x 25 kg",
+    "precio": "33.455"
+  },
+  {
+    "nombre": "M planitop fino x 20 kg",
+    "precio": "6.223"
+  },
+  {
+    "nombre": "M plastimul ar x 18 lt",
+    "precio": "56.850"
+  },
+  {
+    "nombre": "M porocol x 25 kg",
+    "precio": "8.938"
+  },
+  {
+    "nombre": "M ultrabond eco  balde 16 kg",
+    "precio": "194.693"
+  },
+  {
+    "nombre": "M ultralite s2 x 15 kg",
+    "precio": "150.070"
+  },
+  {
+    "nombre": "Mortero antihumedad weber fino imper f x25 kg",
+    "precio": "25.281"
+  },
+  {
+    "nombre": "Mortero antihumedad weber grueso imper g x25 kg ap",
+    "precio": "13.140"
+  },
+  {
+    "nombre": "Mortero de reparación hormivisto x8kg",
+    "precio": "11.723"
+  },
+  {
+    "nombre": "Mortero fluido alta resist. weber.tec.grout x30kg",
+    "precio": "12.452"
+  },
+  {
+    "nombre": "Mortero obturador de aguas weber.tec.imperstop 5k",
+    "precio": "21.491"
+  },
+  {
+    "nombre": "Mortero tec.dur p/reparacion y fijacion x25kg",
+    "precio": "28.179"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x100mm",
+    "precio": "7.842"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x10mm",
+    "precio": "771"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x15mm",
+    "precio": "1.153"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x20mm",
+    "precio": "1.537"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x25mm",
+    "precio": "1.924"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x30mm",
+    "precio": "2.308"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x40mm",
+    "precio": "3.077"
+  },
+  {
+    "nombre": "Placa standard de 1000x1000x50mm",
+    "precio": "3.847"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x100mm",
+    "precio": "15.392"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x15mm",
+    "precio": "2.308"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x20mm",
+    "precio": "3.077"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x25mm",
+    "precio": "3.847"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x30mm",
+    "precio": "4.617"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x40mm",
+    "precio": "6.156"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x50mm",
+    "precio": "7.695"
+  },
+  {
+    "nombre": "Placa standard de 2000x1000x60mm",
+    "precio": "9.234"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x100mm",
+    "precio": "3.921"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x10mm",
+    "precio": "392"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x15mm",
+    "precio": "586"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x20mm",
+    "precio": "783"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x25mm",
+    "precio": "978"
+  },
+  {
+    "nombre": "Placa standard de 500x1000x30mm",
+    "precio": "1.175"
+  },
+  {
+    "nombre": "Placas para construcción medidas varias x m3",
+    "precio": "65.940"
+  },
+  {
+    "nombre": "Placas standard medidas varias x m3",
+    "precio": "86.972"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 1000x1000x20mm",
+    "precio": "1.335"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 1000x1000x25mm",
+    "precio": "1.668"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 1000x1000x30mm",
+    "precio": "2.002"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 1000x1000x40mm",
+    "precio": "2.672"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 1000x1000x50mm",
+    "precio": "3.339"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 2000x1000x20mm",
+    "precio": "2.672"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 2000x1000x25mm",
+    "precio": "3.339"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 2000x1000x30mm",
+    "precio": "4.007"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 2000x1000x40mm",
+    "precio": "5.345"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 2000x1000x50mm",
+    "precio": "6.458"
+  },
+  {
+    "nombre": "Placas tecnopor construcción 500x1000x20mm",
+    "precio": "667"
+  },
+  {
+    "nombre": "Plasticor x 40 kg",
+    "precio": "6.150"
+  },
+  {
+    "nombre": "Poste nv olimpico esquinero 261+36 quiebre",
+    "precio": "34.368"
+  },
+  {
+    "nombre": "Poste nv olimpico intermedio 260+40 quiebre",
+    "precio": "18.692"
+  },
+  {
+    "nombre": "Poste nv olimpico puntal 163",
+    "precio": "12.267"
+  },
+  {
+    "nombre": "Poste nv olimpico refuerzo 260+40 quiebre",
+    "precio": "19.984"
+  },
+  {
+    "nombre": "Poste nv recto 220x11x8",
+    "precio": "9.668"
+  },
+  {
+    "nombre": "Poste nv recto 240x11x8",
+    "precio": "10.545"
+  },
+  {
+    "nombre": "Poste nv recto 300x11x8",
+    "precio": "13.183"
+  },
+  {
+    "nombre": "Poste olimpico recto-refuerzo//esquinero 3mt-8x10*tensolite",
+    "precio": "17.632"
+  },
+  {
+    "nombre": "Poste olimpico recto-refuerzo//esquinero 3mt-8x10*tensolite",
+    "precio": "17.119"
+  },
+  {
+    "nombre": "Poste p/alambrado 2.40 -8x10 -tensolite",
+    "precio": "14.106"
+  },
+  {
+    "nombre": "Poste p/alambrado 2.40 -8x10 -tensolite",
+    "precio": "13.695"
+  },
+  {
+    "nombre": "Poste puntal -",
+    "precio": "13.068"
+  },
+  {
+    "nombre": "Poste puntal -",
+    "precio": "12.687"
+  },
+  {
+    "nombre": "Poste tensolite olimpico intermedio 0,08x0,1x3m",
+    "precio": "11.367"
+  },
+  {
+    "nombre": "Poste tensolite olimpico puntal 0,05x0,1x1,9m",
+    "precio": "26.406"
+  },
+  {
+    "nombre": "Premecol ADHESIVO LATEX 20KG",
+    "precio": "237.904"
+  },
+  {
+    "nombre": "Premecol ADHESIVO LATEX 4KG",
+    "precio": "43.289"
+  },
+  {
+    "nombre": "Premecol BASE FLEX (Basecoat) Gris 30KG",
+    "precio": "34.301"
+  },
+  {
+    "nombre": "Premecol Base Flex (TOP COAT) 30Kg Gris Cemen",
+    "precio": "42.929"
+  },
+  {
+    "nombre": "Premecol REVOQUE MONOCAPA 2 EN 1 MANUAL  30 Kg",
+    "precio": "5.245"
+  },
+  {
+    "nombre": "Premecol REVOQUE MONOCAPA 2 EN 1 PROYECTABLE  30 Kg",
+    "precio": "5.658"
+  },
+  {
+    "nombre": "Premecol REVOQUE MONOCAPA 3 EN 1 MANUAL  30 Kg",
+    "precio": "5.826"
+  },
+  {
+    "nombre": "Premecol REVOQUE MONOCAPA 3 EN 1 PROYECTABLE  30 Kg",
+    "precio": "6.625"
+  },
+  {
+    "nombre": "Premecol TEC AUTONIVELANTE 25 Kg",
+    "precio": "42.190"
+  },
+  {
+    "nombre": "Premecol TEC GROUT 30 Kg",
+    "precio": "16.029"
+  },
+  {
+    "nombre": "Premecol THERMOCOL REVOQUE TERMOAISLANTE 10 Kg",
+    "precio": "17.838"
+  },
+  {
+    "nombre": "Rev. cem weber superiggam blanco x30kg",
+    "precio": "15.122"
+  },
+  {
+    "nombre": "Revofacil",
+    "precio": "6.980"
+  },
+  {
+    "nombre": "Separadores al 15 alambre x 10 u",
+    "precio": "2.345"
+  },
+  {
+    "nombre": "Separadores al 20 alambre x 10 u",
+    "precio": "2.462"
+  },
+  {
+    "nombre": "Separadores al 25 alambre x 10 u",
+    "precio": "3.359"
+  },
+  {
+    "nombre": "Separadores al 30 alambre x 10 u",
+    "precio": "3.491"
+  },
+  {
+    "nombre": "Separadores tc 15 caballete x 10 u",
+    "precio": "1.046"
+  },
+  {
+    "nombre": "Separadores tc 20 caballete x 10 u",
+    "precio": "1.114"
+  },
+  {
+    "nombre": "Separadores tc 25 caballete x 10 u",
+    "precio": "1.892"
+  },
+  {
+    "nombre": "Separadores tc 35 caballete x 10 u",
+    "precio": "2.230"
+  },
+  {
+    "nombre": "Separadores tr 20 rueda x 10 u",
+    "precio": "1.706"
+  },
+  {
+    "nombre": "Separadores tr 25 rueda x 10 u",
+    "precio": "1.904"
+  },
+  {
+    "nombre": "Separadores tr 30 rueda x 10 u",
+    "precio": "2.886"
+  },
+  {
+    "nombre": "Separol as ar tambor 200 lts",
+    "precio": "1.048.537"
+  },
+  {
+    "nombre": "Separol as ar x lts",
+    "precio": "5.402"
+  },
+  {
+    "nombre": "Separol madera balde  20 lts",
+    "precio": "223.092"
+  },
+  {
+    "nombre": "Separol madera tambor 200 lts",
+    "precio": "1.863.032"
+  },
+  {
+    "nombre": "Separol madera x lts",
+    "precio": "12.344"
+  },
+  {
+    "nombre": "Separol precast tambor 200 lts",
+    "precio": "635.576"
+  },
+  {
+    "nombre": "Separol precast x l",
+    "precio": "3.583"
+  },
+  {
+    "nombre": "Sika 1 doy pack 1 lt",
+    "precio": "1.689"
+  },
+  {
+    "nombre": "Sika 1 sachets 5 lts",
+    "precio": "5.643"
+  },
+  {
+    "nombre": "Sika 1 tambor 200 kg",
+    "precio": "172.022"
+  },
+  {
+    "nombre": "Sika 1 x 20 kg",
+    "precio": "20.075"
+  },
+  {
+    "nombre": "Sika 2 x 1 kg",
+    "precio": "2.420"
+  },
+  {
+    "nombre": "Sika 3 balde 20 kg",
+    "precio": "44.811"
+  },
+  {
+    "nombre": "Sika 3 bidon 2 kg",
+    "precio": "5.382"
+  },
+  {
+    "nombre": "Sika 3 bidon 6 kg",
+    "precio": "14.047"
+  },
+  {
+    "nombre": "Sika 3 sin cloruro balde 25 kg",
+    "precio": "117.483"
+  },
+  {
+    "nombre": "Sika 3 sin cloruro bidon 2 kg",
+    "precio": "11.298"
+  },
+  {
+    "nombre": "Sika 3 sin cloruro bidon 6 kg",
+    "precio": "28.975"
+  },
+  {
+    "nombre": "Sika acril techo 20 kg blanco",
+    "precio": "68.984"
+  },
+  {
+    "nombre": "Sika acril techo 20 kg rojo",
+    "precio": "68.984"
+  },
+  {
+    "nombre": "Sika aer tambor 200 kg",
+    "precio": "832.477"
+  },
+  {
+    "nombre": "Sika aer x kg",
+    "precio": "4.848"
+  },
+  {
+    "nombre": "Sika anchorfix 1 - cartucho 300ml",
+    "precio": "45.138"
+  },
+  {
+    "nombre": "Sika anchorfix 2 - cartucho 300ml",
+    "precio": "64.501"
+  },
+  {
+    "nombre": "Sika anchorfix boquilla",
+    "precio": "2.301"
+  },
+  {
+    "nombre": "Sika combiflex sg 15 cm x 25 m",
+    "precio": "542.344"
+  },
+  {
+    "nombre": "Sika combiflex sg 15 cm x ml",
+    "precio": "23.907"
+  },
+  {
+    "nombre": "Sika frentes 20 lts blanco",
+    "precio": "160.575"
+  },
+  {
+    "nombre": "Sika latex balde 20 lts",
+    "precio": "213.376"
+  },
+  {
+    "nombre": "Sika latex bidon 2 lts",
+    "precio": "23.510"
+  },
+  {
+    "nombre": "Sika latex bidon 5 lts",
+    "precio": "57.910"
+  },
+  {
+    "nombre": "Sika latex tambor 200 lts",
+    "precio": "2.014.577"
+  },
+  {
+    "nombre": "Sika latex x lt",
+    "precio": "15.795"
+  },
+  {
+    "nombre": "Sika monotop 107 doy pack 8kg",
+    "precio": "14.915"
+  },
+  {
+    "nombre": "Sika monotop 107 x kg",
+    "precio": "2.881"
+  },
+  {
+    "nombre": "Sika monotop 312 bolsa 25 kg",
+    "precio": "40.163"
+  },
+  {
+    "nombre": "Sika monotop 615 bolsa 25 kg",
+    "precio": "33.167"
+  },
+  {
+    "nombre": "Sika monotop 615 x kg",
+    "precio": "1.519"
+  },
+  {
+    "nombre": "Sika monotop 620 bolsa 25 kg",
+    "precio": "31.953"
+  },
+  {
+    "nombre": "Sika monotop 620 bolsa x kg",
+    "precio": "1.155"
+  },
+  {
+    "nombre": "Sika poxitar ar jgo 20 lts",
+    "precio": "996.228"
+  },
+  {
+    "nombre": "Sika precast balde 20 kg",
+    "precio": "136.495"
+  },
+  {
+    "nombre": "Sika precast tambor 250 kg",
+    "precio": "1.379.844"
+  },
+  {
+    "nombre": "Sika precast x kg",
+    "precio": "8.341"
+  },
+  {
+    "nombre": "Sika primer lata 250 ml",
+    "precio": "23.015"
+  },
+  {
+    "nombre": "Sika pump tambor 200 kg",
+    "precio": "305.404"
+  },
+  {
+    "nombre": "Sika sellavial 20 kg negro",
+    "precio": "312.882"
+  },
+  {
+    "nombre": "Sika swell a rollo 10 mts",
+    "precio": "24.546"
+  },
+  {
+    "nombre": "Sika swell p profiles rollo 10 mts",
+    "precio": "503.044"
+  },
+  {
+    "nombre": "Sika swell s-2 unipack 600 ml",
+    "precio": "66.532"
+  },
+  {
+    "nombre": "Sika thinner lata 4 lts",
+    "precio": "39.702"
+  },
+  {
+    "nombre": "Sika thinner x lt",
+    "precio": "11.027"
+  },
+  {
+    "nombre": "Sika top armatec 110 ec jgo predosif 4 kg",
+    "precio": "122.199"
+  },
+  {
+    "nombre": "Sika viscocrete 20 he tambor 220 kg",
+    "precio": "3.762.669"
+  },
+  {
+    "nombre": "Sika viscocrete 3085 tambor 220 kg",
+    "precio": "3.944.148"
+  },
+  {
+    "nombre": "Sika viscoflow-20 tambor 210 kg",
+    "precio": "1.463.585"
+  },
+  {
+    "nombre": "Sika wt-100 x 20 kg",
+    "precio": "213.106"
+  },
+  {
+    "nombre": "Sika wt-100 x 200 kg",
+    "precio": "1.692.936"
+  },
+  {
+    "nombre": "Sika wt-100 x kg",
+    "precio": "12.017"
+  },
+  {
+    "nombre": "Sikacim ligante balde 10 lts",
+    "precio": "44.743"
+  },
+  {
+    "nombre": "Sikacim ligante balde 20 lts",
+    "precio": "86.873"
+  },
+  {
+    "nombre": "Sikacim ligante bidon 4 lts",
+    "precio": "19.546"
+  },
+  {
+    "nombre": "Sikacim ligante doy pack 1 kg",
+    "precio": "5.821"
+  },
+  {
+    "nombre": "Sikacim ligante tambor 200 lts",
+    "precio": "854.176"
+  },
+  {
+    "nombre": "Sikacrete plus balde 20 kg",
+    "precio": "43.241"
+  },
+  {
+    "nombre": "Sikacrete plus tambor 220 kg",
+    "precio": "349.779"
+  },
+  {
+    "nombre": "Sikacrete plus x kg",
+    "precio": "2.581"
+  },
+  {
+    "nombre": "Sikacryl profesional 1 kg",
+    "precio": "12.234"
+  },
+  {
+    "nombre": "Sikacryl profesional 5 kg",
+    "precio": "46.047"
+  },
+  {
+    "nombre": "Sikafiber force pp48/rad-48s 5kg macrofibra",
+    "precio": "218.576"
+  },
+  {
+    "nombre": "Sikaflex 11 fc plus 300 ml blanco",
+    "precio": "21.830"
+  },
+  {
+    "nombre": "Sikaflex 11 fc plus 300 ml gris",
+    "precio": "21.830"
+  },
+  {
+    "nombre": "Sikaflex 112 cristal clear 290 ml",
+    "precio": "27.093"
+  },
+  {
+    "nombre": "Sikaflex 1a plus 600 ml gris",
+    "precio": "30.201"
+  },
+  {
+    "nombre": "Sikaflex 221 300 ml blanco",
+    "precio": "20.997"
+  },
+  {
+    "nombre": "Sikaflex 221 300 ml gris",
+    "precio": "21.311"
+  },
+  {
+    "nombre": "Sikaflex 221 300 ml negro",
+    "precio": "21.311"
+  },
+  {
+    "nombre": "Sikaflex 221 600 ml blanco",
+    "precio": "28.548"
+  },
+  {
+    "nombre": "Sikaflex 221 600 ml gris",
+    "precio": "28.548"
+  },
+  {
+    "nombre": "Sikaflex 221 600 ml negro",
+    "precio": "28.548"
+  },
+  {
+    "nombre": "Sikaflex pro 3 unipack 600 ml gris",
+    "precio": "45.472"
+  },
+  {
+    "nombre": "Sikafloor 161 bidon 25 kg",
+    "precio": "1.145.201"
+  },
+  {
+    "nombre": "Sikafloor 200 level x 25 kg",
+    "precio": "45.759"
+  },
+  {
+    "nombre": "Sikafloor 263 jgo pred 30 kg beige ral 1015",
+    "precio": "1.196.698"
+  },
+  {
+    "nombre": "Sikafloor 263 jgo pred 30 kg gris claro ral 7040",
+    "precio": "1.181.057"
+  },
+  {
+    "nombre": "Sikafloor 263 jgo pred 30 kg gris medio ral 7046",
+    "precio": "1.196.698"
+  },
+  {
+    "nombre": "Sikafloor 3 quartz top bolsa 25 kg gris",
+    "precio": "25.148"
+  },
+  {
+    "nombre": "Sikafloor 82 epocem c bolsa 30 kg",
+    "precio": "30.608"
+  },
+  {
+    "nombre": "Sikafloor antiderrapante bolsa 35 kg",
+    "precio": "57.381"
+  },
+  {
+    "nombre": "Sikafloor autonivelante bolsa 30 kg",
+    "precio": "57.098"
+  },
+  {
+    "nombre": "Sikafloor color seal lata 20 lts gris medio",
+    "precio": "430.211"
+  },
+  {
+    "nombre": "Sikafloor curehard 24 x 20kg",
+    "precio": "40.860"
+  },
+  {
+    "nombre": "Sikafloor epocem modulo a+b 28 kg",
+    "precio": "982.976"
+  },
+  {
+    "nombre": "Sikafloor mortero bolsa 35 kg",
+    "precio": "56.942"
+  },
+  {
+    "nombre": "Sikafloor n purcem ral 3013 a+b 4 kg",
+    "precio": "151.123"
+  },
+  {
+    "nombre": "Sikafloor n purcem ral 7042 a+b 4 kg",
+    "precio": "135.084"
+  },
+  {
+    "nombre": "Sikafloor n purcem ral 7046 a+b 4 kg",
+    "precio": "142.189"
+  },
+  {
+    "nombre": "Sikafloor purcem 20 n comp c 18 kg",
+    "precio": "38.259"
+  },
+  {
+    "nombre": "Sikafloor purcem 21 n c x 9,33 kg",
+    "precio": "35.163"
+  },
+  {
+    "nombre": "Sikafloor purcem 29 n comp c x 20,8 kg",
+    "precio": "47.912"
+  },
+  {
+    "nombre": "Sikafloor purcem 31 n c x 9 kg",
+    "precio": "41.291"
+  },
+  {
+    "nombre": "Sikagard 720 epocem lata 10 kg",
+    "precio": "312.446"
+  },
+  {
+    "nombre": "Sikagrout 212 bolsa 25 kg",
+    "precio": "21.014"
+  },
+  {
+    "nombre": "Sikagrout 212 x kg",
+    "precio": "729"
+  },
+  {
+    "nombre": "Sikagrout 328 bolsa 25 kg",
+    "precio": "46.812"
+  },
+  {
+    "nombre": "Sikaguard 62 jgo predos 25 kg blanco",
+    "precio": "1.356.944"
+  },
+  {
+    "nombre": "Sikaguard 62 jgo predos 25 kg gris claro",
+    "precio": "1.275.495"
+  },
+  {
+    "nombre": "Sikaguard 62 jgo predos 25 kg gris medio",
+    "precio": "1.275.697"
+  },
+  {
+    "nombre": "Sikaguard 65 jgo 25 kg gris claro",
+    "precio": "920.693"
+  },
+  {
+    "nombre": "Sikaguard 65 jgo 25 kg gris medio",
+    "precio": "883.808"
+  },
+  {
+    "nombre": "Sikaguard 700 s lata 20 lts",
+    "precio": "227.609"
+  },
+  {
+    "nombre": "Sikaguard 700 s lata 4 lts",
+    "precio": "59.877"
+  },
+  {
+    "nombre": "Sikaguard 700 s tambor 200 lts",
+    "precio": "2.531.719"
+  },
+  {
+    "nombre": "Sikaguard 700 s x lt",
+    "precio": "16.865"
+  },
+  {
+    "nombre": "Sikaguard acryl balde 20 lts blanco",
+    "precio": "191.407"
+  },
+  {
+    "nombre": "Sikaguard acryl x lt blanco",
+    "precio": "12.592"
+  },
+  {
+    "nombre": "Sikaguard antihumedad balde 4 lts",
+    "precio": "41.686"
+  },
+  {
+    "nombre": "Sikaguard antihumedad x lt.",
+    "precio": "14.035"
+  },
+  {
+    "nombre": "Sikaguard ladrillos prof. x 20 lts",
+    "precio": "45.920"
+  },
+  {
+    "nombre": "Sikaguard ladrillos transp x 20 lts",
+    "precio": "143.686"
+  },
+  {
+    "nombre": "Sikaguard ladrillos transp x 4 lts",
+    "precio": "31.044"
+  },
+  {
+    "nombre": "Sikalastic 560 10 kg bco fibrado",
+    "precio": "117.885"
+  },
+  {
+    "nombre": "Sikalastic 560 20 kg bco fibrado",
+    "precio": "204.748"
+  },
+  {
+    "nombre": "Sikalastic 560 5 kg bco",
+    "precio": "68.706"
+  },
+  {
+    "nombre": "Sikalastic 560 5 kg rojo",
+    "precio": "68.706"
+  },
+  {
+    "nombre": "Sikalastic 560 x kg blanco",
+    "precio": "18.320"
+  },
+  {
+    "nombre": "Sikalastic 612 25 kg gris",
+    "precio": "461.555"
+  },
+  {
+    "nombre": "Sikalastic 612 x kg gris",
+    "precio": "21.077"
+  },
+  {
+    "nombre": "Sikalastic frentes bl 20 lt",
+    "precio": "255.801"
+  },
+  {
+    "nombre": "Sikalastic frentes x lt.",
+    "precio": "15.520"
+  },
+  {
+    "nombre": "Sikament 235 e contenedor 1000 kg",
+    "precio": "8.530.587"
+  },
+  {
+    "nombre": "Sikament 235 e tambor 210 kg",
+    "precio": "836.752"
+  },
+  {
+    "nombre": "Sikament 235 e x kg",
+    "precio": "4.244"
+  },
+  {
+    "nombre": "Sikament 90 e 1 kg",
+    "precio": "3.795"
+  },
+  {
+    "nombre": "Sikament 90 e 1000 kg",
+    "precio": "4.473.144"
+  },
+  {
+    "nombre": "Sikament 90 e tambor 240 kg",
+    "precio": "1.275.449"
+  },
+  {
+    "nombre": "Sikament cr tambor 220 kg",
+    "precio": "1.656.420"
+  },
+  {
+    "nombre": "Sikament cr x kg",
+    "precio": "8.490"
+  },
+  {
+    "nombre": "Sikament r contenedor 1000 kg",
+    "precio": "2.105.276"
+  },
+  {
+    "nombre": "Sikament r kg",
+    "precio": "3.559"
+  },
+  {
+    "nombre": "Sikament r tambor 220 kg",
+    "precio": "913.363"
+  },
+  {
+    "nombre": "Sikament s plus 1 kg",
+    "precio": "5.509"
+  },
+  {
+    "nombre": "Sikament s plus contenedor 1000 kg",
+    "precio": "4.859.712"
+  },
+  {
+    "nombre": "Sikament s plus tambor 220 kg",
+    "precio": "1.759.734"
+  },
+  {
+    "nombre": "Sikamur injectocream 100 cartucho 300 ml",
+    "precio": "30.803"
+  },
+  {
+    "nombre": "Sikapaver ae-1 tambor 200 kg",
+    "precio": "1.183.379"
+  },
+  {
+    "nombre": "Sikaporo plus 1 kg",
+    "precio": "17.216"
+  },
+  {
+    "nombre": "Sikaporo plus balde 10 kg",
+    "precio": "130.874"
+  },
+  {
+    "nombre": "Sikaporo plus tambor 200 kg",
+    "precio": "2.106.546"
+  },
+  {
+    "nombre": "Soda caustica perlada x 1kg",
+    "precio": "2.375"
+  },
+  {
+    "nombre": "Soda caustica perlada x 1kg",
+    "precio": "2.306"
+  },
+  {
+    "nombre": "Solucion alcalina * x1l",
+    "precio": "3.768"
+  },
+  {
+    "nombre": "Solucion alcalina * x1l",
+    "precio": "3.658"
+  },
+  {
+    "nombre": "Telgopor 1x1x10mm",
+    "precio": "953"
+  },
+  {
+    "nombre": "Telgopor 1x1x10mm",
+    "precio": "926"
+  },
+  {
+    "nombre": "Telgopor 1x1x20mm",
+    "precio": "1.922"
+  },
+  {
+    "nombre": "Telgopor 1x1x20mm",
+    "precio": "1.866"
+  },
+  {
+    "nombre": "Telgopor 1x1x30mm",
+    "precio": "2.883"
+  },
+  {
+    "nombre": "Telgopor 1x1x30mm",
+    "precio": "2.799"
+  },
+  {
+    "nombre": "Telgopor 1x1x40mm",
+    "precio": "3.844"
+  },
+  {
+    "nombre": "Telgopor 1x1x40mm",
+    "precio": "3.732"
+  },
+  {
+    "nombre": "Telgopor 1x1x50mm",
+    "precio": "4.798"
+  },
+  {
+    "nombre": "Telgopor 1x1x50mm",
+    "precio": "4.658"
+  },
+  {
+    "nombre": "Telgopor molido bolsa",
+    "precio": "5.552"
+  },
+  {
+    "nombre": "Telgopor molido bolsa",
+    "precio": "5.391"
+  },
+  {
+    "nombre": "Vigueta pretensada 100cm",
+    "precio": "2.700"
+  },
+  {
+    "nombre": "Vigueta pretensada 120cm",
+    "precio": "3.241"
+  },
+  {
+    "nombre": "Vigueta pretensada 140cm",
+    "precio": "3.782"
+  },
+  {
+    "nombre": "Vigueta pretensada 160cm",
+    "precio": "4.323"
+  },
+  {
+    "nombre": "Vigueta pretensada 180cm",
+    "precio": "4.862"
+  },
+  {
+    "nombre": "Vigueta pretensada 200cm",
+    "precio": "5.402"
+  },
+  {
+    "nombre": "Vigueta pretensada 220cm",
+    "precio": "5.944"
+  },
+  {
+    "nombre": "Vigueta pretensada 240cm",
+    "precio": "6.485"
+  },
+  {
+    "nombre": "Vigueta pretensada 260cm",
+    "precio": "7.023"
+  },
+  {
+    "nombre": "Vigueta pretensada 280cm",
+    "precio": "7.564"
+  },
+  {
+    "nombre": "Vigueta pretensada 300cm",
+    "precio": "8.106"
+  },
+  {
+    "nombre": "Vigueta pretensada 320cm",
+    "precio": "9.051"
+  },
+  {
+    "nombre": "Vigueta pretensada 340cm",
+    "precio": "9.618"
+  },
+  {
+    "nombre": "Vigueta pretensada 360cm",
+    "precio": "10.371"
+  },
+  {
+    "nombre": "Vigueta pretensada 380cm",
+    "precio": "10.947"
+  },
+  {
+    "nombre": "Vigueta pretensada 400cm",
+    "precio": "11.524"
+  },
+  {
+    "nombre": "Vigueta pretensada 420cm",
+    "precio": "12.100"
+  },
+  {
+    "nombre": "Vigueta pretensada 440cm",
+    "precio": "14.149"
+  },
+  {
+    "nombre": "Vigueta pretensada 460cm",
+    "precio": "14.793"
+  },
+  {
+    "nombre": "Vigueta pretensada 480cm",
+    "precio": "17.228"
+  },
+  {
+    "nombre": "Vigueta pretensada 500cm",
+    "precio": "17.943"
+  },
+  {
+    "nombre": "Vigueta pretensada 520cm",
+    "precio": "18.664"
+  },
+  {
+    "nombre": "Vigueta pretensada 540cm",
+    "precio": "19.382"
+  },
+  {
+    "nombre": "Vigueta pretensada 560cm",
+    "precio": "23.273"
+  },
+  {
+    "nombre": "Vigueta pretensada 580cm",
+    "precio": "24.105"
+  },
+  {
+    "nombre": "Vigueta pretensada 600cm",
+    "precio": "25.089"
+  },
+  {
+    "nombre": "Vigueta pretensada 620cm",
+    "precio": "25.923"
+  },
+  {
+    "nombre": "Vigueta pretensada 640cm",
+    "precio": "31.665"
+  },
+  {
+    "nombre": "Vigueta pretensada 660cm",
+    "precio": "32.656"
+  },
+  {
+    "nombre": "Vigueta pretensada 680cm",
+    "precio": "33.746"
+  },
+  {
+    "nombre": "Vigueta pretensada 700cm",
+    "precio": "34.739"
+  },
+  {
+    "nombre": "Vigueta pretensada 720cm",
+    "precio": "35.734"
+  },
+  {
+    "nombre": "Vigueta tensolite autoportante 380cm",
+    "precio": "9.205"
+  },
+  {
+    "nombre": "Vigueta tensolite autoportante 400cm",
+    "precio": "9.688"
+  },
+  {
+    "nombre": "Vigueta tensolite autoportante 480cm",
+    "precio": "12.070"
+  },
+  {
+    "nombre": "Vigueta tensolite autoportante 520cm",
+    "precio": "16.295"
+  },
+  {
+    "nombre": "Viguetas 1.00 mt 1ª calidad",
+    "precio": "2.449"
+  },
+  {
+    "nombre": "Viguetas 1.00 mt 1ª calidad",
+    "precio": "2.378"
+  },
+  {
+    "nombre": "Viguetas 1.20 mt 1ª calidad",
+    "precio": "2.939"
+  },
+  {
+    "nombre": "Viguetas 1.20 mt 1ª calidad",
+    "precio": "2.853"
+  },
+  {
+    "nombre": "Viguetas 1.40 mt 1ª calidad",
+    "precio": "3.429"
+  },
+  {
+    "nombre": "Viguetas 1.40 mt 1ª calidad",
+    "precio": "3.329"
+  },
+  {
+    "nombre": "Viguetas 1.60 mt 1ª calidad",
+    "precio": "3.919"
+  },
+  {
+    "nombre": "Viguetas 1.60 mt 1ª calidad",
+    "precio": "3.805"
+  },
+  {
+    "nombre": "Viguetas 1.80 mt 1ª calidad",
+    "precio": "4.408"
+  },
+  {
+    "nombre": "Viguetas 1.80 mt 1ª calidad",
+    "precio": "4.280"
+  },
+  {
+    "nombre": "Viguetas 2.00 mt 1ª calidad",
+    "precio": "4.898"
+  },
+  {
+    "nombre": "Viguetas 2.00 mt 1ª calidad",
+    "precio": "4.756"
+  },
+  {
+    "nombre": "Viguetas 2.20 mt 1ª calidad",
+    "precio": "5.388"
+  },
+  {
+    "nombre": "Viguetas 2.20 mt 1ª calidad",
+    "precio": "5.231"
+  },
+  {
+    "nombre": "Viguetas 2.40 mt 1ª calidad",
+    "precio": "5.878"
+  },
+  {
+    "nombre": "Viguetas 2.40 mt 1ª calidad",
+    "precio": "5.707"
+  },
+  {
+    "nombre": "Viguetas 2.60 mt 1ª calidad",
+    "precio": "6.368"
+  },
+  {
+    "nombre": "Viguetas 2.60 mt 1ª calidad",
+    "precio": "6.182"
+  },
+  {
+    "nombre": "Viguetas 2.80 mt 1ª calidad",
+    "precio": "6.857"
+  },
+  {
+    "nombre": "Viguetas 2.80 mt 1ª calidad",
+    "precio": "6.658"
+  },
+  {
+    "nombre": "Viguetas 3.00 mt 1ª calidad",
+    "precio": "7.347"
+  },
+  {
+    "nombre": "Viguetas 3.00 mt 1ª calidad",
+    "precio": "7.133"
+  },
+  {
+    "nombre": "Viguetas 3.20 mt 1ª calidad",
+    "precio": "7.894"
+  },
+  {
+    "nombre": "Viguetas 3.20 mt 1ª calidad",
+    "precio": "7.664"
+  },
+  {
+    "nombre": "Viguetas 3.40 mt 1ª calidad",
+    "precio": "8.390"
+  },
+  {
+    "nombre": "Viguetas 3.40 mt 1ª calidad",
+    "precio": "8.146"
+  },
+  {
+    "nombre": "Viguetas 3.60 mt 1ª calidad",
+    "precio": "9.100"
+  },
+  {
+    "nombre": "Viguetas 3.60 mt 1ª calidad",
+    "precio": "8.835"
+  },
+  {
+    "nombre": "Viguetas 3.80 mt 1ª calidad",
+    "precio": "9.579"
+  },
+  {
+    "nombre": "Viguetas 3.80 mt 1ª calidad",
+    "precio": "9.300"
+  },
+  {
+    "nombre": "Viguetas 4.00 mt 1ª calidad",
+    "precio": "10.555"
+  },
+  {
+    "nombre": "Viguetas 4.00 mt 1ª calidad",
+    "precio": "10.247"
+  },
+  {
+    "nombre": "Viguetas 4.20 mt 1ª calidad",
+    "precio": "11.087"
+  },
+  {
+    "nombre": "Viguetas 4.20 mt 1ª calidad",
+    "precio": "10.764"
+  },
+  {
+    "nombre": "Viguetas 4.40 mt 1ª calidad",
+    "precio": "12.949"
+  },
+  {
+    "nombre": "Viguetas 4.40 mt 1ª calidad",
+    "precio": "12.572"
+  },
+  {
+    "nombre": "Viguetas 4.60 mt 1ª calidad",
+    "precio": "13.482"
+  },
+  {
+    "nombre": "Viguetas 4.60 mt 1ª calidad",
+    "precio": "13.089"
+  },
+  {
+    "nombre": "Viguetas 4.80 mt 1ª calidad",
+    "precio": "15.966"
+  },
+  {
+    "nombre": "Viguetas 4.80 mt 1ª calidad",
+    "precio": "15.501"
+  },
+  {
+    "nombre": "Viguetas 5.00 mt 1ª calidad",
+    "precio": "16.586"
+  },
+  {
+    "nombre": "Viguetas 5.00 mt 1ª calidad",
+    "precio": "16.103"
+  },
+  {
+    "nombre": "Viguetas 5.20 mt 1ª calidad",
+    "precio": "17.295"
+  },
+  {
+    "nombre": "Viguetas 5.20 mt 1ª calidad",
+    "precio": "16.792"
+  },
+  {
+    "nombre": "Viguetas 5.40 mt 1ª calidad",
+    "precio": "17.944"
+  },
+  {
+    "nombre": "Viguetas 5.40 mt 1ª calidad",
+    "precio": "17.421"
+  },
+  {
+    "nombre": "Viguetas 5.60 mt 1ª calidad",
+    "precio": "22.618"
+  },
+  {
+    "nombre": "Viguetas 5.60 mt 1ª calidad",
+    "precio": "21.959"
+  },
+  {
+    "nombre": "Viguetas 5.80 mt 1ª calidad",
+    "precio": "23.415"
+  },
+  {
+    "nombre": "Viguetas 5.80 mt 1ª calidad",
+    "precio": "22.733"
+  },
+  {
+    "nombre": "Viguetas 6.00 mt 1ª calidad",
+    "precio": "24.213"
+  },
+  {
+    "nombre": "Viguetas 6.00 mt 1ª calidad",
+    "precio": "23.508"
+  },
+  {
+    "nombre": "Viguetas 6.20 mt 1ª calidad",
+    "precio": "25.013"
+  },
+  {
+    "nombre": "Viguetas 6.20 mt 1ª calidad",
+    "precio": "24.285"
+  },
+  {
+    "nombre": "Viguetas 6.40 mt 1ª calidad",
+    "precio": "30.512"
+  },
+  {
+    "nombre": "Viguetas 6.40 mt 1ª calidad",
+    "precio": "29.623"
+  },
+  {
+    "nombre": "Viguetas 6.60 mt 1ª calidad",
+    "precio": "31.577"
+  },
+  {
+    "nombre": "Viguetas 6.60 mt 1ª calidad",
+    "precio": "30.657"
+  },
+  {
+    "nombre": "Viguetas 6.80 mt 1ª calidad",
+    "precio": "32.462"
+  },
+  {
+    "nombre": "Viguetas 6.80 mt 1ª calidad",
+    "precio": "31.517"
+  },
+  {
+    "nombre": "Viguetas 7.00 mt 1ª calidad",
+    "precio": "33.439"
+  },
+  {
+    "nombre": "Viguetas 7.00 mt 1ª calidad",
+    "precio": "32.465"
+  },
+  {
+    "nombre": "Viguetas 7.20 mt 1ª calidad",
+    "precio": "34.414"
+  },
+  {
+    "nombre": "Viguetas 7.20 mt 1ª calidad",
+    "precio": "33.412"
+  },
+  {
+    "nombre": "W climamur x 7 kg",
+    "precio": "16.078"
+  },
+  {
+    "nombre": "W desmoldante arena x 7 kg",
+    "precio": "31.378"
+  },
+  {
+    "nombre": "W desmoldante blanco x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W desmoldante gris claro x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W desmoldante gris oscuro x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W desmoldante terra x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W desmoldante terracota x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W desmoldante verde x 7 kg",
+    "precio": "32.104"
+  },
+  {
+    "nombre": "W dur x 25 kg",
+    "precio": "46.473"
+  },
+  {
+    "nombre": "W fino exterior forte x 25 kg",
+    "precio": "7.247"
+  },
+  {
+    "nombre": "W fino x 25 kg",
+    "precio": "6.689"
+  },
+  {
+    "nombre": "Yeso 1 kg",
+    "precio": "327"
+  },
+  {
+    "nombre": "Yeso knauf baugips (obra) x 25kg",
+    "precio": "7.759"
+  },
+  {
+    "nombre": "Yeso knauf mp75 (monoc proyect) x 25kg",
+    "precio": "11.388"
+  },
+  {
+    "nombre": "Yeso knauf obra tradicional x 25kg",
+    "precio": "7.961"
+  },
+  {
+    "nombre": "Yeso knauf rotband (monoc manual) 30 kg",
+    "precio": "11.946"
+  },
+  {
+    "nombre": "Yeso repared x 1,5kg",
+    "precio": "4.002"
+  }
+]

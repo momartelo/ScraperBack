@@ -1,0 +1,58 @@
+[
+  {
+    "product": {
+      "name": "Hierro de Construcción Aletado",
+      "price": "8.616,72",
+      "supplier": "Hierros Caruso",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "Hierro de Construcción Aletado Ø 8 mm – Acindar",
+      "price": "8.891,20",
+      "supplier": "Centrosider",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "BARRA DE CONSTRUCCION CONFORMADO DN 42 - 6 MM X 12 MTS.",
+      "price": "7.864,37",
+      "supplier": "Plastigas",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "Hierro del 8",
+      "price": "8.339 ",
+      "supplier": "Victor Vega",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "Acindar Varilla Hierro Construccion 8 Mm X 12mts",
+      "price": "9.980",
+      "supplier": "Red Acindar",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "Hierro Redondo Adn 8 Mm. X 12 M.",
+      "price": "9.110",
+      "supplier": "Easy",
+      "diameter": "8"
+    }
+  },
+  {
+    "product": {
+      "name": "BARRA HIERRO 8MM ACINDAR (4.740)",
+      "price": "8,224.87",
+      "supplier": "Itar",
+      "diameter": "8"
+    }
+  }
+]

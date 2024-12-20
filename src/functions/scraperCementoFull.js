@@ -162,7 +162,7 @@ export const scrapeCemento = async () => {
     );
     console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
     return {
-      message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
+      message: `Los Datos fueron guardados en ${path.join(jsonDirectory, fileName)}`,
       fileName: fileName,
       productos: cementos,
     };

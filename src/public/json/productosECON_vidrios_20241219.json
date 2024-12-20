@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Espejo 3mm x m2",
+    "precio": "9.963"
+  },
+  {
+    "nombre": "Espejo 4mm x m2",
+    "precio": "11.897"
+  },
+  {
+    "nombre": "Vidrio float incoloro 3mm x m2",
+    "precio": "4.750"
+  },
+  {
+    "nombre": "Vidrio float incoloro 4mm x m2",
+    "precio": "5.746"
+  },
+  {
+    "nombre": "Vidrio float incoloro 5mm x m2",
+    "precio": "8.186"
+  },
+  {
+    "nombre": "Vidrio float incoloro 6mm x m2",
+    "precio": "11.145"
+  },
+  {
+    "nombre": "Vidrio laminado de seguridad 3+3mm x m2",
+    "precio": "22.069"
+  },
+  {
+    "nombre": "Vidrio laminado de seguridad 4+4mm x m2",
+    "precio": "30.245"
+  },
+  {
+    "nombre": "Vidrio laminado de seguridad 5+5mm x m2",
+    "precio": "35.061"
+  }
+]

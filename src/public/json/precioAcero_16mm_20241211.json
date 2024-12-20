@@ -1,0 +1,50 @@
+[
+  {
+    "product": {
+      "name": "Hierro de Construcción Aletado",
+      "price": "33.759,37",
+      "supplier": "Hierros Caruso",
+      "diameter": "16"
+    }
+  },
+  {
+    "product": {
+      "name": "Hierro de Construcción Aletado Ø 16 mm – Acindar",
+      "price": "34.793,87",
+      "supplier": "Centrosider",
+      "diameter": "16"
+    }
+  },
+  {
+    "product": {
+      "name": "BARRA DE CONSTRUCCION CONFORMADO DN 42 - 6 MM X 12 MTS.",
+      "price": "30.679,52",
+      "supplier": "Plastigas",
+      "diameter": "16"
+    }
+  },
+  {
+    "product": {
+      "name": "Hierro del 16",
+      "price": "31.802 ",
+      "supplier": "Victor Vega",
+      "diameter": "16"
+    }
+  },
+  {
+    "product": {
+      "name": "Acindar Varilla Hierro Para Construccion 16 Mm X 12mts X Un",
+      "price": "40.356",
+      "supplier": "Red Acindar",
+      "diameter": "16"
+    }
+  },
+  {
+    "product": {
+      "name": "BARRA HIERRO 16MM ACINDAR (18.960)",
+      "price": "32,090.82",
+      "supplier": "Itar",
+      "diameter": "16"
+    }
+  }
+]
