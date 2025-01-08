@@ -57,8 +57,9 @@ async function scrapePage(url) {
     items.each((index, element) => {
       const nombre = $(element).find("h1 a").text().trim();
       const precio = $(element).find(".price b").text().trim();
+      const proveedor = $(element).find(".provider").text().trim();
 
-      productos.push({ nombre, precio });
+      productos.push({ nombre, precio, proveedor });
     });
 
     return true;
