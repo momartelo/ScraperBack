@@ -37,7 +37,7 @@ export const scrapeData = async (word) => {
 
       products.each((index, element) => {
         const title = $(element)
-          .find("h2.poly-component__title a")
+          .find("h2.poly-component__title-wrapper a")
           .text()
           .trim();
         const price = $(element)

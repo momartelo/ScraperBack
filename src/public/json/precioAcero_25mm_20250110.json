@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Hierro de Construcción Aletado",
+    "price": "84.654,57",
+    "supplier": "Hierros Caruso",
+    "diameter": "25"
+  },
+  {
+    "name": "Hierro de Construcción Aletado Ø 25 mm – Acindar",
+    "price": "86.500,85",
+    "supplier": "Centrosider",
+    "diameter": "25"
+  },
+  {
+    "name": "BARRA DE CONSTRUCCION CONFORMADO DN 42 - 6 MM X 12 MTS.",
+    "price": "77.540,96",
+    "supplier": "Plastigas",
+    "diameter": "25"
+  },
+  {
+    "name": "Hierro del 25",
+    "price": "77.492 ",
+    "supplier": "Victor Vega",
+    "diameter": "25"
+  },
+  null,
+  {
+    "name": "BARRA HIERRO 25MM ACINDAR (46.200)",
+    "price": "78.444,24",
+    "supplier": "Itar",
+    "diameter": "25"
+  }
+]

@@ -424,7 +424,7 @@ const getPriceSteelItar = async (diameter) => {
 
       const result = {
         name: nombre,
-        price: cleanPrice(price), // Asegúrate de definir la función 'cleanPrice'
+        price: priceRegulator(price), // Asegúrate de definir la función 'cleanPrice'
         supplier: proveedor,
         diameter: diameter,
       };

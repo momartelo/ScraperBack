@@ -39,15 +39,28 @@ export const ctrlGraphics = async (req, res) => {
         );
 
         fileContent.forEach((item) => {
-          const productKey = item.nombre.toLowerCase();
+          if (
+            !item ||
+            (!item.nombre && !item.name) ||
+            (!item.precio && !item.price)
+          ) {
+            console.warn(
+              `Producto invalido encontrado en el archivo ${file}, se omite:`,
+              item
+            );
+            return;
+          }
+          const productKey = (item.nombre || item.name || "")
+            .toLowerCase()
+            .trim();
           if (!products[productKey]) {
             products[productKey] = [];
           }
           products[productKey].push({
             fecha: fileDate,
-            proveedor: item.empresa || item.proveedor,
-            nombre: item.nombre,
-            precio: item.precio,
+            proveedor: item.empresa || item.proveedor || item.supplier,
+            nombre: item.nombre || item.name,
+            precio: item.precio || item.price,
           });
         });
       } catch (error) {

@@ -1,58 +1,44 @@
 [
   {
-    "product": {
-      "name": "Hierro de Construcción Aletado",
-      "price": "4.662,93",
-      "supplier": "Hierros Caruso",
-      "diameter": "6"
-    }
+    "name": "Hierro de Construcción Aletado",
+    "price": "4.662,93",
+    "supplier": "Hierros Caruso",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "Hierro de Construcción Aletado Ø 6 mm – Acindar",
-      "price": "5.225,85",
-      "supplier": "Centrosider",
-      "diameter": "6"
-    }
+    "name": "Hierro de Construcción Aletado Ø 6 mm – Acindar",
+    "price": "5.225,85",
+    "supplier": "Centrosider",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "BARRA DE CONSTRUCCION CONFORMADO DN 42 - 6 MM X 12 MTS.",
-      "price": "4.549,19",
-      "supplier": "Plastigas",
-      "diameter": "6"
-    }
+    "name": "BARRA DE CONSTRUCCION CONFORMADO DN 42 - 6 MM X 12 MTS.",
+    "price": "4.549,19",
+    "supplier": "Plastigas",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "Hierro del 6",
-      "price": "4.814 ",
-      "supplier": "Victor Vega",
-      "diameter": "6"
-    }
+    "name": "Hierro del 6",
+    "price": "4.814 ",
+    "supplier": "Victor Vega",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "Acindar Varilla Hierro Para Construcción 6 Mm X 12mts X Un",
-      "price": "5.866",
-      "supplier": "Red Acindar",
-      "diameter": "6"
-    }
+    "name": "Acindar Varilla Hierro Para Construcción 6 Mm X 12mts X Un",
+    "price": "5.866",
+    "supplier": "Red Acindar",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "Hierro Redondo Adn 6 Mm. x 12 M.",
-      "price": "5.470",
-      "supplier": "Easy",
-      "diameter": "6"
-    }
+    "name": "Hierro Redondo Adn 6 Mm. x 12 M.",
+    "price": "5.470",
+    "supplier": "Easy",
+    "diameter": "6"
   },
   {
-    "product": {
-      "name": "BARRA HIERRO 6MM ACINDAR (2.664)",
-      "price": "4,835.89",
-      "supplier": "Itar",
-      "diameter": "6"
-    }
+    "name": "BARRA HIERRO 6MM ACINDAR (2.664)",
+    "price": "4.835,89",
+    "supplier": "Itar",
+    "diameter": "6"
   }
 ]
