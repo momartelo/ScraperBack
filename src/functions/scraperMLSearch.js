@@ -37,34 +37,49 @@ export const scrapeData = async (word) => {
 
       products.each((index, element) => {
         const title = $(element)
-          .find("h2.poly-component__title-wrapper a")
+          .find("h3.poly-component__title-wrapper a")
           .text()
           .trim();
+
+        // Precio principal
         const price = $(element)
           .find("div.poly-price__current span.andes-money-amount__fraction")
+          .first() // Solo toma el primer precio (el principal)
           .text()
           .trim();
+
+        // Precio alternativo (si existe)
+        const alternativePrice = $(element)
+          .find(
+            "a.poly-buy-box__alternative-option div.poly-price__current span.andes-money-amount__fraction"
+          )
+          .text()
+          .trim();
+
         const RegularPrice = $(element)
           .find("s.andes-money-amount span.andes-money-amount__fraction")
           .text()
           .trim();
+
         const rating = $(element)
           .find("span.poly-reviews__rating")
           .text()
           .trim();
+
         const reviews = $(element)
           .find("span.poly-reviews__total")
           .text()
           .trim();
+
         const productUrl = $(element)
-          .find("h2.poly-component__title a")
+          .find("h3.poly-component__title-wrapper a")
           .attr("href");
 
-        // Extraer más campos si es necesario
-
+        // Guardar ambos precios en el objeto del producto
         allItems.push({
           title,
-          price,
+          price, // Precio principal
+          alternativePrice, // Precio alternativo
           RegularPrice,
           rating,
           reviews,
@@ -89,10 +104,6 @@ export const scrapeData = async (word) => {
     }
   }
 
-  // const today = new Date();
-  // const formattedDate = today.toISOString().slice(0, 10).replace(/-/g, "");
-  // const fileName = `productosSearchML_${word}_${formattedDate}.json`;
-
   const today = new Date(); // Obtener la fecha y hora locales
   const year = today.getFullYear();
   const month = String(today.getMonth() + 1).padStart(2, "0"); // Los meses en JavaScript son base 0
@@ -114,11 +125,8 @@ export const scrapeData = async (word) => {
 
   console.log(`Datos guardados en ${path.join(jsonDirectory, fileName)}`);
 
-  // fs.writeFileSync(fileName, JSON.stringify(allItems, null, 2));
-  // console.log(`Datos guardados en ${fileName}`);
   return {
     message: `Datos guardados en ${path.join(jsonDirectory, fileName)}`,
-    // message: `Datos guardados en ${fileName}`,
     fileName: fileName,
     productos: allItems,
   };

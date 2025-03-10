@@ -1,0 +1,32 @@
+[
+  {
+    "empresa": "imepho",
+    "nombre": "CEMENTO PORTLAND X 50 KG",
+    "precio": "$10.197,19",
+    "marca": "MARCA: LOMA NEGRA"
+  },
+  {
+    "empresa": "rutenia",
+    "nombre": "CEMENTOS AVELLANEDA",
+    "precio": "$ 14.374",
+    "marca": "CEMENTOS AVELLANEDA"
+  },
+  {
+    "empresa": "marchal",
+    "nombre": "CEMENTO 50 KG AVELLANEDA",
+    "precio": "$10.600,00",
+    "marca": "CEMENTO 50 KG AVELLANEDA"
+  },
+  {
+    "empresa": "vega",
+    "nombre": "Cemento Avellaneda 50kg",
+    "precio": "10234",
+    "marca": "Avellaneda"
+  },
+  {
+    "empresa": "easy",
+    "nombre": "Cemento 50Kg Loma Negra",
+    "precio": "$10.049",
+    "marca": "Loma Negra"
+  }
+]
